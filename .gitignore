@@ -1,0 +1,46 @@
+﻿# PaoSMP Server - gitignore
+# Large binaries & runtime
+paper.jar
+paper-*.jar.bak
+PaoSMP.zip
+cache/
+libraries/
+versions/
+world/
+world_*/
+world_nether*/
+world_the_end*/
+logs/
+plugins/Nexo/pack/pack.zip
+plugins/Nexo/pack/.cache/
+plugins/Nexo/pack/.assetCache/
+plugins/Nexo/pack/.deobfCachedPacks/
+plugins/.paper-remapped/
+plugins/bStats/
+plugins/spark/tmp/
+.tmp
+
+# OS & PM2
+.DS_Store
+Thumbs.db
+.pm2/
+dump.pm2
+*.log
+
+# Secrets
+ops.json
+whitelist.json
+banned-*.json
+usercache.json
+usernamecache.json
+session.lock
+
+# Keep these
+!ecosystem.config.js
+!pack-host.js
+!server.properties
+!eula.txt
+!README.txt
+version_history.json
+yellow.yml
+
