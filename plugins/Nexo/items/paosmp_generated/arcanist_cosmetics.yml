@@ -1,0 +1,48 @@
+info:
+  namespace: arcanist_cosmetics
+items:
+  arcanist_cosmetics_backpack:
+    display_name: Arcanist Cosmetics Backpack
+    material: PAPER
+    Pack:
+      model: arcanistset:backpack_cosmetics
+  arcanist_cosmetics_backpack_normal_2:
+    display_name: Arcanist Cosmetics Backpack Normal 2
+    material: PAPER
+    Pack:
+      model: arcanistset:backpack_cosmetics_normal_2
+  arcanist_cosmetics_backpack_self:
+    display_name: Arcanist Cosmetics Backpack Self
+    material: PAPER
+    Pack:
+      model: arcanistset:backpack_cosmetics_self
+  arcanist_cosmetics_backpack_self_2:
+    display_name: Arcanist Cosmetics Backpack Self 2
+    material: PAPER
+    Pack:
+      model: arcanistset:backpack_cosmetics_self_2
+  arcanist_cosmetics_hat:
+    display_name: Arcanist Cosmetics Hat
+    material: PAPER
+    Pack:
+      model: arcanistset:helmet
+  arcanist_cosmetics_wings:
+    display_name: Arcanist Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: arcanistset:wings_cosmetics
+  arcanist_cosmetics_wings_normal_2:
+    display_name: Arcanist Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: arcanistset:wings_cosmetics_normal_2
+  arcanist_cosmetics_wings_self:
+    display_name: Arcanist Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: arcanistset:wings_cosmetics_self
+  arcanist_cosmetics_wings_self_2:
+    display_name: Arcanist Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: arcanistset:wings_cosmetics_self_2

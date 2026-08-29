@@ -1,0 +1,21 @@
+info:
+  namespace: md_bed
+items:
+  md_bed_blue:
+    display_name: Md Bed Blue
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_bed_blue
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_bed_carpet:
+    display_name: Md Bed Carpet
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_bed_carpet
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

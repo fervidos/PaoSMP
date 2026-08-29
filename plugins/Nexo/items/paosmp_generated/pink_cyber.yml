@@ -1,0 +1,90 @@
+info:
+  namespace: pink_cyber
+items:
+  pink_cyber_axe:
+    display_name: Pink Cyber Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_axe
+  pink_cyber_boots:
+    display_name: Pink Cyber Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/pink_cyber_boots
+    Components:
+      equippable:
+        slot: FEET
+  pink_cyber_bow:
+    display_name: Pink Cyber Bow
+    material: BOW
+    Pack:
+      model: nexo:item/pink_cyber_bow
+  pink_cyber_chestplate:
+    display_name: Pink Cyber Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/pink_cyber_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  pink_cyber_crate:
+    display_name: Pink Cyber Crate
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_crate
+  pink_cyber_crate_open:
+    display_name: Pink Cyber Crate Open
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_crate_open
+  pink_cyber_helmet:
+    display_name: Pink Cyber Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/pink_cyber_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  pink_cyber_hoe:
+    display_name: Pink Cyber Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_hoe
+  pink_cyber_key:
+    display_name: Pink Cyber Key
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_key
+  pink_cyber_leggings:
+    display_name: Pink Cyber Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/pink_cyber_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  pink_cyber_pickaxe:
+    display_name: Pink Cyber Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_pickaxe
+  pink_cyber_rod:
+    display_name: Pink Cyber Rod
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_rod
+  pink_cyber_shield:
+    display_name: Pink Cyber Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/pink_cyber_shield
+  pink_cyber_shovel:
+    display_name: Pink Cyber Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_shovel
+  pink_cyber_sword:
+    display_name: Pink Cyber Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: jeqo:cyber_set/pink/cyber_sword

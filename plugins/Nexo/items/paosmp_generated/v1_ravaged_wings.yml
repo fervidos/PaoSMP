@@ -1,0 +1,28 @@
+info:
+  namespace: v1_ravaged_wings
+items:
+  v1_ravaged_wings:
+    display_name: V1 Ravaged Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/ravaged_wings
+  v1_ravaged_wings_normal:
+    display_name: V1 Ravaged Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/ravaged_wings_normal
+  v1_ravaged_wings_normal_2:
+    display_name: V1 Ravaged Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/ravaged_wings_normal_2
+  v1_ravaged_wings_self:
+    display_name: V1 Ravaged Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/ravaged_wings_self
+  v1_ravaged_wings_self_2:
+    display_name: V1 Ravaged Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/ravaged_wings_self_2

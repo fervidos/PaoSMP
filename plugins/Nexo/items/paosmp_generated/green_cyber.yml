@@ -1,0 +1,50 @@
+info:
+  namespace: green_cyber
+items:
+  green_cyber_boots:
+    display_name: Green Cyber Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/green_cyber_boots
+    Components:
+      equippable:
+        slot: FEET
+  green_cyber_chestplate:
+    display_name: Green Cyber Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/green_cyber_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  green_cyber_crate:
+    display_name: Green Cyber Crate
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/green/cyber_crate
+  green_cyber_crate_open:
+    display_name: Green Cyber Crate Open
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/green/cyber_crate_open
+  green_cyber_helmet:
+    display_name: Green Cyber Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/green_cyber_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  green_cyber_key:
+    display_name: Green Cyber Key
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/green/cyber_key
+  green_cyber_leggings:
+    display_name: Green Cyber Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/green_cyber_leggings
+    Components:
+      equippable:
+        slot: LEGS

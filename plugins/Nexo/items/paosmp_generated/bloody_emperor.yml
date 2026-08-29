@@ -1,0 +1,112 @@
+info:
+  namespace: bloody_emperor
+items:
+  bloody_emperor_animated_weapon_set_axe:
+    display_name: Bloody Emperor Animated Weapon Set Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/axe
+  bloody_emperor_animated_weapon_set_backpack:
+    display_name: Bloody Emperor Animated Weapon Set Backpack
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/backpack
+  bloody_emperor_animated_weapon_set_boots:
+    display_name: Bloody Emperor Animated Weapon Set Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/bloody_emperor_animated_weapon_set_boots
+    Components:
+      equippable:
+        slot: FEET
+  bloody_emperor_animated_weapon_set_bow:
+    display_name: Bloody Emperor Animated Weapon Set Bow
+    material: BOW
+    Pack:
+      model: nexo:item/bloody_emperor_animated_weapon_set_bow
+  bloody_emperor_animated_weapon_set_chest:
+    display_name: Bloody Emperor Animated Weapon Set Chest
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/chest
+  bloody_emperor_animated_weapon_set_chestplate:
+    display_name: Bloody Emperor Animated Weapon Set Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/bloody_emperor_animated_weapon_set_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  bloody_emperor_animated_weapon_set_crossbow:
+    display_name: Bloody Emperor Animated Weapon Set Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/bloody_emperor_animated_weapon_set_crossbow
+  bloody_emperor_animated_weapon_set_greatsword:
+    display_name: Bloody Emperor Animated Weapon Set Greatsword
+    material: DIAMOND_SWORD
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/greatsword
+  bloody_emperor_animated_weapon_set_hammer:
+    display_name: Bloody Emperor Animated Weapon Set Hammer
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/hammer
+  bloody_emperor_animated_weapon_set_hat:
+    display_name: Bloody Emperor Animated Weapon Set Hat
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/hat
+  bloody_emperor_animated_weapon_set_hoe:
+    display_name: Bloody Emperor Animated Weapon Set Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/hoe
+  bloody_emperor_animated_weapon_set_key:
+    display_name: Bloody Emperor Animated Weapon Set Key
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/key
+  bloody_emperor_animated_weapon_set_leggings:
+    display_name: Bloody Emperor Animated Weapon Set Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/bloody_emperor_animated_weapon_set_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  bloody_emperor_animated_weapon_set_pickaxe:
+    display_name: Bloody Emperor Animated Weapon Set Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/pickaxe
+  bloody_emperor_animated_weapon_set_shield:
+    display_name: Bloody Emperor Animated Weapon Set Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/bloody_emperor_animated_weapon_set_shield
+  bloody_emperor_animated_weapon_set_shovel:
+    display_name: Bloody Emperor Animated Weapon Set Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/shovel
+  bloody_emperor_animated_weapon_set_spear:
+    display_name: Bloody Emperor Animated Weapon Set Spear
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/spear
+  bloody_emperor_animated_weapon_set_staff:
+    display_name: Bloody Emperor Animated Weapon Set Staff
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/staff
+  bloody_emperor_animated_weapon_set_sword:
+    display_name: Bloody Emperor Animated Weapon Set Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/sword
+  bloody_emperor_animated_weapon_set_wing:
+    display_name: Bloody Emperor Animated Weapon Set Wing
+    material: PAPER
+    Pack:
+      model: elitecreatures:bloody_emperor_animated_weapon_set/wing

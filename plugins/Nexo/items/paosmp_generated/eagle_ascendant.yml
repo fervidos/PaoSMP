@@ -1,0 +1,140 @@
+info:
+  namespace: eagle_ascendant
+items:
+  eagle_ascendant_axe:
+    display_name: Eagle Ascendant Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: eagle_ascendant:axe
+  eagle_ascendant_boots:
+    display_name: Eagle Ascendant Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/eagle_ascendant_boots
+    Components:
+      equippable:
+        slot: FEET
+  eagle_ascendant_bow:
+    display_name: Eagle Ascendant Bow
+    material: BOW
+    Pack:
+      model: nexo:item/eagle_ascendant_bow
+  eagle_ascendant_chest:
+    display_name: Eagle Ascendant Chest
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:chest
+  eagle_ascendant_chestplate:
+    display_name: Eagle Ascendant Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/eagle_ascendant_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  eagle_ascendant_crossbow:
+    display_name: Eagle Ascendant Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/eagle_ascendant_crossbow
+  eagle_ascendant_dagger:
+    display_name: Eagle Ascendant Dagger
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:dagger
+  eagle_ascendant_fishing_rod:
+    display_name: Eagle Ascendant Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/eagle_ascendant_fishing_rod
+  eagle_ascendant_hammer:
+    display_name: Eagle Ascendant Hammer
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:hammer
+  eagle_ascendant_hat:
+    display_name: Eagle Ascendant Hat
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:hat
+  eagle_ascendant_helmet:
+    display_name: Eagle Ascendant Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/eagle_ascendant_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  eagle_ascendant_hoe:
+    display_name: Eagle Ascendant Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: eagle_ascendant:hoe
+  eagle_ascendant_key:
+    display_name: Eagle Ascendant Key
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:key
+  eagle_ascendant_leggings:
+    display_name: Eagle Ascendant Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/eagle_ascendant_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  eagle_ascendant_pickaxe:
+    display_name: Eagle Ascendant Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: eagle_ascendant:pickaxe
+  eagle_ascendant_rapier_sword:
+    display_name: Eagle Ascendant Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: eagle_ascendant:rapier_sword
+  eagle_ascendant_scythe:
+    display_name: Eagle Ascendant Scythe
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:scythe
+  eagle_ascendant_shield:
+    display_name: Eagle Ascendant Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/eagle_ascendant_shield
+  eagle_ascendant_shovel:
+    display_name: Eagle Ascendant Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: eagle_ascendant:shovel
+  eagle_ascendant_spear:
+    display_name: Eagle Ascendant Spear
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:spear
+  eagle_ascendant_staff:
+    display_name: Eagle Ascendant Staff
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:staff
+  eagle_ascendant_sword:
+    display_name: Eagle Ascendant Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: eagle_ascendant:sword
+  eagle_ascendant_trident:
+    display_name: Eagle Ascendant Trident
+    material: TRIDENT
+    Pack:
+      model: eagle_ascendant:trident
+  eagle_ascendant_wing:
+    display_name: Eagle Ascendant Wing
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:wing
+  eagle_ascendant_wing_1:
+    display_name: Eagle Ascendant Wing 1
+    material: PAPER
+    Pack:
+      model: eagle_ascendant:wing_1

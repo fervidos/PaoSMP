@@ -1,0 +1,30 @@
+info:
+  namespace: md_lamp
+items:
+  md_lamp_left:
+    display_name: Md Lamp Left
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_lamp_left
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_lamp_right:
+    display_name: Md Lamp Right
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_lamp_right
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_lamp_short:
+    display_name: Md Lamp Short
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_lamp_short
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

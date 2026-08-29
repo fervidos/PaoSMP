@@ -1,0 +1,140 @@
+info:
+  namespace: bahamut_animated
+items:
+  bahamut_animated_weapon_set_axe:
+    display_name: Bahamut Animated Weapon Set Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/axe
+  bahamut_animated_weapon_set_big_sword:
+    display_name: Bahamut Animated Weapon Set Big Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/big_sword
+  bahamut_animated_weapon_set_boots:
+    display_name: Bahamut Animated Weapon Set Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/bahamut_animated_weapon_set_boots
+    Components:
+      equippable:
+        slot: FEET
+  bahamut_animated_weapon_set_bow:
+    display_name: Bahamut Animated Weapon Set Bow
+    material: BOW
+    Pack:
+      model: nexo:item/bahamut_animated_weapon_set_bow
+  bahamut_animated_weapon_set_chest:
+    display_name: Bahamut Animated Weapon Set Chest
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/chest
+  bahamut_animated_weapon_set_chestplate:
+    display_name: Bahamut Animated Weapon Set Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/bahamut_animated_weapon_set_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  bahamut_animated_weapon_set_club:
+    display_name: Bahamut Animated Weapon Set Club
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/club
+  bahamut_animated_weapon_set_dagger:
+    display_name: Bahamut Animated Weapon Set Dagger
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/dagger
+  bahamut_animated_weapon_set_fishing_rod:
+    display_name: Bahamut Animated Weapon Set Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/bahamut_animated_weapon_set_fishing_rod
+  bahamut_animated_weapon_set_gauntlet:
+    display_name: Bahamut Animated Weapon Set Gauntlet
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/gauntlet
+  bahamut_animated_weapon_set_halberd:
+    display_name: Bahamut Animated Weapon Set Halberd
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/halberd
+  bahamut_animated_weapon_set_hammer:
+    display_name: Bahamut Animated Weapon Set Hammer
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/hammer
+  bahamut_animated_weapon_set_hat:
+    display_name: Bahamut Animated Weapon Set Hat
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/hat
+  bahamut_animated_weapon_set_helmet:
+    display_name: Bahamut Animated Weapon Set Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/helmet
+    Components:
+      equippable:
+        slot: HEAD
+  bahamut_animated_weapon_set_hoe:
+    display_name: Bahamut Animated Weapon Set Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/hoe
+  bahamut_animated_weapon_set_key:
+    display_name: Bahamut Animated Weapon Set Key
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/key
+  bahamut_animated_weapon_set_leggings:
+    display_name: Bahamut Animated Weapon Set Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/bahamut_animated_weapon_set_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  bahamut_animated_weapon_set_mace:
+    display_name: Bahamut Animated Weapon Set Mace
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/mace
+  bahamut_animated_weapon_set_pickaxe:
+    display_name: Bahamut Animated Weapon Set Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/pickaxe
+  bahamut_animated_weapon_set_shield:
+    display_name: Bahamut Animated Weapon Set Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/bahamut_animated_weapon_set_shield
+  bahamut_animated_weapon_set_shovel:
+    display_name: Bahamut Animated Weapon Set Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/shovel
+  bahamut_animated_weapon_set_spear:
+    display_name: Bahamut Animated Weapon Set Spear
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/spear
+  bahamut_animated_weapon_set_staff:
+    display_name: Bahamut Animated Weapon Set Staff
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/staff
+  bahamut_animated_weapon_set_sword:
+    display_name: Bahamut Animated Weapon Set Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/sword
+  bahamut_animated_weapon_set_wing:
+    display_name: Bahamut Animated Weapon Set Wing
+    material: PAPER
+    Pack:
+      model: elitecreatures:bahamut_animated_weapon_set/wing

@@ -1,0 +1,39 @@
+info:
+  namespace: md_table
+items:
+  md_table_shelf:
+    display_name: Md Table Shelf
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_table_shelf
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_table_shelf_2:
+    display_name: Md Table Shelf 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_table_shelf_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_table_shelf_3:
+    display_name: Md Table Shelf 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_table_shelf_3
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_table_shelf_half:
+    display_name: Md Table Shelf Half
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_table_shelf_half
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

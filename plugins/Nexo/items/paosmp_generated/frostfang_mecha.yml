@@ -1,0 +1,140 @@
+info:
+  namespace: frostfang_mecha
+items:
+  frostfang_mecha_imperium_axe:
+    display_name: Frostfang Mecha Imperium Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: frostfang_mecha_imperium:axe
+  frostfang_mecha_imperium_boots:
+    display_name: Frostfang Mecha Imperium Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_boots
+    Components:
+      equippable:
+        slot: FEET
+  frostfang_mecha_imperium_bow:
+    display_name: Frostfang Mecha Imperium Bow
+    material: BOW
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_bow
+  frostfang_mecha_imperium_chest:
+    display_name: Frostfang Mecha Imperium Chest
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:chest
+  frostfang_mecha_imperium_chestplate:
+    display_name: Frostfang Mecha Imperium Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  frostfang_mecha_imperium_crossbow:
+    display_name: Frostfang Mecha Imperium Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_crossbow
+  frostfang_mecha_imperium_dagger:
+    display_name: Frostfang Mecha Imperium Dagger
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:dagger
+  frostfang_mecha_imperium_fishing_rod:
+    display_name: Frostfang Mecha Imperium Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_fishing_rod
+  frostfang_mecha_imperium_hammer:
+    display_name: Frostfang Mecha Imperium Hammer
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:hammer
+  frostfang_mecha_imperium_hat:
+    display_name: Frostfang Mecha Imperium Hat
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:hat
+  frostfang_mecha_imperium_helmet:
+    display_name: Frostfang Mecha Imperium Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  frostfang_mecha_imperium_hoe:
+    display_name: Frostfang Mecha Imperium Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: frostfang_mecha_imperium:hoe
+  frostfang_mecha_imperium_key:
+    display_name: Frostfang Mecha Imperium Key
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:key
+  frostfang_mecha_imperium_leggings:
+    display_name: Frostfang Mecha Imperium Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  frostfang_mecha_imperium_pickaxe:
+    display_name: Frostfang Mecha Imperium Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: frostfang_mecha_imperium:pickaxe
+  frostfang_mecha_imperium_rapier_sword:
+    display_name: Frostfang Mecha Imperium Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: frostfang_mecha_imperium:rapier_sword
+  frostfang_mecha_imperium_scythe:
+    display_name: Frostfang Mecha Imperium Scythe
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:scythe
+  frostfang_mecha_imperium_shield:
+    display_name: Frostfang Mecha Imperium Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/frostfang_mecha_imperium_shield
+  frostfang_mecha_imperium_shovel:
+    display_name: Frostfang Mecha Imperium Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: frostfang_mecha_imperium:shovel
+  frostfang_mecha_imperium_spear:
+    display_name: Frostfang Mecha Imperium Spear
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:spear
+  frostfang_mecha_imperium_staff:
+    display_name: Frostfang Mecha Imperium Staff
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:staff
+  frostfang_mecha_imperium_sword:
+    display_name: Frostfang Mecha Imperium Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: frostfang_mecha_imperium:sword
+  frostfang_mecha_imperium_trident:
+    display_name: Frostfang Mecha Imperium Trident
+    material: TRIDENT
+    Pack:
+      model: frostfang_mecha_imperium:trident
+  frostfang_mecha_imperium_wing:
+    display_name: Frostfang Mecha Imperium Wing
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:wing
+  frostfang_mecha_imperium_wing_1:
+    display_name: Frostfang Mecha Imperium Wing 1
+    material: PAPER
+    Pack:
+      model: frostfang_mecha_imperium:wing_1

@@ -1,0 +1,36 @@
+info:
+  namespace: littledragon_cosmeticscore
+items:
+  littledragon_cosmeticscore_backpack:
+    display_name: Littledragon Cosmeticscore Backpack
+    material: PAPER
+    Pack:
+      model: littledragonset:backpack_cosmeticscore
+  littledragon_cosmeticscore_backpack_self:
+    display_name: Littledragon Cosmeticscore Backpack Self
+    material: PAPER
+    Pack:
+      model: littledragonset:backpack_cosmeticscore_self
+  littledragon_cosmeticscore_headgear:
+    display_name: Littledragon Cosmeticscore Headgear
+    material: PAPER
+    Pack:
+      model: littledragonset:little_dragon
+  littledragon_cosmeticscore_helmet:
+    display_name: Littledragon Cosmeticscore Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: littledragonset:helmet
+    Components:
+      equippable:
+        slot: HEAD
+  littledragon_cosmeticscore_wings:
+    display_name: Littledragon Cosmeticscore Wings
+    material: PAPER
+    Pack:
+      model: littledragonset:wings_cosmeticscore
+  littledragon_cosmeticscore_wings_self:
+    display_name: Littledragon Cosmeticscore Wings Self
+    material: PAPER
+    Pack:
+      model: littledragonset:wings_cosmeticscore_self

@@ -1,0 +1,31 @@
+info:
+  namespace: necros_cosmetics
+items:
+  necros_cosmetics_helmet:
+    display_name: Necros Cosmetics Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: necros_set:helmet
+    Components:
+      equippable:
+        slot: HEAD
+  necros_cosmetics_wings:
+    display_name: Necros Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: necros_set:wings_cosmetic
+  necros_cosmetics_wings_normal_2:
+    display_name: Necros Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: necros_set:wings_cosmetic_normal_2
+  necros_cosmetics_wings_self:
+    display_name: Necros Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: necros_set:wings_cosmetic_self
+  necros_cosmetics_wings_self_2:
+    display_name: Necros Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: necros_set:wings_cosmetic_self_2

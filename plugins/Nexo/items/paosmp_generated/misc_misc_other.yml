@@ -1,0 +1,1642 @@
+info:
+  namespace: misc_other
+adventurer_backpack:
+  display_name: Adventurer Backpack
+  material: PAPER
+  Pack:
+    model: fantasy_npc:adventurer_backpack
+adventurer_hat:
+  display_name: Adventurer Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:adventurer_hat
+alligator_gar:
+  display_name: Alligator Gar
+  material: PAPER
+  Pack:
+    model: nexo:item/alligator_gar
+altair:
+  display_name: Altair
+  material: PAPER
+  Pack:
+    model: nexo:item/altair
+amber_jack:
+  display_name: Amber Jack
+  material: PAPER
+  Pack:
+    model: nexo:item/amber_jack
+anabas:
+  display_name: Anabas
+  material: PAPER
+  Pack:
+    model: nexo:item/anabas
+arcanist_backpack:
+  display_name: Arcanist Backpack
+  material: PAPER
+  Pack:
+    model: arcanistset:backpack
+arcanist_chest:
+  display_name: Arcanist Chest
+  material: PAPER
+  Pack:
+    model: arcanistset:chest
+arcanist_hat:
+  display_name: Arcanist Hat
+  material: PAPER
+  Pack:
+    model: arcanistset:helmet
+arcanist_key:
+  display_name: Arcanist Key
+  material: PAPER
+  Pack:
+    model: arcanistset:key
+arcanist_shield:
+  display_name: Arcanist Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/arcanist_shield
+arcanist_wings:
+  display_name: Arcanist Wings
+  material: PAPER
+  Pack:
+    model: arcanistset:wings
+arctic_char:
+  display_name: Arctic Char
+  material: PAPER
+  Pack:
+    model: nexo:item/arctic_char
+attractor:
+  display_name: Attractor
+  material: PAPER
+  Pack:
+    model: nexo:item/attractor
+auctioneer_hat:
+  display_name: Auctioneer Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:auctioneer_hat
+auction_back:
+  display_name: Auction Back
+  material: PAPER
+  Pack:
+    model: nexo:item/auction_back
+auction_next_page:
+  display_name: Auction Next Page
+  material: PAPER
+  Pack:
+    model: nexo:item/auction_next_page
+auction_previous_page:
+  display_name: Auction Previous Page
+  material: PAPER
+  Pack:
+    model: nexo:item/auction_previous_page
+auril:
+  display_name: Auril
+  material: PAPER
+  Pack:
+    model: nexo:item/auril
+bangus:
+  display_name: Bangus
+  material: PAPER
+  Pack:
+    model: nexo:item/bangus
+barbel:
+  display_name: Barbel
+  material: PAPER
+  Pack:
+    model: nexo:item/barbel
+barramundi:
+  display_name: Barramundi
+  material: PAPER
+  Pack:
+    model: nexo:item/barramundi
+bashful_angler:
+  display_name: Bashful Angler
+  material: PAPER
+  Pack:
+    model: nexo:item/bashful_angler
+black_crappie:
+  display_name: Black Crappie
+  material: PAPER
+  Pack:
+    model: nexo:item/black_crappie
+black_drum:
+  display_name: Black Drum
+  material: PAPER
+  Pack:
+    model: nexo:item/black_drum
+black_tench:
+  display_name: Black Tench
+  material: PAPER
+  Pack:
+    model: nexo:item/black_tench
+blueflame_blade:
+  display_name: Blueflame Blade
+  material: PAPER
+  Pack:
+    model: blueflame:blade
+blueflame_chest:
+  display_name: Blueflame Chest
+  material: PAPER
+  Pack:
+    model: blueflame:chest
+blueflame_key:
+  display_name: Blueflame Key
+  material: PAPER
+  Pack:
+    model: blueflame:key
+blueflame_shield:
+  display_name: Blueflame Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/blueflame_shield
+blueflame_sickle:
+  display_name: Blueflame Sickle
+  material: PAPER
+  Pack:
+    model: blueflame:sickle
+blueflame_wings:
+  display_name: Blueflame Wings
+  material: PAPER
+  Pack:
+    model: blueflame:wings
+bluegill_perch:
+  display_name: Bluegill Perch
+  material: PAPER
+  Pack:
+    model: nexo:item/bluegill_perch
+blue_crappie:
+  display_name: Blue Crappie
+  material: PAPER
+  Pack:
+    model: nexo:item/blue_crappie
+blue_shrimp:
+  display_name: Blue Shrimp
+  material: PAPER
+  Pack:
+    model: nexo:item/blue_shrimp
+blue_tang:
+  display_name: Blue Tang
+  material: PAPER
+  Pack:
+    model: nexo:item/blue_tang
+bogue:
+  display_name: Bogue
+  material: PAPER
+  Pack:
+    model: nexo:item/bogue
+bonito:
+  display_name: Bonito
+  material: PAPER
+  Pack:
+    model: nexo:item/bonito
+bream:
+  display_name: Bream
+  material: PAPER
+  Pack:
+    model: nexo:item/bream
+brigitte_rasbora:
+  display_name: Brigitte Rasbora
+  material: PAPER
+  Pack:
+    model: nexo:item/brigitte_rasbora
+brill:
+  display_name: Brill
+  material: PAPER
+  Pack:
+    model: nexo:item/brill
+brown_trout:
+  display_name: Brown Trout
+  material: PAPER
+  Pack:
+    model: nexo:item/brown_trout
+bull_shark:
+  display_name: Bull Shark
+  material: PAPER
+  Pack:
+    model: nexo:item/bull_shark
+cancel_icon:
+  display_name: Cancel Icon
+  material: PAPER
+  Pack:
+    model: nexo:item/cancel_icon
+chromis:
+  display_name: Chromis
+  material: PAPER
+  Pack:
+    model: nexo:item/chromis
+chronicles_blade:
+  display_name: Chronicles Blade
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:blade
+chronicles_chest:
+  display_name: Chronicles Chest
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:chest
+chronicles_halberd:
+  display_name: Chronicles Halberd
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:halberd
+chronicles_key:
+  display_name: Chronicles Key
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:key
+chronicles_shield:
+  display_name: Chronicles Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/chronicles_shield
+chronicles_wings:
+  display_name: Chronicles Wings
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:wings
+chub:
+  display_name: Chub
+  material: PAPER
+  Pack:
+    model: nexo:item/chub
+cichlid:
+  display_name: Cichlid
+  material: PAPER
+  Pack:
+    model: nexo:item/cichlid
+clam:
+  display_name: Clam
+  material: PAPER
+  Pack:
+    model: nexo:item/clam
+cobia:
+  display_name: Cobia
+  material: PAPER
+  Pack:
+    model: nexo:item/cobia
+colossal_squid:
+  display_name: Colossal Squid
+  material: PAPER
+  Pack:
+    model: nexo:item/colossal_squid
+comber_wrasse:
+  display_name: Comber Wrasse
+  material: PAPER
+  Pack:
+    model: nexo:item/comber_wrasse
+coney_wrasse:
+  display_name: Coney Wrasse
+  material: PAPER
+  Pack:
+    model: nexo:item/coney_wrasse
+conger_eel:
+  display_name: Conger Eel
+  material: PAPER
+  Pack:
+    model: nexo:item/conger_eel
+cook_hat:
+  display_name: Cook Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:cook_hat
+cook_knife:
+  display_name: Cook Knife
+  material: PAPER
+  Pack:
+    model: fantasy_npc:cook_knife
+corbina:
+  display_name: Corbina
+  material: PAPER
+  Pack:
+    model: nexo:item/corbina
+corkwing_wrasse:
+  display_name: Corkwing Wrasse
+  material: PAPER
+  Pack:
+    model: nexo:item/corkwing_wrasse
+crab_claw:
+  display_name: Crab Claw
+  material: PAPER
+  Pack:
+    model: nexo:item/crab_claw
+crab_lure:
+  display_name: Crab Lure
+  material: PAPER
+  Pack:
+    model: pyrofishitems:item/crab_lure
+crab_shell:
+  display_name: Crab Shell
+  material: PAPER
+  Pack:
+    model: nexo:item/crab_shell
+crate_empty_slot:
+  display_name: Crate Empty Slot
+  material: PAPER
+  Pack:
+    model: nexo:item/crate_empty_slot
+crevalle_jack:
+  display_name: Crevalle Jack
+  material: PAPER
+  Pack:
+    model: nexo:item/crevalle_jack
+croaker:
+  display_name: Croaker
+  material: PAPER
+  Pack:
+    model: nexo:item/croaker
+cubera_snapper:
+  display_name: Cubera Snapper
+  material: PAPER
+  Pack:
+    model: nexo:item/cubera_snapper
+cunner:
+  display_name: Cunner
+  material: PAPER
+  Pack:
+    model: nexo:item/cunner
+cyberpunk_animated_assault_rifle:
+  display_name: Cyberpunk Animated Assault Rifle
+  material: PAPER
+  Pack:
+    model: nexo:item/cyberpunk_animated-assault_rifle
+cyberpunk_animated_baton:
+  display_name: Cyberpunk Animated Baton
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/baton
+cyberpunk_animated_chest:
+  display_name: Cyberpunk Animated Chest
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/chest
+cyberpunk_animated_gauntlet:
+  display_name: Cyberpunk Animated Gauntlet
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/gauntlet
+cyberpunk_animated_hat:
+  display_name: Cyberpunk Animated Hat
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/armor/hat
+cyberpunk_animated_key:
+  display_name: Cyberpunk Animated Key
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/key
+cyberpunk_animated_shield:
+  display_name: Cyberpunk Animated Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/cyberpunk_animated-shield
+cyberpunk_animated_shotgun:
+  display_name: Cyberpunk Animated Shotgun
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/shotgun
+cyber_key:
+  display_name: Cyber Key
+  material: PAPER
+  Pack:
+    model: jeqo:cyber_set/cyber_key
+dab:
+  display_name: Dab
+  material: PAPER
+  Pack:
+    model: nexo:item/dab
+dace:
+  display_name: Dace
+  material: PAPER
+  Pack:
+    model: nexo:item/dace
+damsel:
+  display_name: Damsel
+  material: PAPER
+  Pack:
+    model: nexo:item/damsel
+death_manta:
+  display_name: Death Manta
+  material: PAPER
+  Pack:
+    model: nexo:item/death_manta
+diplodus:
+  display_name: Diplodus
+  material: PAPER
+  Pack:
+    model: nexo:item/diplodus
+directory_icon:
+  display_name: Directory Icon
+  material: PAPER
+  Pack:
+    model: nexo:9e27d21f-474a-4415-b545-265d4140d67b
+dobby:
+  display_name: Dobby
+  material: PAPER
+  Pack:
+    model: nexo:item/dobby
+dolphin_tail:
+  display_name: Dolphin Tail
+  material: PAPER
+  Pack:
+    model: nexo:item/dolphin_tail
+dorado:
+  display_name: Dorado
+  material: PAPER
+  Pack:
+    model: nexo:item/dorado
+dracula_blade:
+  display_name: Dracula Blade
+  material: PAPER
+  Pack:
+    model: draculaset:blade
+dracula_chest:
+  display_name: Dracula Chest
+  material: PAPER
+  Pack:
+    model: draculaset:chest
+dracula_halberd:
+  display_name: Dracula Halberd
+  material: PAPER
+  Pack:
+    model: draculaset:halberd
+dracula_key:
+  display_name: Dracula Key
+  material: PAPER
+  Pack:
+    model: draculaset:key
+dracula_shield:
+  display_name: Dracula Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/dracula_shield
+dracula_sickle:
+  display_name: Dracula Sickle
+  material: PAPER
+  Pack:
+    model: draculaset:sickle
+dracula_wings:
+  display_name: Dracula Wings
+  material: PAPER
+  Pack:
+    model: draculaset:wings
+ebon_koi:
+  display_name: Ebon Koi
+  material: PAPER
+  Pack:
+    model: nexo:item/ebon_koi
+eel:
+  display_name: Eel
+  material: PAPER
+  Pack:
+    model: nexo:item/eel
+electric_eel:
+  display_name: Electric Eel
+  material: PAPER
+  Pack:
+    model: nexo:item/electric_eel
+emerald_icon:
+  display_name: Emerald Icon
+  material: PAPER
+  Pack:
+    model: nexo:item/emerald_icon
+empty:
+  display_name: Empty
+  material: PAPER
+  Pack:
+    model: nexo:item/empty
+empty_slot:
+  display_name: Empty Slot
+  material: PAPER
+  Pack:
+    model: nexo:item/empty_slot
+ender_trout:
+  display_name: Ender Trout
+  material: PAPER
+  Pack:
+    model: nexo:item/ender_trout
+entropy_booster:
+  display_name: Entropy Booster
+  material: PAPER
+  Pack:
+    model: nexo:item/entropy_booster
+entropy_crystal:
+  display_name: Entropy Crystal
+  material: PAPER
+  Pack:
+    model: nexo:item/entropy_crystal
+fairy_head:
+  display_name: Fairy Head
+  material: PAPER
+  Pack:
+    model: fairyset:helmet
+fairy_key:
+  display_name: Fairy Key
+  material: PAPER
+  Pack:
+    model: fairyset:key
+fairy_shield:
+  display_name: Fairy Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/fairy_shield
+fairy_wing:
+  display_name: Fairy Wing
+  material: PAPER
+  Pack:
+    model: fairyset:wings
+fangtooth:
+  display_name: Fangtooth
+  material: PAPER
+  Pack:
+    model: nexo:item/fangtooth
+farmer_hat:
+  display_name: Farmer Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:farmer_hat
+farmer_pitchfork:
+  display_name: Farmer Pitchfork
+  material: PAPER
+  Pack:
+    model: fantasy_npc:farmer_pitchfork
+feather:
+  display_name: Feather
+  material: PAPER
+  Pack:
+    model: nexo:item/feather
+firefin_koi:
+  display_name: Firefin Koi
+  material: PAPER
+  Pack:
+    model: nexo:item/firefin_koi
+flapper:
+  display_name: Flapper
+  material: PAPER
+  Pack:
+    model: nexo:item/flapper
+flounder:
+  display_name: Flounder
+  material: PAPER
+  Pack:
+    model: nexo:item/flounder
+forest_elytra:
+  display_name: Forest Elytra
+  material: PAPER
+  Pack:
+    model: nexo:item/dc45225b-711e-4076-b31d-b3f074ff9765
+forest_shield:
+  display_name: Forest Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/forest_shield
+frost_minnow:
+  display_name: Frost Minnow
+  material: PAPER
+  Pack:
+    model: nexo:item/frost_minnow
+galaxy_rasbora:
+  display_name: Galaxy Rasbora
+  material: PAPER
+  Pack:
+    model: nexo:item/galaxy_rasbora
+galjoen:
+  display_name: Galjoen
+  material: PAPER
+  Pack:
+    model: nexo:item/galjoen
+giant_perch:
+  display_name: Giant Perch
+  material: PAPER
+  Pack:
+    model: nexo:item/giant_perch
+giant_trevally:
+  display_name: Giant Trevally
+  material: PAPER
+  Pack:
+    model: nexo:item/giant_trevally
+gibbosus:
+  display_name: Gibbosus
+  material: PAPER
+  Pack:
+    model: nexo:item/gibbosus
+goliath_grouper:
+  display_name: Goliath Grouper
+  material: PAPER
+  Pack:
+    model: nexo:item/goliath_grouper
+goonch:
+  display_name: Goonch
+  material: PAPER
+  Pack:
+    model: nexo:item/goonch
+gramma:
+  display_name: Gramma
+  material: PAPER
+  Pack:
+    model: nexo:item/gramma
+grayling:
+  display_name: Grayling
+  material: PAPER
+  Pack:
+    model: nexo:item/grayling
+gray_mullet:
+  display_name: Gray Mullet
+  material: PAPER
+  Pack:
+    model: nexo:item/gray_mullet
+great_white_shark:
+  display_name: Great White Shark
+  material: PAPER
+  Pack:
+    model: nexo:item/great_white_shark
+greengill:
+  display_name: Greengill
+  material: PAPER
+  Pack:
+    model: nexo:item/greengill
+grouper:
+  display_name: Grouper
+  material: PAPER
+  Pack:
+    model: nexo:item/grouper
+grunion:
+  display_name: Grunion
+  material: PAPER
+  Pack:
+    model: nexo:item/grunion
+grunt:
+  display_name: Grunt
+  material: PAPER
+  Pack:
+    model: nexo:item/grunt
+gurnard:
+  display_name: Gurnard
+  material: PAPER
+  Pack:
+    model: nexo:item/gurnard
+haddock:
+  display_name: Haddock
+  material: PAPER
+  Pack:
+    model: nexo:item/haddock
+hake:
+  display_name: Hake
+  material: PAPER
+  Pack:
+    model: nexo:item/hake
+halibut:
+  display_name: Halibut
+  material: PAPER
+  Pack:
+    model: nexo:item/halibut
+hamlet:
+  display_name: Hamlet
+  material: PAPER
+  Pack:
+    model: nexo:item/hamlet
+helm:
+  display_name: Helm
+  material: PAPER
+  Pack:
+    model: nexo:item/helm
+hemopiranha:
+  display_name: Hemopiranha
+  material: PAPER
+  Pack:
+    model: nexo:item/hemopiranha
+herring:
+  display_name: Herring
+  material: PAPER
+  Pack:
+    model: nexo:item/herring
+honeyfin:
+  display_name: Honeyfin
+  material: PAPER
+  Pack:
+    model: nexo:item/honeyfin
+horse_mackerel:
+  display_name: Horse Mackerel
+  material: PAPER
+  Pack:
+    model: nexo:item/horse_mackerel
+humbolt_squid:
+  display_name: Humbolt Squid
+  material: PAPER
+  Pack:
+    model: nexo:item/humbolt_squid
+hunter_hood:
+  display_name: Hunter Hood
+  material: PAPER
+  Pack:
+    model: fantasy_npc:hunter_hood
+hunter_musket:
+  display_name: Hunter Musket
+  material: PAPER
+  Pack:
+    model: fantasy_npc:hunter_musket
+huss:
+  display_name: Huss
+  material: PAPER
+  Pack:
+    model: nexo:item/huss
+ice_pip:
+  display_name: Ice Pip
+  material: PAPER
+  Pack:
+    model: nexo:item/ice_pip
+ik_grill:
+  display_name: Ik Grill
+  material: PAPER
+  Pack:
+    model: elitecreatures:industrial_kitchen_v1/ik_grill
+ik_hood:
+  display_name: Ik Hood
+  material: PAPER
+  Pack:
+    model: elitecreatures:industrial_kitchen_v1/ik_hood
+ik_microwave:
+  display_name: Ik Microwave
+  material: PAPER
+  Pack:
+    model: elitecreatures:industrial_kitchen_v1/ik_microwave
+ik_mixer:
+  display_name: Ik Mixer
+  material: PAPER
+  Pack:
+    model: elitecreatures:industrial_kitchen_v1/ik_mixer
+ilish:
+  display_name: Ilish
+  material: PAPER
+  Pack:
+    model: nexo:item/ilish
+ilmater:
+  display_name: Ilmater
+  material: PAPER
+  Pack:
+    model: nexo:item/ilmater
+iridescent_shark:
+  display_name: Iridescent Shark
+  material: PAPER
+  Pack:
+    model: nexo:item/iridescent_shark
+jack:
+  display_name: Jack
+  material: PAPER
+  Pack:
+    model: nexo:item/jack
+kahawai:
+  display_name: Kahawai
+  material: PAPER
+  Pack:
+    model: nexo:item/kahawai
+king_crab:
+  display_name: King Crab
+  material: PAPER
+  Pack:
+    model: nexo:item/king_crab
+king_crown:
+  display_name: King Crown
+  material: PAPER
+  Pack:
+    model: fantasy_npc:king_crown
+king_mackerel:
+  display_name: King Mackerel
+  material: PAPER
+  Pack:
+    model: nexo:item/king_mackerel
+koi:
+  display_name: Koi
+  material: PAPER
+  Pack:
+    model: nexo:item/koi
+kossuth:
+  display_name: Kossuth
+  material: PAPER
+  Pack:
+    model: nexo:item/kossuth
+lathander:
+  display_name: Lathander
+  material: PAPER
+  Pack:
+    model: nexo:item/lathander
+leviathan_blade:
+  display_name: Leviathan Blade
+  material: PAPER
+  Pack:
+    model: leviathanset:blade
+leviathan_chest:
+  display_name: Leviathan Chest
+  material: PAPER
+  Pack:
+    model: leviathanset:chest
+leviathan_halberd:
+  display_name: Leviathan Halberd
+  material: PAPER
+  Pack:
+    model: leviathanset:halberd
+leviathan_key:
+  display_name: Leviathan Key
+  material: PAPER
+  Pack:
+    model: leviathanset:key
+leviathan_shield:
+  display_name: Leviathan Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/leviathan_shield
+leviathan_sickle:
+  display_name: Leviathan Sickle
+  material: PAPER
+  Pack:
+    model: leviathanset:sickle
+leviathan_wings:
+  display_name: Leviathan Wings
+  material: PAPER
+  Pack:
+    model: leviathanset:wings
+librarian_book:
+  display_name: Librarian Book
+  material: PAPER
+  Pack:
+    model: fantasy_npc:librarian_book
+littledragon:
+  display_name: Littledragon
+  material: PAPER
+  Pack:
+    model: littledragonset:little_dragon
+littledragon_backpack:
+  display_name: Littledragon Backpack
+  material: PAPER
+  Pack:
+    model: littledragonset:backpack
+littledragon_flag:
+  display_name: Littledragon Flag
+  material: PAPER
+  Pack:
+    model: littledragonset:flag
+littledragon_key:
+  display_name: Littledragon Key
+  material: PAPER
+  Pack:
+    model: littledragonset:key
+littledragon_shield:
+  display_name: Littledragon Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/littledragon_shield
+littledragon_wings:
+  display_name: Littledragon Wings
+  material: PAPER
+  Pack:
+    model: littledragonset:wings
+lolth:
+  display_name: Lolth
+  material: PAPER
+  Pack:
+    model: nexo:item/lolth
+mackerel:
+  display_name: Mackerel
+  material: PAPER
+  Pack:
+    model: nexo:item/mackerel
+mage_hood:
+  display_name: Mage Hood
+  material: PAPER
+  Pack:
+    model: fantasy_npc:mage_hood
+mako:
+  display_name: Mako
+  material: PAPER
+  Pack:
+    model: nexo:item/mako
+man_o_war:
+  display_name: Man O War
+  material: PAPER
+  Pack:
+    model: nexo:item/man_o_war
+marlin:
+  display_name: Marlin
+  material: PAPER
+  Pack:
+    model: nexo:item/marlin
+mask:
+  display_name: Mask
+  material: PAPER
+  Pack:
+    model: nexo:item/mask
+md_guitar:
+  display_name: Md Guitar
+  material: PAPER
+  Pack:
+    model: elitecreatures:modern_furniture_v1/md_guitar
+md_television:
+  display_name: Md Television
+  material: PAPER
+  Pack:
+    model: elitecreatures:modern_furniture_v1/md_television
+mechanic_glasses:
+  display_name: Mechanic Glasses
+  material: PAPER
+  Pack:
+    model: fantasy_npc:mechanic_glasses
+mechanic_wrench:
+  display_name: Mechanic Wrench
+  material: PAPER
+  Pack:
+    model: fantasy_npc:mechanic_wrench
+midnight_squid:
+  display_name: Midnight Squid
+  material: PAPER
+  Pack:
+    model: nexo:item/midnight_squid
+miner_hat:
+  display_name: Miner Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:miner_hat
+miner_lantern:
+  display_name: Miner Lantern
+  material: PAPER
+  Pack:
+    model: fantasy_npc:miner_lantern
+minnow:
+  display_name: Minnow
+  material: PAPER
+  Pack:
+    model: nexo:item/minnow
+mooranha:
+  display_name: Mooranha
+  material: PAPER
+  Pack:
+    model: nexo:item/mooranha
+moray_eel:
+  display_name: Moray Eel
+  material: PAPER
+  Pack:
+    model: nexo:item/moray_eel
+mud_crab:
+  display_name: Mud Crab
+  material: PAPER
+  Pack:
+    model: nexo:item/mud_crab
+mud_shark:
+  display_name: Mud Shark
+  material: PAPER
+  Pack:
+    model: nexo:item/mud_shark
+musselcracker:
+  display_name: Musselcracker
+  material: PAPER
+  Pack:
+    model: nexo:item/musselcracker
+mutton_snapper:
+  display_name: Mutton Snapper
+  material: PAPER
+  Pack:
+    model: nexo:item/mutton_snapper
+mystra:
+  display_name: Mystra
+  material: PAPER
+  Pack:
+    model: nexo:item/mystra
+mythical_lure:
+  display_name: Mythical Lure
+  material: PAPER
+  Pack:
+    model: nexo:item/mythical_lure
+necros_chest:
+  display_name: Necros Chest
+  material: PAPER
+  Pack:
+    model: necros_set:chest
+necros_key:
+  display_name: Necros Key
+  material: PAPER
+  Pack:
+    model: necros_set:key
+necros_mace:
+  display_name: Necros Mace
+  material: PAPER
+  Pack:
+    model: necros_set:mace
+necros_shield:
+  display_name: Necros Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/necros_shield
+necros_wings:
+  display_name: Necros Wings
+  material: PAPER
+  Pack:
+    model: necros_set:wings
+neon_tetra:
+  display_name: Neon Tetra
+  material: PAPER
+  Pack:
+    model: nexo:item/neon_tetra
+next_page_icon:
+  display_name: Next Page Icon
+  material: PAPER
+  Pack:
+    model: nexo:item/next_page_icon
+northern_pike:
+  display_name: Northern Pike
+  material: PAPER
+  Pack:
+    model: nexo:item/northern_pike
+octopus:
+  display_name: Octopus
+  material: PAPER
+  Pack:
+    model: nexo:item/octopus
+old_waterlogged_boot:
+  display_name: Old Waterlogged Boot
+  material: PAPER
+  Pack:
+    model: fishing_junk_and_bait:item/old_waterlogged_boot
+pacu:
+  display_name: Pacu
+  material: PAPER
+  Pack:
+    model: nexo:item/pacu
+payara:
+  display_name: Payara
+  material: PAPER
+  Pack:
+    model: nexo:item/payara
+perch:
+  display_name: Perch
+  material: PAPER
+  Pack:
+    model: nexo:item/perch
+pike:
+  display_name: Pike
+  material: PAPER
+  Pack:
+    model: nexo:item/pike
+pilchard:
+  display_name: Pilchard
+  material: PAPER
+  Pack:
+    model: nexo:item/pilchard
+piranha:
+  display_name: Piranha
+  material: PAPER
+  Pack:
+    model: nexo:item/piranha
+plaice:
+  display_name: Plaice
+  material: PAPER
+  Pack:
+    model: nexo:item/plaice
+platinum_lure:
+  display_name: Platinum Lure
+  material: PAPER
+  Pack:
+    model: nexo:item/platinum_lure
+pollock:
+  display_name: Pollock
+  material: PAPER
+  Pack:
+    model: nexo:item/pollock
+pompano:
+  display_name: Pompano
+  material: PAPER
+  Pack:
+    model: nexo:item/pompano
+porbeagle:
+  display_name: Porbeagle
+  material: PAPER
+  Pack:
+    model: nexo:item/porbeagle
+porgy:
+  display_name: Porgy
+  material: PAPER
+  Pack:
+    model: nexo:item/porgy
+pout:
+  display_name: Pout
+  material: PAPER
+  Pack:
+    model: nexo:item/pout
+pouting:
+  display_name: Pouting
+  material: PAPER
+  Pack:
+    model: nexo:item/pouting
+powder_brown_tang:
+  display_name: Powder Brown Tang
+  material: PAPER
+  Pack:
+    model: nexo:item/powder_brown_tang
+previous_page_icon:
+  display_name: Previous Page Icon
+  material: PAPER
+  Pack:
+    model: nexo:item/previous_page_icon
+prismite:
+  display_name: Prismite
+  material: PAPER
+  Pack:
+    model: nexo:item/prismite
+radiance_blade:
+  display_name: Radiance Blade
+  material: PAPER
+  Pack:
+    model: radiance_collection:blade
+radiance_chest:
+  display_name: Radiance Chest
+  material: PAPER
+  Pack:
+    model: radiance_collection:chest
+radiance_halberd:
+  display_name: Radiance Halberd
+  material: PAPER
+  Pack:
+    model: radiance_collection:halberd
+radiance_key:
+  display_name: Radiance Key
+  material: PAPER
+  Pack:
+    model: radiance_collection:key
+radiance_shield:
+  display_name: Radiance Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/radiance_shield
+radiance_wings:
+  display_name: Radiance Wings
+  material: PAPER
+  Pack:
+    model: radiance_collection:wings
+redgill:
+  display_name: Redgill
+  material: PAPER
+  Pack:
+    model: nexo:item/redgill
+red_bellied_piranha:
+  display_name: Red Bellied Piranha
+  material: PAPER
+  Pack:
+    model: nexo:item/red_bellied_piranha
+red_mullet:
+  display_name: Red Mullet
+  material: PAPER
+  Pack:
+    model: nexo:item/red_mullet
+red_snapper:
+  display_name: Red Snapper
+  material: PAPER
+  Pack:
+    model: nexo:item/red_snapper
+roach:
+  display_name: Roach
+  material: PAPER
+  Pack:
+    model: nexo:item/roach
+robber:
+  display_name: Robber
+  material: PAPER
+  Pack:
+    model: nexo:item/robber
+roker:
+  display_name: Roker
+  material: PAPER
+  Pack:
+    model: nexo:item/roker
+ruby_barb:
+  display_name: Ruby Barb
+  material: PAPER
+  Pack:
+    model: nexo:item/ruby_barb
+rudd:
+  display_name: Rudd
+  material: PAPER
+  Pack:
+    model: nexo:item/rudd
+runner:
+  display_name: Runner
+  material: PAPER
+  Pack:
+    model: nexo:item/runner
+sakura_chest:
+  display_name: Sakura Chest
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/chest
+sakura_club:
+  display_name: Sakura Club
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/club
+sakura_gauntlet:
+  display_name: Sakura Gauntlet
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/gauntlet
+sakura_halberd:
+  display_name: Sakura Halberd
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/halberd
+sakura_hat:
+  display_name: Sakura Hat
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/hat
+sakura_key:
+  display_name: Sakura Key
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/key
+sakura_mace:
+  display_name: Sakura Mace
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/mace
+sakura_shield:
+  display_name: Sakura Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/sakura_shield
+sakura_wing:
+  display_name: Sakura Wing
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/wing
+sandbar_shark:
+  display_name: Sandbar Shark
+  material: PAPER
+  Pack:
+    model: nexo:item/sandbar_shark
+sardine:
+  display_name: Sardine
+  material: PAPER
+  Pack:
+    model: nexo:item/sardine
+sashelas:
+  display_name: Sashelas
+  material: PAPER
+  Pack:
+    model: nexo:item/sashelas
+scad:
+  display_name: Scad
+  material: PAPER
+  Pack:
+    model: nexo:item/scad
+search_icon:
+  display_name: Search Icon
+  material: PAPER
+  Pack:
+    model: nexo:item/search_icon
+seaweed:
+  display_name: Seaweed
+  material: PAPER
+  Pack:
+    model: nexo:item/seaweed
+sea_bream:
+  display_name: Sea Bream
+  material: PAPER
+  Pack:
+    model: nexo:item/sea_bream
+sea_trout:
+  display_name: Sea Trout
+  material: PAPER
+  Pack:
+    model: nexo:item/sea_trout
+sergeant_major:
+  display_name: Sergeant Major
+  material: PAPER
+  Pack:
+    model: nexo:item/sergeant_major
+shad:
+  display_name: Shad
+  material: PAPER
+  Pack:
+    model: nexo:item/shad
+shrimp:
+  display_name: Shrimp
+  material: PAPER
+  Pack:
+    model: nexo:item/shrimp
+skate:
+  display_name: Skate
+  material: PAPER
+  Pack:
+    model: nexo:item/skate
+slimejack:
+  display_name: Slimejack
+  material: PAPER
+  Pack:
+    model: nexo:item/slimejack
+smelt:
+  display_name: Smelt
+  material: PAPER
+  Pack:
+    model: nexo:item/smelt
+smooth_hound:
+  display_name: Smooth Hound
+  material: PAPER
+  Pack:
+    model: nexo:item/smooth_hound
+sole:
+  display_name: Sole
+  material: PAPER
+  Pack:
+    model: nexo:item/sole
+spectra_utils_empty_slot:
+  display_name: Spectra Utils Empty Slot
+  material: PAPER
+  Pack:
+    model: nexo:item/spectra_utils_empty_slot
+spinner:
+  display_name: Spinner
+  material: PAPER
+  Pack:
+    model: nexo:item/spinner
+spotted_alligator_gar:
+  display_name: Spotted Alligator Gar
+  material: PAPER
+  Pack:
+    model: nexo:item/spotted_alligator_gar
+sprat:
+  display_name: Sprat
+  material: PAPER
+  Pack:
+    model: nexo:item/sprat
+squid:
+  display_name: Squid
+  material: PAPER
+  Pack:
+    model: nexo:item/squid
+squid_tentacle:
+  display_name: Squid Tentacle
+  material: PAPER
+  Pack:
+    model: nexo:item/squid_tentacle
+starlight_blade:
+  display_name: Starlight Blade
+  material: PAPER
+  Pack:
+    model: starlight:blade
+starlight_chest:
+  display_name: Starlight Chest
+  material: PAPER
+  Pack:
+    model: starlight:chest
+starlight_key:
+  display_name: Starlight Key
+  material: PAPER
+  Pack:
+    model: starlight:key
+starlight_shield:
+  display_name: Starlight Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/starlight_shield
+starlight_sickle:
+  display_name: Starlight Sickle
+  material: PAPER
+  Pack:
+    model: starlight:sickle
+starlight_wings:
+  display_name: Starlight Wings
+  material: PAPER
+  Pack:
+    model: starlight:wings
+stingray:
+  display_name: Stingray
+  material: PAPER
+  Pack:
+    model: nexo:item/stingray
+storage_chest:
+  display_name: Storage Chest
+  material: PAPER
+  Pack:
+    model: nexo:b53aa1b9-298f-436d-ae28-6f3474a170b5
+strawberry_tiger_barb:
+  display_name: Strawberry Tiger Barb
+  material: PAPER
+  Pack:
+    model: nexo:item/strawberry_tiger_barb
+sturgeon:
+  display_name: Sturgeon
+  material: PAPER
+  Pack:
+    model: nexo:item/sturgeon
+surfperch:
+  display_name: Surfperch
+  material: PAPER
+  Pack:
+    model: nexo:item/surfperch
+tarpon:
+  display_name: Tarpon
+  material: PAPER
+  Pack:
+    model: nexo:item/tarpon
+tarpon_snook:
+  display_name: Tarpon Snook
+  material: PAPER
+  Pack:
+    model: nexo:item/tarpon_snook
+tempest:
+  display_name: Tempest
+  material: PAPER
+  Pack:
+    model: nexo:item/tempest
+tempus:
+  display_name: Tempus
+  material: PAPER
+  Pack:
+    model: nexo:item/tempus
+tench:
+  display_name: Tench
+  material: PAPER
+  Pack:
+    model: nexo:item/tench
+tiger_barb:
+  display_name: Tiger Barb
+  material: PAPER
+  Pack:
+    model: nexo:item/tiger_barb
+tiger_shark:
+  display_name: Tiger Shark
+  material: PAPER
+  Pack:
+    model: nexo:item/tiger_shark
+tiger_trout:
+  display_name: Tiger Trout
+  material: PAPER
+  Pack:
+    model: nexo:item/tiger_trout
+tilapia:
+  display_name: Tilapia
+  material: PAPER
+  Pack:
+    model: nexo:item/tilapia
+tope:
+  display_name: Tope
+  material: PAPER
+  Pack:
+    model: nexo:item/tope
+topknot:
+  display_name: Topknot
+  material: PAPER
+  Pack:
+    model: nexo:item/topknot
+turbot:
+  display_name: Turbot
+  material: PAPER
+  Pack:
+    model: nexo:item/turbot
+tymora:
+  display_name: Tymora
+  material: PAPER
+  Pack:
+    model: nexo:item/tymora
+unicorn_tang:
+  display_name: Unicorn Tang
+  material: PAPER
+  Pack:
+    model: nexo:item/unicorn_tang
+valentine_bouquet:
+  display_name: Valentine Bouquet
+  material: PAPER
+  Pack:
+    model: valentineset:bouquet
+valentine_chest:
+  display_name: Valentine Chest
+  material: PAPER
+  Pack:
+    model: valentineset:chest
+valentine_head:
+  display_name: Valentine Head
+  material: PAPER
+  Pack:
+    model: valentineset:helmet
+valentine_key:
+  display_name: Valentine Key
+  material: PAPER
+  Pack:
+    model: valentineset:key
+valentine_shield:
+  display_name: Valentine Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/valentine_shield
+valentine_wings:
+  display_name: Valentine Wings
+  material: PAPER
+  Pack:
+    model: valentineset:wings
+vampire_squid:
+  display_name: Vampire Squid
+  material: PAPER
+  Pack:
+    model: nexo:item/vampire_squid
+wahoo:
+  display_name: Wahoo
+  material: PAPER
+  Pack:
+    model: nexo:item/wahoo
+walleye:
+  display_name: Walleye
+  material: PAPER
+  Pack:
+    model: nexo:item/walleye
+warden_chest:
+  display_name: Warden Chest
+  material: PAPER
+  Pack:
+    model: warden_set:chest
+warden_key:
+  display_name: Warden Key
+  material: PAPER
+  Pack:
+    model: warden_set:key
+warden_knife:
+  display_name: Warden Knife
+  material: PAPER
+  Pack:
+    model: warden_set:knife
+warden_shield:
+  display_name: Warden Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/warden_shield
+warden_wings:
+  display_name: Warden Wings
+  material: PAPER
+  Pack:
+    model: warden_set:wings
+wheat_farmer_hat:
+  display_name: Wheat Farmer Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:wheat_farmer_hat
+white_crappie:
+  display_name: White Crappie
+  material: PAPER
+  Pack:
+    model: nexo:item/white_crappie
+whiting:
+  display_name: Whiting
+  material: PAPER
+  Pack:
+    model: nexo:item/whiting
+witch_glasses:
+  display_name: Witch Glasses
+  material: PAPER
+  Pack:
+    model: fantasy_npc:witch_glasses
+witch_hat:
+  display_name: Witch Hat
+  material: PAPER
+  Pack:
+    model: fantasy_npc:witch_hat
+wolf_herring:
+  display_name: Wolf Herring
+  material: PAPER
+  Pack:
+    model: nexo:item/wolf_herring
+worm:
+  display_name: Worm
+  material: PAPER
+  Pack:
+    model: nexo:item/worm
+wrasse:
+  display_name: Wrasse
+  material: PAPER
+  Pack:
+    model: nexo:item/wrasse
+yellowfin_bream:
+  display_name: Yellowfin Bream
+  material: PAPER
+  Pack:
+    model: nexo:item/yellowfin_bream
+yellowgill_perch:
+  display_name: Yellowgill Perch
+  material: PAPER
+  Pack:
+    model: nexo:item/yellowgill_perch
+yellowmouth_grouper:
+  display_name: Yellowmouth Grouper
+  material: PAPER
+  Pack:
+    model: nexo:item/yellowmouth_grouper
+yellowtail_damsel:
+  display_name: Yellowtail Damsel
+  material: PAPER
+  Pack:
+    model: nexo:item/yellowtail_damsel
+yellowtail_snapper:
+  display_name: Yellowtail Snapper
+  material: PAPER
+  Pack:
+    model: nexo:item/yellowtail_snapper
+yellow_tang:
+  display_name: Yellow Tang
+  material: PAPER
+  Pack:
+    model: nexo:item/yellow_tang

@@ -1,0 +1,35 @@
+info:
+  namespace: headlesshorseman_animated
+items:
+  headlesshorseman_animated_weapon_set_boots:
+    display_name: Headlesshorseman Animated Weapon Set Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/headlesshorseman_animated_weapon_set_boots
+    Components:
+      equippable:
+        slot: FEET
+  headlesshorseman_animated_weapon_set_chestplate:
+    display_name: Headlesshorseman Animated Weapon Set Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/headlesshorseman_animated_weapon_set_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  headlesshorseman_animated_weapon_set_helmet:
+    display_name: Headlesshorseman Animated Weapon Set Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/headlesshorseman_animated_weapon_set_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  headlesshorseman_animated_weapon_set_leggings:
+    display_name: Headlesshorseman Animated Weapon Set Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/headlesshorseman_animated_weapon_set_leggings
+    Components:
+      equippable:
+        slot: LEGS

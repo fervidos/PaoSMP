@@ -1,0 +1,137 @@
+info:
+  namespace: bakery_decoration_v1
+items:
+  bakery_decoration_v1_baguette:
+    display_name: Bakery Decoration V1 Baguette
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/baguette
+  bakery_decoration_v1_bread:
+    display_name: Bakery Decoration V1 Bread
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/bread
+  bakery_decoration_v1_bread_obj:
+    display_name: Bakery Decoration V1 Bread Obj
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/bread_obj
+  bakery_decoration_v1_cake:
+    display_name: Bakery Decoration V1 Cake
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/cake
+  bakery_decoration_v1_chair:
+    display_name: Bakery Decoration V1 Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  bakery_decoration_v1_cookie:
+    display_name: Bakery Decoration V1 Cookie
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/cookie
+  bakery_decoration_v1_counter_1:
+    display_name: Bakery Decoration V1 Counter 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/counter_1
+  bakery_decoration_v1_counter_2:
+    display_name: Bakery Decoration V1 Counter 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/counter_2
+  bakery_decoration_v1_cupcakes:
+    display_name: Bakery Decoration V1 Cupcakes
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/cupcakes
+  bakery_decoration_v1_donut:
+    display_name: Bakery Decoration V1 Donut
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/donut
+  bakery_decoration_v1_glass_cabinet_1:
+    display_name: Bakery Decoration V1 Glass Cabinet 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/glass_cabinet_1
+  bakery_decoration_v1_glass_cabinet_2:
+    display_name: Bakery Decoration V1 Glass Cabinet 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/glass_cabinet_2
+  bakery_decoration_v1_jem:
+    display_name: Bakery Decoration V1 Jem
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/jem
+  bakery_decoration_v1_long_table:
+    display_name: Bakery Decoration V1 Long Table
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/long_table
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  bakery_decoration_v1_pain_de_campagne:
+    display_name: Bakery Decoration V1 Pain De Campagne
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/pain_de_campagne
+  bakery_decoration_v1_pie:
+    display_name: Bakery Decoration V1 Pie
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/pie
+  bakery_decoration_v1_shelf_1:
+    display_name: Bakery Decoration V1 Shelf 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/shelf_1
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  bakery_decoration_v1_shelf_2:
+    display_name: Bakery Decoration V1 Shelf 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/shelf_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  bakery_decoration_v1_shelf_3:
+    display_name: Bakery Decoration V1 Shelf 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/shelf_3
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  bakery_decoration_v1_sign:
+    display_name: Bakery Decoration V1 Sign
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/sign
+  bakery_decoration_v1_table:
+    display_name: Bakery Decoration V1 Table
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/table
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  bakery_decoration_v1_tray:
+    display_name: Bakery Decoration V1 Tray
+    material: PAPER
+    Pack:
+      model: elitecreatures:bakery_decoration_v1/tray

@@ -1,0 +1,140 @@
+info:
+  namespace: celestial_fox
+items:
+  celestial_fox_arsenal_axe:
+    display_name: Celestial Fox Arsenal Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: celestial_fox_arsenal:axe
+  celestial_fox_arsenal_boots:
+    display_name: Celestial Fox Arsenal Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_boots
+    Components:
+      equippable:
+        slot: FEET
+  celestial_fox_arsenal_bow:
+    display_name: Celestial Fox Arsenal Bow
+    material: BOW
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_bow
+  celestial_fox_arsenal_chest:
+    display_name: Celestial Fox Arsenal Chest
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:chest
+  celestial_fox_arsenal_chestplate:
+    display_name: Celestial Fox Arsenal Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  celestial_fox_arsenal_crossbow:
+    display_name: Celestial Fox Arsenal Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_crossbow
+  celestial_fox_arsenal_dagger:
+    display_name: Celestial Fox Arsenal Dagger
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:dagger
+  celestial_fox_arsenal_fishing_rod:
+    display_name: Celestial Fox Arsenal Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_fishing_rod
+  celestial_fox_arsenal_hammer:
+    display_name: Celestial Fox Arsenal Hammer
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:hammer
+  celestial_fox_arsenal_hat:
+    display_name: Celestial Fox Arsenal Hat
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:hat
+  celestial_fox_arsenal_helmet:
+    display_name: Celestial Fox Arsenal Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  celestial_fox_arsenal_hoe:
+    display_name: Celestial Fox Arsenal Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: celestial_fox_arsenal:hoe
+  celestial_fox_arsenal_key:
+    display_name: Celestial Fox Arsenal Key
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:key
+  celestial_fox_arsenal_leggings:
+    display_name: Celestial Fox Arsenal Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  celestial_fox_arsenal_pickaxe:
+    display_name: Celestial Fox Arsenal Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: celestial_fox_arsenal:pickaxe
+  celestial_fox_arsenal_rapier_sword:
+    display_name: Celestial Fox Arsenal Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: celestial_fox_arsenal:rapier_sword
+  celestial_fox_arsenal_scythe:
+    display_name: Celestial Fox Arsenal Scythe
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:scythe
+  celestial_fox_arsenal_shield:
+    display_name: Celestial Fox Arsenal Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/celestial_fox_arsenal_shield
+  celestial_fox_arsenal_shovel:
+    display_name: Celestial Fox Arsenal Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: celestial_fox_arsenal:shovel
+  celestial_fox_arsenal_spear:
+    display_name: Celestial Fox Arsenal Spear
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:spear
+  celestial_fox_arsenal_staff:
+    display_name: Celestial Fox Arsenal Staff
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:staff
+  celestial_fox_arsenal_sword:
+    display_name: Celestial Fox Arsenal Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: celestial_fox_arsenal:sword
+  celestial_fox_arsenal_trident:
+    display_name: Celestial Fox Arsenal Trident
+    material: TRIDENT
+    Pack:
+      model: celestial_fox_arsenal:trident
+  celestial_fox_arsenal_wing:
+    display_name: Celestial Fox Arsenal Wing
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:wing
+  celestial_fox_arsenal_wing_1:
+    display_name: Celestial Fox Arsenal Wing 1
+    material: PAPER
+    Pack:
+      model: celestial_fox_arsenal:wing_1

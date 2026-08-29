@@ -1,0 +1,13 @@
+info:
+  namespace: large_wooden
+items:
+  large_wooden_door:
+    display_name: Large Wooden Door
+    material: PAPER
+    Pack:
+      model: nexo:bcdb613d-25e4-47cc-adba-8255f3cacd22
+  large_wooden_sliding_door:
+    display_name: Large Wooden Sliding Door
+    material: PAPER
+    Pack:
+      model: nexo:bcdb613d-25e4-47cc-adba-8255f3cacd22

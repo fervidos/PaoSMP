@@ -1,0 +1,13 @@
+info:
+  namespace: cyber_crate
+items:
+  cyber_crate:
+    display_name: Cyber Crate
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/cyber_crate
+  cyber_crate_open:
+    display_name: Cyber Crate Open
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/blue/cyber_crate_open

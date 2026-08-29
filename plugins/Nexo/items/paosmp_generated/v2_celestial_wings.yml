@@ -1,0 +1,28 @@
+info:
+  namespace: v2_celestial_wings
+items:
+  v2_celestial_wings:
+    display_name: V2 Celestial Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/celestial_wings
+  v2_celestial_wings_normal:
+    display_name: V2 Celestial Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/celestial_wings_normal
+  v2_celestial_wings_normal_2:
+    display_name: V2 Celestial Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/celestial_wings_normal_2
+  v2_celestial_wings_self:
+    display_name: V2 Celestial Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/celestial_wings_self
+  v2_celestial_wings_self_2:
+    display_name: V2 Celestial Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/celestial_wings_self_2

@@ -1,0 +1,18 @@
+info:
+  namespace: miner_backpack
+items:
+  miner_backpack_coal:
+    display_name: Miner Backpack Coal
+    material: PAPER
+    Pack:
+      model: fantasy_npc:miner_backpack_coal
+  miner_backpack_gold:
+    display_name: Miner Backpack Gold
+    material: PAPER
+    Pack:
+      model: fantasy_npc:miner_backpack_gold
+  miner_backpack_iron:
+    display_name: Miner Backpack Iron
+    material: PAPER
+    Pack:
+      model: fantasy_npc:miner_backpack_iron

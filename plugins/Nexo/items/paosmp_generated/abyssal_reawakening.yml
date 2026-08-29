@@ -1,0 +1,140 @@
+info:
+  namespace: abyssal_reawakening
+items:
+  abyssal_reawakening_axe:
+    display_name: Abyssal Reawakening Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: abyssal_reawakening:axe
+  abyssal_reawakening_boots:
+    display_name: Abyssal Reawakening Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/abyssal_reawakening_boots
+    Components:
+      equippable:
+        slot: FEET
+  abyssal_reawakening_bow:
+    display_name: Abyssal Reawakening Bow
+    material: BOW
+    Pack:
+      model: nexo:item/abyssal_reawakening_bow
+  abyssal_reawakening_chest:
+    display_name: Abyssal Reawakening Chest
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:chest
+  abyssal_reawakening_chestplate:
+    display_name: Abyssal Reawakening Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/abyssal_reawakening_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  abyssal_reawakening_crossbow:
+    display_name: Abyssal Reawakening Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/abyssal_reawakening_crossbow
+  abyssal_reawakening_dagger:
+    display_name: Abyssal Reawakening Dagger
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:dagger
+  abyssal_reawakening_fishing_rod:
+    display_name: Abyssal Reawakening Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/abyssal_reawakening_fishing_rod
+  abyssal_reawakening_hammer:
+    display_name: Abyssal Reawakening Hammer
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:hammer
+  abyssal_reawakening_hat:
+    display_name: Abyssal Reawakening Hat
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:hat
+  abyssal_reawakening_helmet:
+    display_name: Abyssal Reawakening Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/abyssal_reawakening_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  abyssal_reawakening_hoe:
+    display_name: Abyssal Reawakening Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: abyssal_reawakening:hoe
+  abyssal_reawakening_key:
+    display_name: Abyssal Reawakening Key
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:key
+  abyssal_reawakening_leggings:
+    display_name: Abyssal Reawakening Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/abyssal_reawakening_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  abyssal_reawakening_pickaxe:
+    display_name: Abyssal Reawakening Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: abyssal_reawakening:pickaxe
+  abyssal_reawakening_rapier_sword:
+    display_name: Abyssal Reawakening Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: abyssal_reawakening:rapier_sword
+  abyssal_reawakening_scythe:
+    display_name: Abyssal Reawakening Scythe
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:scythe
+  abyssal_reawakening_shield:
+    display_name: Abyssal Reawakening Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/abyssal_reawakening_shield
+  abyssal_reawakening_shovel:
+    display_name: Abyssal Reawakening Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: abyssal_reawakening:shovel
+  abyssal_reawakening_spear:
+    display_name: Abyssal Reawakening Spear
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:spear
+  abyssal_reawakening_staff:
+    display_name: Abyssal Reawakening Staff
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:staff
+  abyssal_reawakening_sword:
+    display_name: Abyssal Reawakening Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: abyssal_reawakening:sword
+  abyssal_reawakening_trident:
+    display_name: Abyssal Reawakening Trident
+    material: TRIDENT
+    Pack:
+      model: abyssal_reawakening:trident
+  abyssal_reawakening_wing:
+    display_name: Abyssal Reawakening Wing
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:wing
+  abyssal_reawakening_wing_1:
+    display_name: Abyssal Reawakening Wing 1
+    material: PAPER
+    Pack:
+      model: abyssal_reawakening:wing_1

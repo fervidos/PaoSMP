@@ -1,0 +1,105 @@
+info:
+  namespace: japan_street_v2
+items:
+  japan_street_v2_front_sign_1:
+    display_name: Japan Street V2 Front Sign 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/front_sign_1
+  japan_street_v2_front_sign_2:
+    display_name: Japan Street V2 Front Sign 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/front_sign_2
+  japan_street_v2_front_sign_3:
+    display_name: Japan Street V2 Front Sign 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/front_sign_3
+  japan_street_v2_front_sign_4:
+    display_name: Japan Street V2 Front Sign 4
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/front_sign_4
+  japan_street_v2_front_sign_5:
+    display_name: Japan Street V2 Front Sign 5
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/front_sign_5
+  japan_street_v2_lantern:
+    display_name: Japan Street V2 Lantern
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/lantern
+  japan_street_v2_long_chair:
+    display_name: Japan Street V2 Long Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/long_chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  japan_street_v2_luckyblock:
+    display_name: Japan Street V2 Luckyblock
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/luckyblock
+  japan_street_v2_luxury_chair:
+    display_name: Japan Street V2 Luxury Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/luxury_chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  japan_street_v2_luxury_table:
+    display_name: Japan Street V2 Luxury Table
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/luxury_table
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  japan_street_v2_pillar_light_1:
+    display_name: Japan Street V2 Pillar Light 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/pillar_light_1
+  japan_street_v2_pillar_light_2:
+    display_name: Japan Street V2 Pillar Light 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/pillar_light_2
+  japan_street_v2_plants:
+    display_name: Japan Street V2 Plants
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/plants
+  japan_street_v2_post:
+    display_name: Japan Street V2 Post
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/post
+  japan_street_v2_road_sign_1:
+    display_name: Japan Street V2 Road Sign 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/road_sign_1
+  japan_street_v2_road_sign_2:
+    display_name: Japan Street V2 Road Sign 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/road_sign_2
+  japan_street_v2_road_sign_3:
+    display_name: Japan Street V2 Road Sign 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/road_sign_3
+  japan_street_v2_road_sign_all:
+    display_name: Japan Street V2 Road Sign All
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v2/road_sign_all

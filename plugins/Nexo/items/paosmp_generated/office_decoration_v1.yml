@@ -1,0 +1,135 @@
+info:
+  namespace: office_decoration_v1
+items:
+  office_decoration_v1_bin:
+    display_name: Office Decoration V1 Bin
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/bin
+  office_decoration_v1_board:
+    display_name: Office Decoration V1 Board
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/board
+  office_decoration_v1_chair_1:
+    display_name: Office Decoration V1 Chair 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/chair_1
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_chair_2:
+    display_name: Office Decoration V1 Chair 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/chair_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_file_box:
+    display_name: Office Decoration V1 File Box
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/file_box
+  office_decoration_v1_long_drawer:
+    display_name: Office Decoration V1 Long Drawer
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/long_drawer
+  office_decoration_v1_pile_files:
+    display_name: Office Decoration V1 Pile Files
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/pile_files
+  office_decoration_v1_pile_paper:
+    display_name: Office Decoration V1 Pile Paper
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/pile_paper
+  office_decoration_v1_printer:
+    display_name: Office Decoration V1 Printer
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/printer
+  office_decoration_v1_printer_small:
+    display_name: Office Decoration V1 Printer Small
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/printer_small
+  office_decoration_v1_shelf:
+    display_name: Office Decoration V1 Shelf
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/shelf
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_short_tongue:
+    display_name: Office Decoration V1 Short Tongue
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/short_tongue
+  office_decoration_v1_sofa_1:
+    display_name: Office Decoration V1 Sofa 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/sofa_1
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_sofa_2:
+    display_name: Office Decoration V1 Sofa 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/sofa_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_table_1:
+    display_name: Office Decoration V1 Table 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/table_1
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_table_2:
+    display_name: Office Decoration V1 Table 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/table_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_table_3:
+    display_name: Office Decoration V1 Table 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/table_3
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  office_decoration_v1_tv:
+    display_name: Office Decoration V1 Tv
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/tv
+  office_decoration_v1_water_dispenser:
+    display_name: Office Decoration V1 Water Dispenser
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/water_dispenser
+  office_decoration_v1_white_board:
+    display_name: Office Decoration V1 White Board
+    material: PAPER
+    Pack:
+      model: elitecreatures:office_decoration_v1/white_board

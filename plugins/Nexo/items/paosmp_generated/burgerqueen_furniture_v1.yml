@@ -1,0 +1,135 @@
+info:
+  namespace: burgerqueen_furniture_v1
+items:
+  burgerqueen_furniture_v1_cashier:
+    display_name: Burgerqueen Furniture V1 Cashier
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/cashier
+  burgerqueen_furniture_v1_chair:
+    display_name: Burgerqueen Furniture V1 Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_chair_2:
+    display_name: Burgerqueen Furniture V1 Chair 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/chair_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_crown:
+    display_name: Burgerqueen Furniture V1 Crown
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/crown
+  burgerqueen_furniture_v1_display_poster:
+    display_name: Burgerqueen Furniture V1 Display Poster
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/display_poster
+  burgerqueen_furniture_v1_ketchup_condiment_bottle:
+    display_name: Burgerqueen Furniture V1 Ketchup Condiment Bottle
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/ketchup_condiment_bottle
+  burgerqueen_furniture_v1_kid_chair:
+    display_name: Burgerqueen Furniture V1 Kid Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/kid_chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_logo_sign:
+    display_name: Burgerqueen Furniture V1 Logo Sign
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/logo_sign
+  burgerqueen_furniture_v1_meal:
+    display_name: Burgerqueen Furniture V1 Meal
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/meal
+  burgerqueen_furniture_v1_menu:
+    display_name: Burgerqueen Furniture V1 Menu
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/menu
+  burgerqueen_furniture_v1_menu_display:
+    display_name: Burgerqueen Furniture V1 Menu Display
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/menu_display
+  burgerqueen_furniture_v1_package:
+    display_name: Burgerqueen Furniture V1 Package
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/package
+  burgerqueen_furniture_v1_painting:
+    display_name: Burgerqueen Furniture V1 Painting
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/painting
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_small_poster:
+    display_name: Burgerqueen Furniture V1 Small Poster
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/small_poster
+  burgerqueen_furniture_v1_soda_dispenser:
+    display_name: Burgerqueen Furniture V1 Soda Dispenser
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/soda_dispenser
+  burgerqueen_furniture_v1_table:
+    display_name: Burgerqueen Furniture V1 Table
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/table
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_table_2:
+    display_name: Burgerqueen Furniture V1 Table 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/table_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_table_3:
+    display_name: Burgerqueen Furniture V1 Table 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/table_3
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_table_4:
+    display_name: Burgerqueen Furniture V1 Table 4
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/table_4
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  burgerqueen_furniture_v1_trash_can:
+    display_name: Burgerqueen Furniture V1 Trash Can
+    material: PAPER
+    Pack:
+      model: elitecreatures:burgerqueen_furniture_v1/trash_can

@@ -1,0 +1,153 @@
+info:
+  namespace: dark_wither
+items:
+  dark_wither_axe:
+    display_name: Dark Wither Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: darkwitherset:axe
+  dark_wither_boots:
+    display_name: Dark Wither Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/dark_wither_boots
+    Components:
+      equippable:
+        slot: FEET
+  dark_wither_bow:
+    display_name: Dark Wither Bow
+    material: BOW
+    Pack:
+      model: nexo:item/dark_wither_bow
+  dark_wither_cape:
+    display_name: Dark Wither Cape
+    material: PAPER
+    Pack:
+      model: darkwitherset:cape
+  dark_wither_chest:
+    display_name: Dark Wither Chest
+    material: PAPER
+    Pack:
+      model: darkwitherset:chest
+  dark_wither_chestplate:
+    display_name: Dark Wither Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/dark_wither_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  dark_wither_cosmetics_cape:
+    display_name: Dark Wither Cosmetics Cape
+    material: PAPER
+    Pack:
+      model: darkwitherset:cape_cosmetic
+  dark_wither_cosmetics_cape_normal_2:
+    display_name: Dark Wither Cosmetics Cape Normal 2
+    material: PAPER
+    Pack:
+      model: darkwitherset:cape_cosmetic_normal_2
+  dark_wither_cosmetics_cape_self:
+    display_name: Dark Wither Cosmetics Cape Self
+    material: PAPER
+    Pack:
+      model: darkwitherset:cape_cosmetic_self
+  dark_wither_cosmetics_cape_self_2:
+    display_name: Dark Wither Cosmetics Cape Self 2
+    material: PAPER
+    Pack:
+      model: darkwitherset:cape_cosmetic_self_2
+  dark_wither_cosmetics_helmet:
+    display_name: Dark Wither Cosmetics Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: darkwitherset:helmet
+    Components:
+      equippable:
+        slot: HEAD
+  dark_wither_crossbow:
+    display_name: Dark Wither Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/dark_wither_crossbow
+  dark_wither_fishing_rod:
+    display_name: Dark Wither Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/dark_wither_fishing_rod
+  dark_wither_greatsword:
+    display_name: Dark Wither Greatsword
+    material: DIAMOND_SWORD
+    Pack:
+      model: darkwitherset:greatsword
+  dark_wither_hammer:
+    display_name: Dark Wither Hammer
+    material: PAPER
+    Pack:
+      model: darkwitherset:hammer
+  dark_wither_helmet:
+    display_name: Dark Wither Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: darkwitherset:helmet
+    Components:
+      equippable:
+        slot: HEAD
+  dark_wither_hoe:
+    display_name: Dark Wither Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: darkwitherset:hoe
+  dark_wither_key:
+    display_name: Dark Wither Key
+    material: PAPER
+    Pack:
+      model: darkwitherset:key
+  dark_wither_leggings:
+    display_name: Dark Wither Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/dark_wither_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  dark_wither_pickaxe:
+    display_name: Dark Wither Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: darkwitherset:pickaxe
+  dark_wither_scythe:
+    display_name: Dark Wither Scythe
+    material: PAPER
+    Pack:
+      model: darkwitherset:scythe
+  dark_wither_shield:
+    display_name: Dark Wither Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/dark_wither_shield
+  dark_wither_shovel:
+    display_name: Dark Wither Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: darkwitherset:shovel
+  dark_wither_spear:
+    display_name: Dark Wither Spear
+    material: PAPER
+    Pack:
+      model: darkwitherset:spear
+  dark_wither_staff:
+    display_name: Dark Wither Staff
+    material: PAPER
+    Pack:
+      model: darkwitherset:staff
+  dark_wither_sword:
+    display_name: Dark Wither Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: darkwitherset:sword
+  dark_wither_trident:
+    display_name: Dark Wither Trident
+    material: TRIDENT
+    Pack:
+      model: darkwitherset:trident

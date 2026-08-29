@@ -1,0 +1,57 @@
+info:
+  namespace: connectable
+items:
+  connectable_connectable:
+    display_name: Connectable Connectable
+    material: PAPER
+    Pack:
+      model: nexo:item/connectable
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  connectable_connectable_inner:
+    display_name: Connectable Connectable Inner
+    material: PAPER
+    Pack:
+      model: nexo:90b183b0-4fe4-4820-a050-ca6b95c68452
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  connectable_connectable_left:
+    display_name: Connectable Connectable Left
+    material: PAPER
+    Pack:
+      model: nexo:97935d67-31a8-49f0-8f66-ffd2483a68cc
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  connectable_connectable_outer:
+    display_name: Connectable Connectable Outer
+    material: PAPER
+    Pack:
+      model: nexo:3724ee5c-1bed-4a3c-a363-cf4de755d831
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  connectable_connectable_right:
+    display_name: Connectable Connectable Right
+    material: PAPER
+    Pack:
+      model: nexo:6b8632ed-b780-4f1a-83e4-35266ee701d7
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  connectable_connectable_straight:
+    display_name: Connectable Connectable Straight
+    material: PAPER
+    Pack:
+      model: nexo:19949684-dbbc-4189-9aca-46bd63491573
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

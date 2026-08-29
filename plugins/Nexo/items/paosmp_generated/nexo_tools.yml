@@ -1,0 +1,33 @@
+info:
+  namespace: nexo_tools
+items:
+  nexo_tools_forest_axe:
+    display_name: Nexo Tools Forest Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: nexo:481f4e6f-8241-42de-a49b-276e3178b4bf
+  nexo_tools_forest_hoe:
+    display_name: Nexo Tools Forest Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: nexo:bb4eba1b-2ae9-4814-93e1-06aaecd8713e
+  nexo_tools_forest_pickaxe:
+    display_name: Nexo Tools Forest Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: nexo:eb957876-64df-4ac9-9294-f677e213ba0d
+  nexo_tools_forest_shield:
+    display_name: Nexo Tools Forest Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/forest_shield
+  nexo_tools_forest_shovel:
+    display_name: Nexo Tools Forest Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: nexo:9304bbe9-bfd8-4d5d-bd5c-3b659dbc4f49
+  nexo_tools_forest_sword:
+    display_name: Nexo Tools Forest Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: nexo:386504e1-1fb9-4770-a238-6093a2667d24

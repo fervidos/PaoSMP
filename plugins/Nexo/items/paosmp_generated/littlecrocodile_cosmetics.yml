@@ -1,0 +1,28 @@
+info:
+  namespace: littlecrocodile_cosmetics
+items:
+  littlecrocodile_cosmetics_backpack:
+    display_name: Littlecrocodile Cosmetics Backpack
+    material: PAPER
+    Pack:
+      model: littlecrocodileset:backpack_cosmetic
+  littlecrocodile_cosmetics_backpack_normal_2:
+    display_name: Littlecrocodile Cosmetics Backpack Normal 2
+    material: PAPER
+    Pack:
+      model: littlecrocodileset:backpack_cosmetic_normal_2
+  littlecrocodile_cosmetics_backpack_self:
+    display_name: Littlecrocodile Cosmetics Backpack Self
+    material: PAPER
+    Pack:
+      model: littlecrocodileset:backpack_cosmetic_self
+  littlecrocodile_cosmetics_backpack_self_2:
+    display_name: Littlecrocodile Cosmetics Backpack Self 2
+    material: PAPER
+    Pack:
+      model: littlecrocodileset:backpack_cosmetic_self_2
+  littlecrocodile_cosmetics_crocodile_hat:
+    display_name: Littlecrocodile Cosmetics Crocodile Hat
+    material: PAPER
+    Pack:
+      model: littlecrocodileset:crocodile_hat

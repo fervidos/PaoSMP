@@ -1,0 +1,35 @@
+info:
+  namespace: pink_legacy
+items:
+  pink_legacy_animated_weapon_set_boots:
+    display_name: Pink Legacy Animated Weapon Set Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/pink_legacy_animated_weapon_set_boots
+    Components:
+      equippable:
+        slot: FEET
+  pink_legacy_animated_weapon_set_chestplate:
+    display_name: Pink Legacy Animated Weapon Set Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/pink_legacy_animated_weapon_set_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  pink_legacy_animated_weapon_set_helmet:
+    display_name: Pink Legacy Animated Weapon Set Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/pink_legacy_animated_weapon_set_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  pink_legacy_animated_weapon_set_leggings:
+    display_name: Pink Legacy Animated Weapon Set Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/pink_legacy_animated_weapon_set_leggings
+    Components:
+      equippable:
+        slot: LEGS

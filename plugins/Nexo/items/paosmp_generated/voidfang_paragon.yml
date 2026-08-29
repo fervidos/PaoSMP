@@ -1,0 +1,140 @@
+info:
+  namespace: voidfang_paragon
+items:
+  voidfang_paragon_axe:
+    display_name: Voidfang Paragon Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: voidfang_paragon:axe
+  voidfang_paragon_boots:
+    display_name: Voidfang Paragon Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/voidfang_paragon_boots
+    Components:
+      equippable:
+        slot: FEET
+  voidfang_paragon_bow:
+    display_name: Voidfang Paragon Bow
+    material: BOW
+    Pack:
+      model: nexo:item/voidfang_paragon_bow
+  voidfang_paragon_chest:
+    display_name: Voidfang Paragon Chest
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:chest
+  voidfang_paragon_chestplate:
+    display_name: Voidfang Paragon Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/voidfang_paragon_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  voidfang_paragon_crossbow:
+    display_name: Voidfang Paragon Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/voidfang_paragon_crossbow
+  voidfang_paragon_dagger:
+    display_name: Voidfang Paragon Dagger
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:dagger
+  voidfang_paragon_fishing_rod:
+    display_name: Voidfang Paragon Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/voidfang_paragon_fishing_rod
+  voidfang_paragon_hammer:
+    display_name: Voidfang Paragon Hammer
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:hammer
+  voidfang_paragon_hat:
+    display_name: Voidfang Paragon Hat
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:hat
+  voidfang_paragon_helmet:
+    display_name: Voidfang Paragon Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/voidfang_paragon_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  voidfang_paragon_hoe:
+    display_name: Voidfang Paragon Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: voidfang_paragon:hoe
+  voidfang_paragon_key:
+    display_name: Voidfang Paragon Key
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:key
+  voidfang_paragon_leggings:
+    display_name: Voidfang Paragon Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/voidfang_paragon_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  voidfang_paragon_pickaxe:
+    display_name: Voidfang Paragon Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: voidfang_paragon:pickaxe
+  voidfang_paragon_rapier_sword:
+    display_name: Voidfang Paragon Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: voidfang_paragon:rapier_sword
+  voidfang_paragon_scythe:
+    display_name: Voidfang Paragon Scythe
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:scythe
+  voidfang_paragon_shield:
+    display_name: Voidfang Paragon Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/voidfang_paragon_shield
+  voidfang_paragon_shovel:
+    display_name: Voidfang Paragon Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: voidfang_paragon:shovel
+  voidfang_paragon_spear:
+    display_name: Voidfang Paragon Spear
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:spear
+  voidfang_paragon_staff:
+    display_name: Voidfang Paragon Staff
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:staff
+  voidfang_paragon_sword:
+    display_name: Voidfang Paragon Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: voidfang_paragon:sword
+  voidfang_paragon_trident:
+    display_name: Voidfang Paragon Trident
+    material: TRIDENT
+    Pack:
+      model: voidfang_paragon:trident
+  voidfang_paragon_wing:
+    display_name: Voidfang Paragon Wing
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:wing
+  voidfang_paragon_wing_1:
+    display_name: Voidfang Paragon Wing 1
+    material: PAPER
+    Pack:
+      model: voidfang_paragon:wing_1

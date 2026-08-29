@@ -1,0 +1,23 @@
+info:
+  namespace: japan_street_v3
+items:
+  japan_street_v3_log:
+    display_name: Japan Street V3 Log
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v3/log
+  japan_street_v3_shop_1:
+    display_name: Japan Street V3 Shop 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v3/shop_1
+  japan_street_v3_shop_2:
+    display_name: Japan Street V3 Shop 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v3/shop_2
+  japan_street_v3_shop_3:
+    display_name: Japan Street V3 Shop 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v3/shop_3

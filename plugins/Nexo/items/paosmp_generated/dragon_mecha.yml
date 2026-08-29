@@ -1,0 +1,145 @@
+info:
+  namespace: dragon_mecha
+items:
+  dragon_mecha_overlord_axe:
+    display_name: Dragon Mecha Overlord Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: dragon_mecha_overlord:axe
+  dragon_mecha_overlord_boots:
+    display_name: Dragon Mecha Overlord Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_boots
+    Components:
+      equippable:
+        slot: FEET
+  dragon_mecha_overlord_bow:
+    display_name: Dragon Mecha Overlord Bow
+    material: BOW
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_bow
+  dragon_mecha_overlord_chest:
+    display_name: Dragon Mecha Overlord Chest
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:chest
+  dragon_mecha_overlord_chestplate:
+    display_name: Dragon Mecha Overlord Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  dragon_mecha_overlord_crossbow:
+    display_name: Dragon Mecha Overlord Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_crossbow
+  dragon_mecha_overlord_dagger:
+    display_name: Dragon Mecha Overlord Dagger
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:dagger
+  dragon_mecha_overlord_fishing_rod:
+    display_name: Dragon Mecha Overlord Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_fishing_rod
+  dragon_mecha_overlord_great_sword:
+    display_name: Dragon Mecha Overlord Great Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: dragon_mecha_overlord:great_sword
+  dragon_mecha_overlord_hammer:
+    display_name: Dragon Mecha Overlord Hammer
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:hammer
+  dragon_mecha_overlord_hat:
+    display_name: Dragon Mecha Overlord Hat
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:hat
+  dragon_mecha_overlord_helmet:
+    display_name: Dragon Mecha Overlord Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  dragon_mecha_overlord_hoe:
+    display_name: Dragon Mecha Overlord Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: dragon_mecha_overlord:hoe
+  dragon_mecha_overlord_key:
+    display_name: Dragon Mecha Overlord Key
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:key
+  dragon_mecha_overlord_leggings:
+    display_name: Dragon Mecha Overlord Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  dragon_mecha_overlord_pickaxe:
+    display_name: Dragon Mecha Overlord Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: dragon_mecha_overlord:pickaxe
+  dragon_mecha_overlord_rapier_sword:
+    display_name: Dragon Mecha Overlord Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: dragon_mecha_overlord:rapier_sword
+  dragon_mecha_overlord_scythe:
+    display_name: Dragon Mecha Overlord Scythe
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:scythe
+  dragon_mecha_overlord_shield:
+    display_name: Dragon Mecha Overlord Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/dragon_mecha_overlord_shield
+  dragon_mecha_overlord_shovel:
+    display_name: Dragon Mecha Overlord Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: dragon_mecha_overlord:shovel
+  dragon_mecha_overlord_spear:
+    display_name: Dragon Mecha Overlord Spear
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:spear
+  dragon_mecha_overlord_staff:
+    display_name: Dragon Mecha Overlord Staff
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:staff
+  dragon_mecha_overlord_sword:
+    display_name: Dragon Mecha Overlord Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: dragon_mecha_overlord:sword
+  dragon_mecha_overlord_trident:
+    display_name: Dragon Mecha Overlord Trident
+    material: TRIDENT
+    Pack:
+      model: dragon_mecha_overlord:trident
+  dragon_mecha_overlord_wing:
+    display_name: Dragon Mecha Overlord Wing
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:wing
+  dragon_mecha_overlord_wing_1:
+    display_name: Dragon Mecha Overlord Wing 1
+    material: PAPER
+    Pack:
+      model: dragon_mecha_overlord:wing_1

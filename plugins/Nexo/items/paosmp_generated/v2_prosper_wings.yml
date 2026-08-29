@@ -1,0 +1,28 @@
+info:
+  namespace: v2_prosper_wings
+items:
+  v2_prosper_wings:
+    display_name: V2 Prosper Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/prosper_wings
+  v2_prosper_wings_normal:
+    display_name: V2 Prosper Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/prosper_wings_normal
+  v2_prosper_wings_normal_2:
+    display_name: V2 Prosper Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/prosper_wings_normal_2
+  v2_prosper_wings_self:
+    display_name: V2 Prosper Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/prosper_wings_self
+  v2_prosper_wings_self_2:
+    display_name: V2 Prosper Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/prosper_wings_self_2

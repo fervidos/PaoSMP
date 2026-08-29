@@ -1,0 +1,120 @@
+info:
+  namespace: plny_lovebound
+items:
+  plny_lovebound_set_axe:
+    display_name: Plny Lovebound Set Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: plny_lovebound_set:axe
+  plny_lovebound_set_boots:
+    display_name: Plny Lovebound Set Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/plny_lovebound_set_boots
+    Components:
+      equippable:
+        slot: FEET
+  plny_lovebound_set_bow:
+    display_name: Plny Lovebound Set Bow
+    material: BOW
+    Pack:
+      model: nexo:item/plny_lovebound_set_bow
+  plny_lovebound_set_cape:
+    display_name: Plny Lovebound Set Cape
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:cape
+  plny_lovebound_set_chest:
+    display_name: Plny Lovebound Set Chest
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:chest
+  plny_lovebound_set_chestplate:
+    display_name: Plny Lovebound Set Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/plny_lovebound_set_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  plny_lovebound_set_crossbow:
+    display_name: Plny Lovebound Set Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/plny_lovebound_set_crossbow
+  plny_lovebound_set_fishing_rod:
+    display_name: Plny Lovebound Set Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/plny_lovebound_set_fishing_rod
+  plny_lovebound_set_hat:
+    display_name: Plny Lovebound Set Hat
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:hat
+  plny_lovebound_set_helmet:
+    display_name: Plny Lovebound Set Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/plny_lovebound_set_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  plny_lovebound_set_hoe:
+    display_name: Plny Lovebound Set Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: plny_lovebound_set:hoe
+  plny_lovebound_set_key:
+    display_name: Plny Lovebound Set Key
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:key
+  plny_lovebound_set_leggings:
+    display_name: Plny Lovebound Set Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/plny_lovebound_set_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  plny_lovebound_set_mace:
+    display_name: Plny Lovebound Set Mace
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:mace
+  plny_lovebound_set_pickaxe:
+    display_name: Plny Lovebound Set Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: plny_lovebound_set:pickaxe
+  plny_lovebound_set_shield:
+    display_name: Plny Lovebound Set Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/plny_lovebound_set_shield
+  plny_lovebound_set_shovel:
+    display_name: Plny Lovebound Set Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: plny_lovebound_set:shovel
+  plny_lovebound_set_spear:
+    display_name: Plny Lovebound Set Spear
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:spear
+  plny_lovebound_set_staff:
+    display_name: Plny Lovebound Set Staff
+    material: PAPER
+    Pack:
+      model: plny_lovebound_set:staff
+  plny_lovebound_set_sword:
+    display_name: Plny Lovebound Set Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: plny_lovebound_set:sword
+  plny_lovebound_set_trident:
+    display_name: Plny Lovebound Set Trident
+    material: TRIDENT
+    Pack:
+      model: plny_lovebound_set:trident

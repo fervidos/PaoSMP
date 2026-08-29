@@ -1,0 +1,23 @@
+info:
+  namespace: starlight_cosmetics
+items:
+  starlight_cosmetics_wings:
+    display_name: Starlight Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: starlight:wings_cosmetic
+  starlight_cosmetics_wings_normal_2:
+    display_name: Starlight Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: starlight:wings_cosmetic_normal_2
+  starlight_cosmetics_wings_self:
+    display_name: Starlight Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: starlight:wings_cosmetic_self
+  starlight_cosmetics_wings_self_2:
+    display_name: Starlight Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: starlight:wings_cosmetic_self_2

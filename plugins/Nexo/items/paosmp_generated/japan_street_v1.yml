@@ -1,0 +1,109 @@
+info:
+  namespace: japan_street_v1
+items:
+  japan_street_v1_barral:
+    display_name: Japan Street V1 Barral
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/barral
+  japan_street_v1_bigbox:
+    display_name: Japan Street V1 Bigbox
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/bigbox
+  japan_street_v1_bin_1:
+    display_name: Japan Street V1 Bin 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/bin_1
+  japan_street_v1_bin_2:
+    display_name: Japan Street V1 Bin 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/bin_2
+  japan_street_v1_bin_3:
+    display_name: Japan Street V1 Bin 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/bin_3
+  japan_street_v1_bin_4:
+    display_name: Japan Street V1 Bin 4
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/bin_4
+  japan_street_v1_bin_5:
+    display_name: Japan Street V1 Bin 5
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/bin_5
+  japan_street_v1_box_1:
+    display_name: Japan Street V1 Box 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/box_1
+  japan_street_v1_box_2:
+    display_name: Japan Street V1 Box 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/box_2
+  japan_street_v1_chair:
+    display_name: Japan Street V1 Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  japan_street_v1_clock:
+    display_name: Japan Street V1 Clock
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/clock
+  japan_street_v1_fishbar_1:
+    display_name: Japan Street V1 Fishbar 1
+    material: TROPICAL_FISH
+    Pack:
+      model: elitecreatures:japan_street_v1/fishbar_1
+  japan_street_v1_fishbar_2:
+    display_name: Japan Street V1 Fishbar 2
+    material: TROPICAL_FISH
+    Pack:
+      model: elitecreatures:japan_street_v1/fishbar_2
+  japan_street_v1_floor_sign_1:
+    display_name: Japan Street V1 Floor Sign 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/floor_sign_1
+  japan_street_v1_floor_sign_2:
+    display_name: Japan Street V1 Floor Sign 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/floor_sign_2
+  japan_street_v1_flower_bed_1:
+    display_name: Japan Street V1 Flower Bed 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/flower_bed_1
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  japan_street_v1_flower_bed_2:
+    display_name: Japan Street V1 Flower Bed 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/flower_bed_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  japan_street_v1_flower_bed_3:
+    display_name: Japan Street V1 Flower Bed 3
+    material: PAPER
+    Pack:
+      model: elitecreatures:japan_street_v1/flower_bed_3
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

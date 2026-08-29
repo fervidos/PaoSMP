@@ -55,7 +55,7 @@ Pack:
     model_engine: true
   dispatch:
     send_pre_join: true
-    send_on_join: false
+    send_on_join: true
     send_on_reload: true
     delay: -1
     mandatory: true

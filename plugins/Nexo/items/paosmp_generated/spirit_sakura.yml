@@ -1,0 +1,140 @@
+info:
+  namespace: spirit_sakura
+items:
+  spirit_sakura_axe:
+    display_name: Spirit Sakura Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: spirit_sakura:axe
+  spirit_sakura_boots:
+    display_name: Spirit Sakura Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/spirit_sakura_boots
+    Components:
+      equippable:
+        slot: FEET
+  spirit_sakura_bow:
+    display_name: Spirit Sakura Bow
+    material: BOW
+    Pack:
+      model: nexo:item/spirit_sakura_bow
+  spirit_sakura_chest:
+    display_name: Spirit Sakura Chest
+    material: PAPER
+    Pack:
+      model: spirit_sakura:chest
+  spirit_sakura_chestplate:
+    display_name: Spirit Sakura Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/spirit_sakura_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  spirit_sakura_crossbow:
+    display_name: Spirit Sakura Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/spirit_sakura_crossbow
+  spirit_sakura_dagger:
+    display_name: Spirit Sakura Dagger
+    material: PAPER
+    Pack:
+      model: spirit_sakura:dagger
+  spirit_sakura_fishing_rod:
+    display_name: Spirit Sakura Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/spirit_sakura_fishing_rod
+  spirit_sakura_hammer:
+    display_name: Spirit Sakura Hammer
+    material: PAPER
+    Pack:
+      model: spirit_sakura:hammer
+  spirit_sakura_hat:
+    display_name: Spirit Sakura Hat
+    material: PAPER
+    Pack:
+      model: spirit_sakura:hat
+  spirit_sakura_helmet:
+    display_name: Spirit Sakura Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/spirit_sakura_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  spirit_sakura_hoe:
+    display_name: Spirit Sakura Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: spirit_sakura:hoe
+  spirit_sakura_key:
+    display_name: Spirit Sakura Key
+    material: PAPER
+    Pack:
+      model: spirit_sakura:key
+  spirit_sakura_leggings:
+    display_name: Spirit Sakura Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/spirit_sakura_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  spirit_sakura_pickaxe:
+    display_name: Spirit Sakura Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: spirit_sakura:pickaxe
+  spirit_sakura_rapier_sword:
+    display_name: Spirit Sakura Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: spirit_sakura:rapier_sword
+  spirit_sakura_scythe:
+    display_name: Spirit Sakura Scythe
+    material: PAPER
+    Pack:
+      model: spirit_sakura:scythe
+  spirit_sakura_shield:
+    display_name: Spirit Sakura Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/spirit_sakura_shield
+  spirit_sakura_shovel:
+    display_name: Spirit Sakura Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: spirit_sakura:shovel
+  spirit_sakura_spear:
+    display_name: Spirit Sakura Spear
+    material: PAPER
+    Pack:
+      model: spirit_sakura:spear
+  spirit_sakura_staff:
+    display_name: Spirit Sakura Staff
+    material: PAPER
+    Pack:
+      model: spirit_sakura:staff
+  spirit_sakura_sword:
+    display_name: Spirit Sakura Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: spirit_sakura:sword
+  spirit_sakura_trident:
+    display_name: Spirit Sakura Trident
+    material: TRIDENT
+    Pack:
+      model: spirit_sakura:trident
+  spirit_sakura_wing:
+    display_name: Spirit Sakura Wing
+    material: PAPER
+    Pack:
+      model: spirit_sakura:wing
+  spirit_sakura_wing_1:
+    display_name: Spirit Sakura Wing 1
+    material: PAPER
+    Pack:
+      model: spirit_sakura:wing_1

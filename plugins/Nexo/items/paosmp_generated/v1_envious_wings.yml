@@ -1,0 +1,28 @@
+info:
+  namespace: v1_envious_wings
+items:
+  v1_envious_wings:
+    display_name: V1 Envious Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/envious_wings
+  v1_envious_wings_normal:
+    display_name: V1 Envious Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/envious_wings_normal
+  v1_envious_wings_normal_2:
+    display_name: V1 Envious Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/envious_wings_normal_2
+  v1_envious_wings_self:
+    display_name: V1 Envious Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/envious_wings_self
+  v1_envious_wings_self_2:
+    display_name: V1 Envious Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/envious_wings_self_2

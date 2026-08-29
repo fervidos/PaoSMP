@@ -1,0 +1,23 @@
+info:
+  namespace: blueflame_cosmetics
+items:
+  blueflame_cosmetics_wings:
+    display_name: Blueflame Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: blueflame:wings_cosmetic
+  blueflame_cosmetics_wings_normal_2:
+    display_name: Blueflame Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: blueflame:wings_cosmetic_normal_2
+  blueflame_cosmetics_wings_self:
+    display_name: Blueflame Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: blueflame:wings_cosmetic_self
+  blueflame_cosmetics_wings_self_2:
+    display_name: Blueflame Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: blueflame:wings_cosmetic_self_2

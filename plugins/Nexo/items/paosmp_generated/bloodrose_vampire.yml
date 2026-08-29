@@ -1,0 +1,140 @@
+info:
+  namespace: bloodrose_vampire
+items:
+  bloodrose_vampire_axe:
+    display_name: Bloodrose Vampire Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: bloodrose_vampire:axe
+  bloodrose_vampire_boots:
+    display_name: Bloodrose Vampire Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/bloodrose_vampire_boots
+    Components:
+      equippable:
+        slot: FEET
+  bloodrose_vampire_bow:
+    display_name: Bloodrose Vampire Bow
+    material: BOW
+    Pack:
+      model: nexo:item/bloodrose_vampire_bow
+  bloodrose_vampire_chest:
+    display_name: Bloodrose Vampire Chest
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:chest
+  bloodrose_vampire_chestplate:
+    display_name: Bloodrose Vampire Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/bloodrose_vampire_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  bloodrose_vampire_crossbow:
+    display_name: Bloodrose Vampire Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/bloodrose_vampire_crossbow
+  bloodrose_vampire_dagger:
+    display_name: Bloodrose Vampire Dagger
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:dagger
+  bloodrose_vampire_fishing_rod:
+    display_name: Bloodrose Vampire Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/bloodrose_vampire_fishing_rod
+  bloodrose_vampire_hammer:
+    display_name: Bloodrose Vampire Hammer
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:hammer
+  bloodrose_vampire_hat:
+    display_name: Bloodrose Vampire Hat
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:hat
+  bloodrose_vampire_helmet:
+    display_name: Bloodrose Vampire Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/bloodrose_vampire_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  bloodrose_vampire_hoe:
+    display_name: Bloodrose Vampire Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: bloodrose_vampire:hoe
+  bloodrose_vampire_key:
+    display_name: Bloodrose Vampire Key
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:key
+  bloodrose_vampire_leggings:
+    display_name: Bloodrose Vampire Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/bloodrose_vampire_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  bloodrose_vampire_pickaxe:
+    display_name: Bloodrose Vampire Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: bloodrose_vampire:pickaxe
+  bloodrose_vampire_rapier_sword:
+    display_name: Bloodrose Vampire Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: bloodrose_vampire:rapier_sword
+  bloodrose_vampire_scythe:
+    display_name: Bloodrose Vampire Scythe
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:scythe
+  bloodrose_vampire_shield:
+    display_name: Bloodrose Vampire Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/bloodrose_vampire_shield
+  bloodrose_vampire_shovel:
+    display_name: Bloodrose Vampire Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: bloodrose_vampire:shovel
+  bloodrose_vampire_spear:
+    display_name: Bloodrose Vampire Spear
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:spear
+  bloodrose_vampire_staff:
+    display_name: Bloodrose Vampire Staff
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:staff
+  bloodrose_vampire_sword:
+    display_name: Bloodrose Vampire Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: bloodrose_vampire:sword
+  bloodrose_vampire_trident:
+    display_name: Bloodrose Vampire Trident
+    material: TRIDENT
+    Pack:
+      model: bloodrose_vampire:trident
+  bloodrose_vampire_wing:
+    display_name: Bloodrose Vampire Wing
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:wing
+  bloodrose_vampire_wing_1:
+    display_name: Bloodrose Vampire Wing 1
+    material: PAPER
+    Pack:
+      model: bloodrose_vampire:wing_1

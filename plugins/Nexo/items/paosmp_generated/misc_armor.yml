@@ -1,0 +1,649 @@
+info:
+  namespace: armor
+arcanist_boots:
+  display_name: Arcanist Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/arcanist_boots
+  Components:
+    equippable:
+      slot: FEET
+arcanist_chestplate:
+  display_name: Arcanist Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/arcanist_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+arcanist_helmet:
+  display_name: Arcanist Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/arcanist_helmet
+  Components:
+    equippable:
+      slot: HEAD
+arcanist_leggings:
+  display_name: Arcanist Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/arcanist_leggings
+  Components:
+    equippable:
+      slot: LEGS
+blueflame_boots:
+  display_name: Blueflame Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/blueflame_boots
+  Components:
+    equippable:
+      slot: FEET
+blueflame_chestplate:
+  display_name: Blueflame Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/blueflame_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+blueflame_helmet:
+  display_name: Blueflame Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/blueflame_helmet
+  Components:
+    equippable:
+      slot: HEAD
+blueflame_leggings:
+  display_name: Blueflame Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/blueflame_leggings
+  Components:
+    equippable:
+      slot: LEGS
+chroniclesset_boots:
+  display_name: Chroniclesset Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/chroniclesset_boots
+  Components:
+    equippable:
+      slot: FEET
+chroniclesset_chestplate:
+  display_name: Chroniclesset Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/chroniclesset_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+chroniclesset_helmet:
+  display_name: Chroniclesset Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/chroniclesset_helmet
+  Components:
+    equippable:
+      slot: HEAD
+chroniclesset_leggings:
+  display_name: Chroniclesset Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/chroniclesset_leggings
+  Components:
+    equippable:
+      slot: LEGS
+chronicles_helmet:
+  display_name: Chronicles Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: chronicles_animated_weapon_set:helmet
+  Components:
+    equippable:
+      slot: HEAD
+cyber_boots:
+  display_name: Cyber Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/cyber_boots
+  Components:
+    equippable:
+      slot: FEET
+cyber_chestplate:
+  display_name: Cyber Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/cyber_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+cyber_helmet:
+  display_name: Cyber Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/cyber_helmet
+  Components:
+    equippable:
+      slot: HEAD
+cyber_leggings:
+  display_name: Cyber Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/cyber_leggings
+  Components:
+    equippable:
+      slot: LEGS
+discordnitro_boots:
+  display_name: Discordnitro Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/discordnitro_boots
+  Components:
+    equippable:
+      slot: FEET
+discordnitro_chestplate:
+  display_name: Discordnitro Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/discordnitro_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+discordnitro_helmet:
+  display_name: Discordnitro Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/discordnitro_helmet
+  Components:
+    equippable:
+      slot: HEAD
+discordnitro_leggings:
+  display_name: Discordnitro Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/discordnitro_leggings
+  Components:
+    equippable:
+      slot: LEGS
+dracula_boots:
+  display_name: Dracula Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/dracula_boots
+  Components:
+    equippable:
+      slot: FEET
+dracula_chestplate:
+  display_name: Dracula Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/dracula_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+dracula_helmet:
+  display_name: Dracula Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/dracula_helmet
+  Components:
+    equippable:
+      slot: HEAD
+dracula_leggings:
+  display_name: Dracula Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/dracula_leggings
+  Components:
+    equippable:
+      slot: LEGS
+emerald_boots:
+  display_name: Emerald Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/emerald_boots
+  Components:
+    equippable:
+      slot: FEET
+emerald_chestplate:
+  display_name: Emerald Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/emerald_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+emerald_helmet:
+  display_name: Emerald Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/emerald_helmet
+  Components:
+    equippable:
+      slot: HEAD
+emerald_leggings:
+  display_name: Emerald Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/emerald_leggings
+  Components:
+    equippable:
+      slot: LEGS
+fairy_boots:
+  display_name: Fairy Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/fairy_boots
+  Components:
+    equippable:
+      slot: FEET
+fairy_chestplate:
+  display_name: Fairy Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/fairy_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+fairy_helmet:
+  display_name: Fairy Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/fairy_helmet
+  Components:
+    equippable:
+      slot: HEAD
+fairy_leggings:
+  display_name: Fairy Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/fairy_leggings
+  Components:
+    equippable:
+      slot: LEGS
+forest_boots:
+  display_name: Forest Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/1c4e7c7c-3a3e-4edb-99b5-c5480b765faa
+  Components:
+    equippable:
+      slot: FEET
+forest_chestplate:
+  display_name: Forest Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/438ff358-a99c-48e9-be35-c0ca44ca55f2
+  Components:
+    equippable:
+      slot: CHEST
+forest_helmet:
+  display_name: Forest Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:cdfca741-1fcd-4e25-9890-f174e869ed39
+  Components:
+    equippable:
+      slot: HEAD
+forest_horse_armor:
+  display_name: Forest Horse Armor
+  material: PAPER
+  Pack:
+    model: nexo:item/0e40ad3d-80b7-4029-812d-4eed69f152cb
+forest_leggings:
+  display_name: Forest Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/93ff9e65-a455-408d-8001-7b6503eb9ad3
+  Components:
+    equippable:
+      slot: LEGS
+forest_llama_armor:
+  display_name: Forest Llama Armor
+  material: PAPER
+  Pack:
+    model: nexo:item/c4c7d6ac-3252-4e27-81d6-e2f17ba5ca5d
+forest_wolf_armor:
+  display_name: Forest Wolf Armor
+  material: PAPER
+  Pack:
+    model: nexo:item/9c08136b-d0b3-49a6-81eb-101d3d3798d5
+knight_helmet:
+  display_name: Knight Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: fantasy_npc:knight_helmet
+  Components:
+    equippable:
+      slot: HEAD
+leviathan_boots:
+  display_name: Leviathan Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/leviathan_boots
+  Components:
+    equippable:
+      slot: FEET
+leviathan_chestplate:
+  display_name: Leviathan Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/leviathan_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+leviathan_helmet:
+  display_name: Leviathan Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/leviathan_helmet
+  Components:
+    equippable:
+      slot: HEAD
+leviathan_leggings:
+  display_name: Leviathan Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/leviathan_leggings
+  Components:
+    equippable:
+      slot: LEGS
+littlecrocodile_boots:
+  display_name: Littlecrocodile Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/littlecrocodile_boots
+  Components:
+    equippable:
+      slot: FEET
+littlecrocodile_chestplate:
+  display_name: Littlecrocodile Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/littlecrocodile_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+littlecrocodile_helmet:
+  display_name: Littlecrocodile Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/littlecrocodile_helmet
+  Components:
+    equippable:
+      slot: HEAD
+littlecrocodile_leggings:
+  display_name: Littlecrocodile Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/littlecrocodile_leggings
+  Components:
+    equippable:
+      slot: LEGS
+littledragon_boots:
+  display_name: Littledragon Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/littledragon_boots
+  Components:
+    equippable:
+      slot: FEET
+littledragon_chestplate:
+  display_name: Littledragon Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/littledragon_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+littledragon_helmet:
+  display_name: Littledragon Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: littledragonset:helmet
+  Components:
+    equippable:
+      slot: HEAD
+littledragon_leggings:
+  display_name: Littledragon Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/littledragon_leggings
+  Components:
+    equippable:
+      slot: LEGS
+necros_boots:
+  display_name: Necros Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/necros_boots
+  Components:
+    equippable:
+      slot: FEET
+necros_chestplate:
+  display_name: Necros Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/necros_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+necros_helmet:
+  display_name: Necros Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: necros_set:helmet
+  Components:
+    equippable:
+      slot: HEAD
+necros_leggings:
+  display_name: Necros Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/necros_leggings
+  Components:
+    equippable:
+      slot: LEGS
+nexo_armor_forest_helmet:
+  display_name: Nexo Armor Forest Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:cdfca741-1fcd-4e25-9890-f174e869ed39
+  Components:
+    equippable:
+      slot: HEAD
+radiance_boots:
+  display_name: Radiance Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/radiance_boots
+  Components:
+    equippable:
+      slot: FEET
+radiance_chestplate:
+  display_name: Radiance Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/radiance_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+radiance_helmet:
+  display_name: Radiance Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/radiance_helmet
+  Components:
+    equippable:
+      slot: HEAD
+radiance_leggings:
+  display_name: Radiance Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/radiance_leggings
+  Components:
+    equippable:
+      slot: LEGS
+sakura_boots:
+  display_name: Sakura Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/sakura_boots
+  Components:
+    equippable:
+      slot: FEET
+sakura_chestplate:
+  display_name: Sakura Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/sakura_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+sakura_helmet:
+  display_name: Sakura Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/sakura_helmet
+  Components:
+    equippable:
+      slot: HEAD
+sakura_leggings:
+  display_name: Sakura Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/sakura_leggings
+  Components:
+    equippable:
+      slot: LEGS
+starlight_boots:
+  display_name: Starlight Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/starlight_boots
+  Components:
+    equippable:
+      slot: FEET
+starlight_chestplate:
+  display_name: Starlight Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/starlight_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+starlight_helmet:
+  display_name: Starlight Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/starlight_helmet
+  Components:
+    equippable:
+      slot: HEAD
+starlight_leggings:
+  display_name: Starlight Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/starlight_leggings
+  Components:
+    equippable:
+      slot: LEGS
+stellarvanguard_boots:
+  display_name: Stellarvanguard Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/stellarvanguard_boots
+  Components:
+    equippable:
+      slot: FEET
+stellarvanguard_chestplate:
+  display_name: Stellarvanguard Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/stellarvanguard_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+stellarvanguard_helmet:
+  display_name: Stellarvanguard Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/stellarvanguard_helmet
+  Components:
+    equippable:
+      slot: HEAD
+stellarvanguard_leggings:
+  display_name: Stellarvanguard Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/stellarvanguard_leggings
+  Components:
+    equippable:
+      slot: LEGS
+valentine_boots:
+  display_name: Valentine Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/valentine_boots
+  Components:
+    equippable:
+      slot: FEET
+valentine_chestplate:
+  display_name: Valentine Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/valentine_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+valentine_helmet:
+  display_name: Valentine Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/valentine_helmet
+  Components:
+    equippable:
+      slot: HEAD
+valentine_leggings:
+  display_name: Valentine Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/valentine_leggings
+  Components:
+    equippable:
+      slot: LEGS
+warden_boots:
+  display_name: Warden Boots
+  material: LEATHER_BOOTS
+  Pack:
+    model: nexo:item/warden_boots
+  Components:
+    equippable:
+      slot: FEET
+warden_chestplate:
+  display_name: Warden Chestplate
+  material: LEATHER_CHESTPLATE
+  Pack:
+    model: nexo:item/warden_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+warden_helmet:
+  display_name: Warden Helmet
+  material: LEATHER_HELMET
+  Pack:
+    model: nexo:item/warden_helmet
+  Components:
+    equippable:
+      slot: HEAD
+warden_leggings:
+  display_name: Warden Leggings
+  material: LEATHER_LEGGINGS
+  Pack:
+    model: nexo:item/warden_leggings
+  Components:
+    equippable:
+      slot: LEGS

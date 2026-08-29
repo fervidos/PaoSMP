@@ -1,0 +1,23 @@
+info:
+  namespace: dracula_cosmetics
+items:
+  dracula_cosmetics_wings:
+    display_name: Dracula Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: draculaset:wings_cosmetic
+  dracula_cosmetics_wings_normal_2:
+    display_name: Dracula Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: draculaset:wings_cosmetic_normal_2
+  dracula_cosmetics_wings_self:
+    display_name: Dracula Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: draculaset:wings_cosmetic_self
+  dracula_cosmetics_wings_self_2:
+    display_name: Dracula Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: draculaset:wings_cosmetic_self_2

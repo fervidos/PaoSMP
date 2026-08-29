@@ -1,0 +1,28 @@
+info:
+  namespace: v1_biblical_wings
+items:
+  v1_biblical_wings:
+    display_name: V1 Biblical Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/biblical_wings
+  v1_biblical_wings_normal:
+    display_name: V1 Biblical Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/biblical_wings_normal
+  v1_biblical_wings_normal_2:
+    display_name: V1 Biblical Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/biblical_wings_normal_2
+  v1_biblical_wings_self:
+    display_name: V1 Biblical Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/biblical_wings_self
+  v1_biblical_wings_self_2:
+    display_name: V1 Biblical Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/biblical_wings_self_2

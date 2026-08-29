@@ -1,0 +1,13 @@
+info:
+  namespace: fairy_chest
+items:
+  fairy_chest:
+    display_name: Fairy Chest
+    material: PAPER
+    Pack:
+      model: fairyset:chest
+  fairy_chest_opening:
+    display_name: Fairy Chest Opening
+    material: PAPER
+    Pack:
+      model: fairyset:chest_opening

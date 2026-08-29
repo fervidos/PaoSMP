@@ -1,0 +1,27 @@
+info:
+  namespace: cyberpunk_animated_
+items:
+  cyberpunk_animated__boots:
+    display_name: Cyberpunk Animated Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/cyberpunk_animated-_boots
+    Components:
+      equippable:
+        slot: FEET
+  cyberpunk_animated__chestplate:
+    display_name: Cyberpunk Animated Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/cyberpunk_animated-_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  cyberpunk_animated__leggings:
+    display_name: Cyberpunk Animated Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/cyberpunk_animated-_leggings
+    Components:
+      equippable:
+        slot: LEGS

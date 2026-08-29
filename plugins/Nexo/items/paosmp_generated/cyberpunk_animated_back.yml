@@ -1,0 +1,28 @@
+info:
+  namespace: cyberpunk_animated_back
+items:
+  cyberpunk_animated_back:
+    display_name: Cyberpunk Animated Back
+    material: PAPER
+    Pack:
+      model: elitecreatures:cyberpunk_animated/back
+  cyberpunk_animated_back_normal:
+    display_name: Cyberpunk Animated Back Normal
+    material: PAPER
+    Pack:
+      model: elitecreatures:cyberpunk_animated/back_normal
+  cyberpunk_animated_back_normal_2:
+    display_name: Cyberpunk Animated Back Normal 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:cyberpunk_animated/back_normal_2
+  cyberpunk_animated_back_self:
+    display_name: Cyberpunk Animated Back Self
+    material: PAPER
+    Pack:
+      model: elitecreatures:cyberpunk_animated/back_self
+  cyberpunk_animated_back_self_2:
+    display_name: Cyberpunk Animated Back Self 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:cyberpunk_animated/back_self_2

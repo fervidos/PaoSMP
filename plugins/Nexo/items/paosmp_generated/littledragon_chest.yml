@@ -1,0 +1,13 @@
+info:
+  namespace: littledragon_chest
+items:
+  littledragon_chest:
+    display_name: Littledragon Chest
+    material: PAPER
+    Pack:
+      model: littledragonset:chest
+  littledragon_chest_opening:
+    display_name: Littledragon Chest Opening
+    material: PAPER
+    Pack:
+      model: littledragonset:chest_opening

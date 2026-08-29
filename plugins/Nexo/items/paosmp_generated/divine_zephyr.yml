@@ -1,0 +1,140 @@
+info:
+  namespace: divine_zephyr
+items:
+  divine_zephyr_axe:
+    display_name: Divine Zephyr Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: divine_zephyr:axe
+  divine_zephyr_boots:
+    display_name: Divine Zephyr Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/divine_zephyr_boots
+    Components:
+      equippable:
+        slot: FEET
+  divine_zephyr_bow:
+    display_name: Divine Zephyr Bow
+    material: BOW
+    Pack:
+      model: nexo:item/divine_zephyr_bow
+  divine_zephyr_chest:
+    display_name: Divine Zephyr Chest
+    material: PAPER
+    Pack:
+      model: divine_zephyr:chest
+  divine_zephyr_chestplate:
+    display_name: Divine Zephyr Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/divine_zephyr_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  divine_zephyr_crossbow:
+    display_name: Divine Zephyr Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/divine_zephyr_crossbow
+  divine_zephyr_dagger:
+    display_name: Divine Zephyr Dagger
+    material: PAPER
+    Pack:
+      model: divine_zephyr:dagger
+  divine_zephyr_fishing_rod:
+    display_name: Divine Zephyr Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/divine_zephyr_fishing_rod
+  divine_zephyr_hammer:
+    display_name: Divine Zephyr Hammer
+    material: PAPER
+    Pack:
+      model: divine_zephyr:hammer
+  divine_zephyr_hat:
+    display_name: Divine Zephyr Hat
+    material: PAPER
+    Pack:
+      model: divine_zephyr:hat
+  divine_zephyr_helmet:
+    display_name: Divine Zephyr Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/divine_zephyr_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  divine_zephyr_hoe:
+    display_name: Divine Zephyr Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: divine_zephyr:hoe
+  divine_zephyr_key:
+    display_name: Divine Zephyr Key
+    material: PAPER
+    Pack:
+      model: divine_zephyr:key
+  divine_zephyr_leggings:
+    display_name: Divine Zephyr Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/divine_zephyr_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  divine_zephyr_pickaxe:
+    display_name: Divine Zephyr Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: divine_zephyr:pickaxe
+  divine_zephyr_rapier_sword:
+    display_name: Divine Zephyr Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: divine_zephyr:rapier_sword
+  divine_zephyr_scythe:
+    display_name: Divine Zephyr Scythe
+    material: PAPER
+    Pack:
+      model: divine_zephyr:scythe
+  divine_zephyr_shield:
+    display_name: Divine Zephyr Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/divine_zephyr_shield
+  divine_zephyr_shovel:
+    display_name: Divine Zephyr Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: divine_zephyr:shovel
+  divine_zephyr_spear:
+    display_name: Divine Zephyr Spear
+    material: PAPER
+    Pack:
+      model: divine_zephyr:spear
+  divine_zephyr_staff:
+    display_name: Divine Zephyr Staff
+    material: PAPER
+    Pack:
+      model: divine_zephyr:staff
+  divine_zephyr_sword:
+    display_name: Divine Zephyr Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: divine_zephyr:sword
+  divine_zephyr_trident:
+    display_name: Divine Zephyr Trident
+    material: TRIDENT
+    Pack:
+      model: divine_zephyr:trident
+  divine_zephyr_wing:
+    display_name: Divine Zephyr Wing
+    material: PAPER
+    Pack:
+      model: divine_zephyr:wing
+  divine_zephyr_wing_1:
+    display_name: Divine Zephyr Wing 1
+    material: PAPER
+    Pack:
+      model: divine_zephyr:wing_1

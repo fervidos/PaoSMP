@@ -1,0 +1,140 @@
+info:
+  namespace: golden_fracture
+items:
+  golden_fracture_axe:
+    display_name: Golden Fracture Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: golden_fracture:axe
+  golden_fracture_boots:
+    display_name: Golden Fracture Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/golden_fracture_boots
+    Components:
+      equippable:
+        slot: FEET
+  golden_fracture_bow:
+    display_name: Golden Fracture Bow
+    material: BOW
+    Pack:
+      model: nexo:item/golden_fracture_bow
+  golden_fracture_chest:
+    display_name: Golden Fracture Chest
+    material: PAPER
+    Pack:
+      model: golden_fracture:chest
+  golden_fracture_chestplate:
+    display_name: Golden Fracture Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/golden_fracture_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  golden_fracture_crossbow:
+    display_name: Golden Fracture Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/golden_fracture_crossbow
+  golden_fracture_dagger:
+    display_name: Golden Fracture Dagger
+    material: PAPER
+    Pack:
+      model: golden_fracture:dagger
+  golden_fracture_fishing_rod:
+    display_name: Golden Fracture Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/golden_fracture_fishing_rod
+  golden_fracture_hammer:
+    display_name: Golden Fracture Hammer
+    material: PAPER
+    Pack:
+      model: golden_fracture:hammer
+  golden_fracture_hat:
+    display_name: Golden Fracture Hat
+    material: PAPER
+    Pack:
+      model: golden_fracture:hat
+  golden_fracture_helmet:
+    display_name: Golden Fracture Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/golden_fracture_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  golden_fracture_hoe:
+    display_name: Golden Fracture Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: golden_fracture:hoe
+  golden_fracture_key:
+    display_name: Golden Fracture Key
+    material: PAPER
+    Pack:
+      model: golden_fracture:key
+  golden_fracture_leggings:
+    display_name: Golden Fracture Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/golden_fracture_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  golden_fracture_pickaxe:
+    display_name: Golden Fracture Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: golden_fracture:pickaxe
+  golden_fracture_rapier_sword:
+    display_name: Golden Fracture Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: golden_fracture:rapier_sword
+  golden_fracture_scythe:
+    display_name: Golden Fracture Scythe
+    material: PAPER
+    Pack:
+      model: golden_fracture:scythe
+  golden_fracture_shield:
+    display_name: Golden Fracture Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/golden_fracture_shield
+  golden_fracture_shovel:
+    display_name: Golden Fracture Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: golden_fracture:shovel
+  golden_fracture_spear:
+    display_name: Golden Fracture Spear
+    material: PAPER
+    Pack:
+      model: golden_fracture:spear
+  golden_fracture_staff:
+    display_name: Golden Fracture Staff
+    material: PAPER
+    Pack:
+      model: golden_fracture:staff
+  golden_fracture_sword:
+    display_name: Golden Fracture Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: golden_fracture:sword
+  golden_fracture_trident:
+    display_name: Golden Fracture Trident
+    material: TRIDENT
+    Pack:
+      model: golden_fracture:trident
+  golden_fracture_wing:
+    display_name: Golden Fracture Wing
+    material: PAPER
+    Pack:
+      model: golden_fracture:wing
+  golden_fracture_wing_1:
+    display_name: Golden Fracture Wing 1
+    material: PAPER
+    Pack:
+      model: golden_fracture:wing_1

@@ -1,0 +1,28 @@
+info:
+  namespace: v2_royal_red
+items:
+  v2_royal_red_wings:
+    display_name: V2 Royal Red Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/royal_red_wings
+  v2_royal_red_wings_normal:
+    display_name: V2 Royal Red Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/royal_red_wings_normal
+  v2_royal_red_wings_normal_2:
+    display_name: V2 Royal Red Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/royal_red_wings_normal_2
+  v2_royal_red_wings_self:
+    display_name: V2 Royal Red Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/royal_red_wings_self
+  v2_royal_red_wings_self_2:
+    display_name: V2 Royal Red Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/royal_red_wings_self_2

@@ -1,0 +1,75 @@
+info:
+  namespace: ik_table
+items:
+  ik_table:
+    display_name: Ik Table
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_bar:
+    display_name: Ik Table Bar
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_bar
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_corner:
+    display_name: Ik Table Corner
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_corner
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_fireplace:
+    display_name: Ik Table Fireplace
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_fireplace
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_long:
+    display_name: Ik Table Long
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_long
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_with_cupboard:
+    display_name: Ik Table With Cupboard
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_with_cupboard
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_with_cupboard_2:
+    display_name: Ik Table With Cupboard 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_with_cupboard_2
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  ik_table_with_dishwasher:
+    display_name: Ik Table With Dishwasher
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_table_with_dishwasher
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

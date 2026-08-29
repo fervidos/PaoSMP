@@ -1,0 +1,125 @@
+info:
+  namespace: shine_oni
+items:
+  shine_oni_axe:
+    display_name: Shine Oni Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: shine_oni:axe
+  shine_oni_battle_axe:
+    display_name: Shine Oni Battle Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: shine_oni:battle_axe
+  shine_oni_big_sword:
+    display_name: Shine Oni Big Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: shine_oni:big_sword
+  shine_oni_boots:
+    display_name: Shine Oni Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/shine_oni_boots
+    Components:
+      equippable:
+        slot: FEET
+  shine_oni_bow:
+    display_name: Shine Oni Bow
+    material: BOW
+    Pack:
+      model: nexo:item/shine_oni_bow
+  shine_oni_chest:
+    display_name: Shine Oni Chest
+    material: PAPER
+    Pack:
+      model: shine_oni:chest
+  shine_oni_chestplate:
+    display_name: Shine Oni Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/shine_oni_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  shine_oni_cosmetics_wings:
+    display_name: Shine Oni Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: shine_oni:wings_cosmetic
+  shine_oni_cosmetics_wings_normal_2:
+    display_name: Shine Oni Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: shine_oni:wings_cosmetic_normal_2
+  shine_oni_cosmetics_wings_self:
+    display_name: Shine Oni Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: shine_oni:wings_cosmetic_self
+  shine_oni_cosmetics_wings_self_2:
+    display_name: Shine Oni Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: shine_oni:wings_cosmetic_self_2
+  shine_oni_helmet:
+    display_name: Shine Oni Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/shine_oni_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  shine_oni_hoe:
+    display_name: Shine Oni Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: shine_oni:hoe
+  shine_oni_key:
+    display_name: Shine Oni Key
+    material: PAPER
+    Pack:
+      model: shine_oni:key
+  shine_oni_leggings:
+    display_name: Shine Oni Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/shine_oni_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  shine_oni_pickaxe:
+    display_name: Shine Oni Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: shine_oni:pickaxe
+  shine_oni_shield:
+    display_name: Shine Oni Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/shine_oni_shield
+  shine_oni_shovel:
+    display_name: Shine Oni Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: shine_oni:shovel
+  shine_oni_sickle:
+    display_name: Shine Oni Sickle
+    material: PAPER
+    Pack:
+      model: shine_oni:sickle
+  shine_oni_spear:
+    display_name: Shine Oni Spear
+    material: PAPER
+    Pack:
+      model: shine_oni:spear
+  shine_oni_staff:
+    display_name: Shine Oni Staff
+    material: PAPER
+    Pack:
+      model: shine_oni:staff
+  shine_oni_wings:
+    display_name: Shine Oni Wings
+    material: PAPER
+    Pack:
+      model: shine_oni:wings

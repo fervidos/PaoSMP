@@ -1,0 +1,937 @@
+info:
+  namespace: weapons
+adventurer_staff:
+  display_name: Adventurer Staff
+  material: PAPER
+  Pack:
+    model: fantasy_npc:adventurer_staff
+arcanist_axe:
+  display_name: Arcanist Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: arcanistset:axe
+arcanist_bow:
+  display_name: Arcanist Bow
+  material: BOW
+  Pack:
+    model: nexo:item/arcanist_bow
+arcanist_crossbow:
+  display_name: Arcanist Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/arcanist_crossbow
+arcanist_greatsword:
+  display_name: Arcanist Greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: arcanistset:greatsword
+arcanist_hammer:
+  display_name: Arcanist Hammer
+  material: PAPER
+  Pack:
+    model: arcanistset:hammer
+arcanist_hoe:
+  display_name: Arcanist Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: arcanistset:hoe
+arcanist_pickaxe:
+  display_name: Arcanist Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: arcanistset:pickaxe
+arcanist_scythe:
+  display_name: Arcanist Scythe
+  material: PAPER
+  Pack:
+    model: arcanistset:scythe
+arcanist_shovel:
+  display_name: Arcanist Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: arcanistset:shovel
+arcanist_spear:
+  display_name: Arcanist Spear
+  material: PAPER
+  Pack:
+    model: arcanistset:spear
+arcanist_staff:
+  display_name: Arcanist Staff
+  material: PAPER
+  Pack:
+    model: arcanistset:staff
+arcanist_sword:
+  display_name: Arcanist Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: arcanistset:sword
+arcanist_trident:
+  display_name: Arcanist Trident
+  material: TRIDENT
+  Pack:
+    model: arcanistset:trident
+blacksmith_hammer:
+  display_name: Blacksmith Hammer
+  material: PAPER
+  Pack:
+    model: fantasy_npc:blacksmith_hammer
+blueflame_axe:
+  display_name: Blueflame Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: blueflame:axe
+blueflame_battle_axe:
+  display_name: Blueflame Battle Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: blueflame:battle_axe
+blueflame_bow:
+  display_name: Blueflame Bow
+  material: BOW
+  Pack:
+    model: nexo:item/blueflame_bow
+blueflame_crossbow:
+  display_name: Blueflame Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/blueflame_crossbow
+blueflame_hoe:
+  display_name: Blueflame Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: blueflame:hoe
+blueflame_pickaxe:
+  display_name: Blueflame Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: blueflame:pickaxe
+blueflame_shovel:
+  display_name: Blueflame Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: blueflame:shovel
+blueflame_spear:
+  display_name: Blueflame Spear
+  material: PAPER
+  Pack:
+    model: blueflame:spear
+blueflame_staff:
+  display_name: Blueflame Staff
+  material: PAPER
+  Pack:
+    model: blueflame:staff
+blueflame_sword:
+  display_name: Blueflame Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: blueflame:sword
+chronicles_axe:
+  display_name: Chronicles Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: chronicles_animated_weapon_set:axe
+chronicles_battle_axe:
+  display_name: Chronicles Battle Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: chronicles_animated_weapon_set:battle_axe
+chronicles_bow:
+  display_name: Chronicles Bow
+  material: BOW
+  Pack:
+    model: nexo:item/chronicles_bow
+chronicles_hoe:
+  display_name: Chronicles Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: chronicles_animated_weapon_set:hoe
+chronicles_pickaxe:
+  display_name: Chronicles Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: chronicles_animated_weapon_set:pickaxe
+chronicles_shovel:
+  display_name: Chronicles Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: chronicles_animated_weapon_set:shovel
+chronicles_spear:
+  display_name: Chronicles Spear
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:spear
+chronicles_staff:
+  display_name: Chronicles Staff
+  material: PAPER
+  Pack:
+    model: chronicles_animated_weapon_set:staff
+chronicles_sword:
+  display_name: Chronicles Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: chronicles_animated_weapon_set:sword
+cyberpunk_animated_axe:
+  display_name: Cyberpunk Animated Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: elitecreatures:cyberpunk_animated/axe
+cyberpunk_animated_bow:
+  display_name: Cyberpunk Animated Bow
+  material: BOW
+  Pack:
+    model: nexo:item/cyberpunk_animated-bow
+cyberpunk_animated_crossbow:
+  display_name: Cyberpunk Animated Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/cyberpunk_animated-crossbow
+cyberpunk_animated_dagger:
+  display_name: Cyberpunk Animated Dagger
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/dagger
+cyberpunk_animated_greatsword:
+  display_name: Cyberpunk Animated Greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: elitecreatures:cyberpunk_animated/greatsword
+cyberpunk_animated_hammer:
+  display_name: Cyberpunk Animated Hammer
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/hammer
+cyberpunk_animated_hoe:
+  display_name: Cyberpunk Animated Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: elitecreatures:cyberpunk_animated/hoe
+cyberpunk_animated_pickaxe:
+  display_name: Cyberpunk Animated Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: elitecreatures:cyberpunk_animated/pickaxe
+cyberpunk_animated_shovel:
+  display_name: Cyberpunk Animated Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: elitecreatures:cyberpunk_animated/shovel
+cyberpunk_animated_spear:
+  display_name: Cyberpunk Animated Spear
+  material: PAPER
+  Pack:
+    model: elitecreatures:cyberpunk_animated/spear
+cyberpunk_animated_sword:
+  display_name: Cyberpunk Animated Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: elitecreatures:cyberpunk_animated/sword
+dracula_axe:
+  display_name: Dracula Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: draculaset:axe
+dracula_battleaxe:
+  display_name: Dracula Battleaxe
+  material: DIAMOND_AXE
+  Pack:
+    model: draculaset:battleaxe
+dracula_bow:
+  display_name: Dracula Bow
+  material: BOW
+  Pack:
+    model: nexo:item/dracula_bow
+dracula_dagger:
+  display_name: Dracula Dagger
+  material: PAPER
+  Pack:
+    model: draculaset:dagger
+dracula_hoe:
+  display_name: Dracula Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: draculaset:hoe
+dracula_pickaxe:
+  display_name: Dracula Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: draculaset:pickaxe
+dracula_shovel:
+  display_name: Dracula Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: draculaset:shovel
+dracula_spear:
+  display_name: Dracula Spear
+  material: PAPER
+  Pack:
+    model: draculaset:spear
+dracula_staff:
+  display_name: Dracula Staff
+  material: PAPER
+  Pack:
+    model: draculaset:staff
+dracula_sword:
+  display_name: Dracula Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: draculaset:sword
+emerald_axe:
+  display_name: Emerald Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: nexo:item/emerald_axe
+emerald_pickaxe:
+  display_name: Emerald Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: nexo:item/emerald_pickaxe
+emerald_shovel:
+  display_name: Emerald Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: nexo:item/emerald_shovel
+emerald_sword:
+  display_name: Emerald Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: nexo:item/emerald_sword
+fairy_axe:
+  display_name: Fairy Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: fairyset:axe
+fairy_bow:
+  display_name: Fairy Bow
+  material: BOW
+  Pack:
+    model: nexo:item/fairy_bow
+fairy_crossbow:
+  display_name: Fairy Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/fairy_crossbow
+fairy_greatsword:
+  display_name: Fairy Greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: fairyset:greatsword
+fairy_hammer:
+  display_name: Fairy Hammer
+  material: PAPER
+  Pack:
+    model: fairyset:hammer
+fairy_hoe:
+  display_name: Fairy Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: fairyset:hoe
+fairy_pickaxe:
+  display_name: Fairy Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: fairyset:pickaxe
+fairy_scythe:
+  display_name: Fairy Scythe
+  material: PAPER
+  Pack:
+    model: fairyset:scythe
+fairy_shovel:
+  display_name: Fairy Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: fairyset:shovel
+fairy_spear:
+  display_name: Fairy Spear
+  material: PAPER
+  Pack:
+    model: fairyset:spear
+fairy_staff:
+  display_name: Fairy Staff
+  material: PAPER
+  Pack:
+    model: fairyset:staff
+fairy_sword:
+  display_name: Fairy Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: fairyset:sword
+fairy_trident:
+  display_name: Fairy Trident
+  material: TRIDENT
+  Pack:
+    model: fairyset:trident
+forest_axe:
+  display_name: Forest Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: nexo:481f4e6f-8241-42de-a49b-276e3178b4bf
+forest_hoe:
+  display_name: Forest Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: nexo:bb4eba1b-2ae9-4814-93e1-06aaecd8713e
+forest_pickaxe:
+  display_name: Forest Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: nexo:eb957876-64df-4ac9-9294-f677e213ba0d
+forest_shovel:
+  display_name: Forest Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: nexo:9304bbe9-bfd8-4d5d-bd5c-3b659dbc4f49
+forest_sword:
+  display_name: Forest Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: nexo:386504e1-1fb9-4770-a238-6093a2667d24
+forest_trident:
+  display_name: Forest Trident
+  material: TRIDENT
+  Pack:
+    model: nexo:item/forest_trident
+grand_swordfish:
+  display_name: Grand Swordfish
+  material: DIAMOND_SWORD
+  Pack:
+    model: nexo:item/grand_swordfish
+knight_spear:
+  display_name: Knight Spear
+  material: PAPER
+  Pack:
+    model: fantasy_npc:knight_spear
+leviathan_axe:
+  display_name: Leviathan Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: leviathanset:axe
+leviathan_battle_axe:
+  display_name: Leviathan Battle Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: leviathanset:battle_axe
+leviathan_bow:
+  display_name: Leviathan Bow
+  material: BOW
+  Pack:
+    model: nexo:item/leviathan_bow
+leviathan_dagger:
+  display_name: Leviathan Dagger
+  material: PAPER
+  Pack:
+    model: leviathanset:dagger
+leviathan_hoe:
+  display_name: Leviathan Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: leviathanset:hoe
+leviathan_pickaxe:
+  display_name: Leviathan Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: leviathanset:pickaxe
+leviathan_shovel:
+  display_name: Leviathan Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: leviathanset:shovel
+leviathan_spear:
+  display_name: Leviathan Spear
+  material: PAPER
+  Pack:
+    model: leviathanset:spear
+leviathan_staff:
+  display_name: Leviathan Staff
+  material: PAPER
+  Pack:
+    model: leviathanset:staff
+leviathan_sword:
+  display_name: Leviathan Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: leviathanset:sword
+littlecrocodile_axe:
+  display_name: Littlecrocodile Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: littlecrocodileset:axe
+littlecrocodile_bow:
+  display_name: Littlecrocodile Bow
+  material: BOW
+  Pack:
+    model: nexo:item/littlecrocodile_bow
+littlecrocodile_crossbow:
+  display_name: Littlecrocodile Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/littlecrocodile_crossbow
+littlecrocodile_hammer:
+  display_name: Littlecrocodile Hammer
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:hammer
+littlecrocodile_hoe:
+  display_name: Littlecrocodile Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: littlecrocodileset:hoe
+littlecrocodile_pickaxe:
+  display_name: Littlecrocodile Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: littlecrocodileset:pickaxe
+littlecrocodile_scythe:
+  display_name: Littlecrocodile Scythe
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:scythe
+littlecrocodile_shovel:
+  display_name: Littlecrocodile Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: littlecrocodileset:shovel
+littlecrocodile_spear:
+  display_name: Littlecrocodile Spear
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:spear
+littlecrocodile_staff:
+  display_name: Littlecrocodile Staff
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:staff
+littlecrocodile_sword:
+  display_name: Littlecrocodile Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: littlecrocodileset:sword
+littlecrocodile_trident:
+  display_name: Littlecrocodile Trident
+  material: TRIDENT
+  Pack:
+    model: littlecrocodileset:trident
+littledragon_axe:
+  display_name: Littledragon Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: littledragonset:axe
+littledragon_bow:
+  display_name: Littledragon Bow
+  material: BOW
+  Pack:
+    model: nexo:item/littledragon_bow
+littledragon_crossbow:
+  display_name: Littledragon Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/littledragon_crossbow
+littledragon_greatsword:
+  display_name: Littledragon Greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: littledragonset:greatsword
+littledragon_hammer:
+  display_name: Littledragon Hammer
+  material: PAPER
+  Pack:
+    model: littledragonset:hammer
+littledragon_hoe:
+  display_name: Littledragon Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: littledragonset:hoe
+littledragon_pickaxe:
+  display_name: Littledragon Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: littledragonset:pickaxe
+littledragon_scythe:
+  display_name: Littledragon Scythe
+  material: PAPER
+  Pack:
+    model: littledragonset:scythe
+littledragon_shovel:
+  display_name: Littledragon Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: littledragonset:shovel
+littledragon_spear:
+  display_name: Littledragon Spear
+  material: PAPER
+  Pack:
+    model: littledragonset:spear
+littledragon_staff:
+  display_name: Littledragon Staff
+  material: PAPER
+  Pack:
+    model: littledragonset:staff
+littledragon_sword:
+  display_name: Littledragon Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: littledragonset:sword
+littledragon_trident:
+  display_name: Littledragon Trident
+  material: TRIDENT
+  Pack:
+    model: littledragonset:trident
+lumberjack_axe:
+  display_name: Lumberjack Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: fantasy_npc:lumberjack_axe
+mage_staff:
+  display_name: Mage Staff
+  material: PAPER
+  Pack:
+    model: fantasy_npc:mage_staff
+miner_pickaxe:
+  display_name: Miner Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: fantasy_npc:miner_pickaxe
+miner_shovel:
+  display_name: Miner Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: fantasy_npc:miner_shovel
+necros_axe:
+  display_name: Necros Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: necros_set:axe
+necros_bow:
+  display_name: Necros Bow
+  material: BOW
+  Pack:
+    model: nexo:item/necros_bow
+necros_crossbow:
+  display_name: Necros Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/necros_crossbow
+necros_hammer:
+  display_name: Necros Hammer
+  material: PAPER
+  Pack:
+    model: necros_set:hammer
+necros_hoe:
+  display_name: Necros Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: necros_set:hoe
+necros_pickaxe:
+  display_name: Necros Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: necros_set:pickaxe
+necros_scythe:
+  display_name: Necros Scythe
+  material: PAPER
+  Pack:
+    model: necros_set:scythe
+necros_shovel:
+  display_name: Necros Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: necros_set:shovel
+necros_spear:
+  display_name: Necros Spear
+  material: PAPER
+  Pack:
+    model: necros_set:spear
+necros_staff:
+  display_name: Necros Staff
+  material: PAPER
+  Pack:
+    model: necros_set:staff
+necros_sword:
+  display_name: Necros Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: necros_set:sword
+necros_trident:
+  display_name: Necros Trident
+  material: TRIDENT
+  Pack:
+    model: necros_set:trident
+radiance_axe:
+  display_name: Radiance Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: radiance_collection:axe
+radiance_battle_axe:
+  display_name: Radiance Battle Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: radiance_collection:battle_axe
+radiance_bow:
+  display_name: Radiance Bow
+  material: BOW
+  Pack:
+    model: nexo:item/radiance_bow
+radiance_hammer:
+  display_name: Radiance Hammer
+  material: PAPER
+  Pack:
+    model: radiance_collection:hammer
+radiance_hoe:
+  display_name: Radiance Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: radiance_collection:hoe
+radiance_pickaxe:
+  display_name: Radiance Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: radiance_collection:pickaxe
+radiance_shovel:
+  display_name: Radiance Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: radiance_collection:shovel
+radiance_spear:
+  display_name: Radiance Spear
+  material: PAPER
+  Pack:
+    model: radiance_collection:spear
+radiance_staff:
+  display_name: Radiance Staff
+  material: PAPER
+  Pack:
+    model: radiance_collection:staff
+radiance_sword:
+  display_name: Radiance Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: radiance_collection:sword
+rainbow_trout:
+  display_name: Rainbow Trout
+  material: BOW
+  Pack:
+    model: nexo:item/rainbow_trout
+repaier_hammer:
+  display_name: Repaier Hammer
+  material: PAPER
+  Pack:
+    model: fantasy_npc:repaier_hammer
+sakura_axe:
+  display_name: Sakura Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: elitecreatures:sakura/axe
+sakura_bigsword:
+  display_name: Sakura Bigsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: elitecreatures:sakura/bigsword
+sakura_bow:
+  display_name: Sakura Bow
+  material: BOW
+  Pack:
+    model: nexo:item/sakura_bow
+sakura_dagger:
+  display_name: Sakura Dagger
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/dagger
+sakura_hammer:
+  display_name: Sakura Hammer
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/hammer
+sakura_hoe:
+  display_name: Sakura Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: elitecreatures:sakura/hoe
+sakura_katana:
+  display_name: Sakura Katana
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/katana
+sakura_pickaxe:
+  display_name: Sakura Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: elitecreatures:sakura/pickaxe
+sakura_shovel:
+  display_name: Sakura Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: elitecreatures:sakura/shovel
+sakura_spear:
+  display_name: Sakura Spear
+  material: PAPER
+  Pack:
+    model: elitecreatures:sakura/spear
+sakura_sword:
+  display_name: Sakura Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: elitecreatures:sakura/sword
+shovelnose_sturgeon:
+  display_name: Shovelnose Sturgeon
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: nexo:item/shovelnose_sturgeon
+starlight_axe:
+  display_name: Starlight Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: starlight:axe
+starlight_battle_axe:
+  display_name: Starlight Battle Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: starlight:battle_axe
+starlight_bow:
+  display_name: Starlight Bow
+  material: BOW
+  Pack:
+    model: nexo:item/starlight_bow
+starlight_dagger:
+  display_name: Starlight Dagger
+  material: PAPER
+  Pack:
+    model: starlight:dagger
+starlight_hoe:
+  display_name: Starlight Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: starlight:hoe
+starlight_pickaxe:
+  display_name: Starlight Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: starlight:pickaxe
+starlight_shovel:
+  display_name: Starlight Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: starlight:shovel
+starlight_spear:
+  display_name: Starlight Spear
+  material: PAPER
+  Pack:
+    model: starlight:spear
+starlight_staff:
+  display_name: Starlight Staff
+  material: PAPER
+  Pack:
+    model: starlight:staff
+starlight_sword:
+  display_name: Starlight Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: starlight:sword
+swordfish:
+  display_name: Swordfish
+  material: DIAMOND_SWORD
+  Pack:
+    model: nexo:item/swordfish
+valentine_axe:
+  display_name: Valentine Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: valentineset:axe
+valentine_bow:
+  display_name: Valentine Bow
+  material: BOW
+  Pack:
+    model: nexo:item/valentine_bow
+valentine_crossbow:
+  display_name: Valentine Crossbow
+  material: CROSSBOW
+  Pack:
+    model: nexo:item/valentine_crossbow
+valentine_greatsword:
+  display_name: Valentine Greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: valentineset:greatsword
+valentine_hammer:
+  display_name: Valentine Hammer
+  material: PAPER
+  Pack:
+    model: valentineset:hammer
+valentine_hoe:
+  display_name: Valentine Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: valentineset:hoe
+valentine_pickaxe:
+  display_name: Valentine Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: valentineset:pickaxe
+valentine_scythe:
+  display_name: Valentine Scythe
+  material: PAPER
+  Pack:
+    model: valentineset:scythe
+valentine_shovel:
+  display_name: Valentine Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: valentineset:shovel
+valentine_spear:
+  display_name: Valentine Spear
+  material: PAPER
+  Pack:
+    model: valentineset:spear
+valentine_staff:
+  display_name: Valentine Staff
+  material: PAPER
+  Pack:
+    model: valentineset:staff
+valentine_sword:
+  display_name: Valentine Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: valentineset:sword
+valentine_trident:
+  display_name: Valentine Trident
+  material: TRIDENT
+  Pack:
+    model: valentineset:trident
+warden_axe:
+  display_name: Warden Axe
+  material: DIAMOND_AXE
+  Pack:
+    model: warden_set:axe
+warden_bow:
+  display_name: Warden Bow
+  material: BOW
+  Pack:
+    model: nexo:item/warden_bow
+warden_hammer:
+  display_name: Warden Hammer
+  material: PAPER
+  Pack:
+    model: warden_set:hammer
+warden_hoe:
+  display_name: Warden Hoe
+  material: DIAMOND_HOE
+  Pack:
+    model: warden_set:hoe
+warden_pickaxe:
+  display_name: Warden Pickaxe
+  material: DIAMOND_PICKAXE
+  Pack:
+    model: warden_set:pickaxe
+warden_shovel:
+  display_name: Warden Shovel
+  material: DIAMOND_SHOVEL
+  Pack:
+    model: warden_set:shovel
+warden_staff:
+  display_name: Warden Staff
+  material: PAPER
+  Pack:
+    model: warden_set:staff
+warden_sword:
+  display_name: Warden Sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: warden_set:sword

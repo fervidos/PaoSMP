@@ -1,0 +1,125 @@
+info:
+  namespace: plny_cardael
+items:
+  plny_cardael_set_axe:
+    display_name: Plny Cardael Set Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: plny_cardael_set:axe
+  plny_cardael_set_boots:
+    display_name: Plny Cardael Set Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/plny_cardael_set_boots
+    Components:
+      equippable:
+        slot: FEET
+  plny_cardael_set_bow:
+    display_name: Plny Cardael Set Bow
+    material: BOW
+    Pack:
+      model: nexo:item/plny_cardael_set_bow
+  plny_cardael_set_chest:
+    display_name: Plny Cardael Set Chest
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:chest
+  plny_cardael_set_chestplate:
+    display_name: Plny Cardael Set Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/plny_cardael_set_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  plny_cardael_set_crossbow:
+    display_name: Plny Cardael Set Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/plny_cardael_set_crossbow
+  plny_cardael_set_fishing_rod:
+    display_name: Plny Cardael Set Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/plny_cardael_set_fishing_rod
+  plny_cardael_set_hammer:
+    display_name: Plny Cardael Set Hammer
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:hammer
+  plny_cardael_set_helmet:
+    display_name: Plny Cardael Set Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: plny_cardael_set:helmet
+    Components:
+      equippable:
+        slot: HEAD
+  plny_cardael_set_hoe:
+    display_name: Plny Cardael Set Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: plny_cardael_set:hoe
+  plny_cardael_set_key:
+    display_name: Plny Cardael Set Key
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:key
+  plny_cardael_set_leggings:
+    display_name: Plny Cardael Set Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/plny_cardael_set_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  plny_cardael_set_mace:
+    display_name: Plny Cardael Set Mace
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:mace
+  plny_cardael_set_pickaxe:
+    display_name: Plny Cardael Set Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: plny_cardael_set:pickaxe
+  plny_cardael_set_scythe:
+    display_name: Plny Cardael Set Scythe
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:scythe
+  plny_cardael_set_shield:
+    display_name: Plny Cardael Set Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/plny_cardael_set_shield
+  plny_cardael_set_shovel:
+    display_name: Plny Cardael Set Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: plny_cardael_set:shovel
+  plny_cardael_set_spear:
+    display_name: Plny Cardael Set Spear
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:spear
+  plny_cardael_set_staff:
+    display_name: Plny Cardael Set Staff
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:staff
+  plny_cardael_set_sword:
+    display_name: Plny Cardael Set Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: plny_cardael_set:sword
+  plny_cardael_set_trident:
+    display_name: Plny Cardael Set Trident
+    material: TRIDENT
+    Pack:
+      model: plny_cardael_set:staff
+  plny_cardael_set_wings:
+    display_name: Plny Cardael Set Wings
+    material: PAPER
+    Pack:
+      model: plny_cardael_set:wings

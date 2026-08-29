@@ -2,18 +2,22 @@ NexoInventory:
   type: FILE
   style_default_names: true
   layout:
-    nexo_armor:
+    armor:
       slot: 1
-      icon: forest_helmet
-      itemname: <green>Nexo Armor</green>
-    nexo_furniture:
+      icon: arcanist_helmet
+      itemname: <green>Armor</green>
+    furniture:
       slot: 2
       icon: arm_chair
-      itemname: <green>Nexo Furniture</green>
-    nexo_tools:
+      itemname: <green>Furniture</green>
+    weapons:
       slot: 3
-      icon: forest_axe
-      itemname: <green>Nexo Tools</green>
+      icon: arcanist_sword
+      itemname: <green>Weapons</green>
+    misc_other:
+      slot: 4
+      icon: adventurer_backpack
+      itemname: <green>Misc / Other</green>
   menu_rows: 6
   menu_size: 45
   menu_title: <shift:-37><glyph:menu_items_search>

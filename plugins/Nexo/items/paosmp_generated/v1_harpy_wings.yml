@@ -1,0 +1,28 @@
+info:
+  namespace: v1_harpy_wings
+items:
+  v1_harpy_wings:
+    display_name: V1 Harpy Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/harpy_wings
+  v1_harpy_wings_normal:
+    display_name: V1 Harpy Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/harpy_wings_normal
+  v1_harpy_wings_normal_2:
+    display_name: V1 Harpy Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/harpy_wings_normal_2
+  v1_harpy_wings_self:
+    display_name: V1 Harpy Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/harpy_wings_self
+  v1_harpy_wings_self_2:
+    display_name: V1 Harpy Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v1/harpy_wings_self_2

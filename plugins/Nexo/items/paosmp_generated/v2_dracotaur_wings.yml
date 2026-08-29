@@ -1,0 +1,28 @@
+info:
+  namespace: v2_dracotaur_wings
+items:
+  v2_dracotaur_wings:
+    display_name: V2 Dracotaur Wings
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/dracotaur_wings
+  v2_dracotaur_wings_normal:
+    display_name: V2 Dracotaur Wings Normal
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/dracotaur_wings_normal
+  v2_dracotaur_wings_normal_2:
+    display_name: V2 Dracotaur Wings Normal 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/dracotaur_wings_normal_2
+  v2_dracotaur_wings_self:
+    display_name: V2 Dracotaur Wings Self
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/dracotaur_wings_self
+  v2_dracotaur_wings_self_2:
+    display_name: V2 Dracotaur Wings Self 2
+    material: PAPER
+    Pack:
+      model: ec_elitewings:v2/dracotaur_wings_self_2

@@ -1,0 +1,90 @@
+info:
+  namespace: red_cyber
+items:
+  red_cyber_axe:
+    display_name: Red Cyber Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: jeqo:cyber_set/red/cyber_axe
+  red_cyber_boots:
+    display_name: Red Cyber Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/red_cyber_boots
+    Components:
+      equippable:
+        slot: FEET
+  red_cyber_bow:
+    display_name: Red Cyber Bow
+    material: BOW
+    Pack:
+      model: nexo:item/red_cyber_bow
+  red_cyber_chestplate:
+    display_name: Red Cyber Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/red_cyber_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  red_cyber_crate:
+    display_name: Red Cyber Crate
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/red/cyber_crate
+  red_cyber_crate_open:
+    display_name: Red Cyber Crate Open
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/red/cyber_crate_open
+  red_cyber_helmet:
+    display_name: Red Cyber Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/red_cyber_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  red_cyber_hoe:
+    display_name: Red Cyber Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: jeqo:cyber_set/red/cyber_hoe
+  red_cyber_key:
+    display_name: Red Cyber Key
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/red/cyber_key
+  red_cyber_leggings:
+    display_name: Red Cyber Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/red_cyber_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  red_cyber_pickaxe:
+    display_name: Red Cyber Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: jeqo:cyber_set/red/cyber_pickaxe
+  red_cyber_rod:
+    display_name: Red Cyber Rod
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/red/cyber_rod
+  red_cyber_shield:
+    display_name: Red Cyber Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/red_cyber_shield
+  red_cyber_shovel:
+    display_name: Red Cyber Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: jeqo:cyber_set/red/cyber_shovel
+  red_cyber_sword:
+    display_name: Red Cyber Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: jeqo:cyber_set/red/cyber_sword

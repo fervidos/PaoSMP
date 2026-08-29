@@ -1,0 +1,140 @@
+info:
+  namespace: cursed_archivist
+items:
+  cursed_archivist_axe:
+    display_name: Cursed Archivist Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: cursed_archivist:axe
+  cursed_archivist_boots:
+    display_name: Cursed Archivist Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/cursed_archivist_boots
+    Components:
+      equippable:
+        slot: FEET
+  cursed_archivist_bow:
+    display_name: Cursed Archivist Bow
+    material: BOW
+    Pack:
+      model: nexo:item/cursed_archivist_bow
+  cursed_archivist_chest:
+    display_name: Cursed Archivist Chest
+    material: PAPER
+    Pack:
+      model: cursed_archivist:chest
+  cursed_archivist_chestplate:
+    display_name: Cursed Archivist Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/cursed_archivist_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  cursed_archivist_crossbow:
+    display_name: Cursed Archivist Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/cursed_archivist_crossbow
+  cursed_archivist_dagger:
+    display_name: Cursed Archivist Dagger
+    material: PAPER
+    Pack:
+      model: cursed_archivist:dagger
+  cursed_archivist_fishing_rod:
+    display_name: Cursed Archivist Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/cursed_archivist_fishing_rod
+  cursed_archivist_hammer:
+    display_name: Cursed Archivist Hammer
+    material: PAPER
+    Pack:
+      model: cursed_archivist:hammer
+  cursed_archivist_hat:
+    display_name: Cursed Archivist Hat
+    material: PAPER
+    Pack:
+      model: cursed_archivist:hat
+  cursed_archivist_helmet:
+    display_name: Cursed Archivist Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/cursed_archivist_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  cursed_archivist_hoe:
+    display_name: Cursed Archivist Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: cursed_archivist:hoe
+  cursed_archivist_key:
+    display_name: Cursed Archivist Key
+    material: PAPER
+    Pack:
+      model: cursed_archivist:key
+  cursed_archivist_leggings:
+    display_name: Cursed Archivist Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/cursed_archivist_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  cursed_archivist_pickaxe:
+    display_name: Cursed Archivist Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: cursed_archivist:pickaxe
+  cursed_archivist_rapier_sword:
+    display_name: Cursed Archivist Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: cursed_archivist:rapier_sword
+  cursed_archivist_scythe:
+    display_name: Cursed Archivist Scythe
+    material: PAPER
+    Pack:
+      model: cursed_archivist:scythe
+  cursed_archivist_shield:
+    display_name: Cursed Archivist Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/cursed_archivist_shield
+  cursed_archivist_shovel:
+    display_name: Cursed Archivist Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: cursed_archivist:shovel
+  cursed_archivist_spear:
+    display_name: Cursed Archivist Spear
+    material: PAPER
+    Pack:
+      model: cursed_archivist:spear
+  cursed_archivist_staff:
+    display_name: Cursed Archivist Staff
+    material: PAPER
+    Pack:
+      model: cursed_archivist:staff
+  cursed_archivist_sword:
+    display_name: Cursed Archivist Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: cursed_archivist:sword
+  cursed_archivist_trident:
+    display_name: Cursed Archivist Trident
+    material: TRIDENT
+    Pack:
+      model: cursed_archivist:trident
+  cursed_archivist_wing:
+    display_name: Cursed Archivist Wing
+    material: PAPER
+    Pack:
+      model: cursed_archivist:wing
+  cursed_archivist_wing_1:
+    display_name: Cursed Archivist Wing 1
+    material: PAPER
+    Pack:
+      model: cursed_archivist:wing_1

@@ -1,0 +1,672 @@
+info:
+  namespace: fishing
+abramis:
+  display_name: Abramis
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/abramis
+akadi:
+  display_name: Akadi
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/akadi
+albacore:
+  display_name: Albacore
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/albacore
+alex_the_fish:
+  display_name: Alex The Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/alex_the_fish
+ancient_fish:
+  display_name: Ancient Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/ancient_fish
+angelfish:
+  display_name: Angelfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/angelfish
+angler_fish:
+  display_name: Angler Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/angler_fish
+arapaima:
+  display_name: Arapaima
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/arapaima
+arcanist_fishing_rod:
+  display_name: Arcanist Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/arcanist_fishing_rod
+archer_fish:
+  display_name: Archer Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/archer_fish
+atlantic_cod:
+  display_name: Atlantic Cod
+  material: PAPER
+  Pack:
+    model: nexo:item/atlantic_cod
+barracuda:
+  display_name: Barracuda
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/barracuda
+basic_fish:
+  display_name: Basic Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/basic_fish
+bass:
+  display_name: Bass
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/bass
+berry_fish:
+  display_name: Berry Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/berry_fish
+blackfin_seabass:
+  display_name: Blackfin Seabass
+  material: PAPER
+  Pack:
+    model: nexo:item/blackfin_seabass
+blackfin_tuna:
+  display_name: Blackfin Tuna
+  material: PAPER
+  Pack:
+    model: nexo:item/blackfin_tuna
+black_bean_fish:
+  display_name: Black Bean Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/black_bean_fish
+black_cod:
+  display_name: Black Cod
+  material: PAPER
+  Pack:
+    model: nexo:item/black_cod
+black_sea_bass:
+  display_name: Black Sea Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/black_sea_bass
+blueflame_fishing_rod:
+  display_name: Blueflame Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/blueflame_fishing_rod
+blue_catfish:
+  display_name: Blue Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/blue_catfish
+blue_jellyfish:
+  display_name: Blue Jellyfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/blue_jellyfish
+bonefish:
+  display_name: Bonefish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/bonefish
+box_jellyfish:
+  display_name: Box Jellyfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/box_jellyfish
+bullhead_catfish:
+  display_name: Bullhead Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/bullhead_catfish
+butterfish:
+  display_name: Butterfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/butterfish
+carp:
+  display_name: Carp
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/carp
+catfish:
+  display_name: Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/catfish
+channel_catfish:
+  display_name: Channel Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/channel_catfish
+chaos_fish:
+  display_name: Chaos Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/chaos_fish
+chevron_barracuda:
+  display_name: Chevron Barracuda
+  material: PAPER
+  Pack:
+    model: nexo:item/chevron_barracuda
+chronicles_fishing_rod:
+  display_name: Chronicles Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/chronicles_fishing_rod
+city_fish:
+  display_name: City Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/city_fish
+clorofish:
+  display_name: Clorofish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/clorofish
+clownfish:
+  display_name: Clownfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/clownfish
+coal_fish:
+  display_name: Coal Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/coal_fish
+colossal_catfish:
+  display_name: Colossal Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/colossal_catfish
+common_lionfish:
+  display_name: Common Lionfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/common_lionfish
+cyberpunk_animated_fishing_rod:
+  display_name: Cyberpunk Animated Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/cyberpunk_animated-fishing_rod
+devils_hole_pupfish:
+  display_name: Devils Hole Pupfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/devils_hole_pupfish
+dinomite_fish:
+  display_name: Dinomite Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/dinomite_fish
+dolphinfish:
+  display_name: Dolphinfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/dolphinfish
+dracula_fishing:
+  display_name: Dracula Fishing
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/dracula_fishing
+ender_bass:
+  display_name: Ender Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/ender_bass
+e_boy_fish:
+  display_name: E Boy Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/e-boy_fish
+fairy_fish:
+  display_name: Fairy Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/fairy_fish
+fairy_fishing_rod:
+  display_name: Fairy Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/fairy_fishing_rod
+fisherman_hat:
+  display_name: Fisherman Hat
+  material: TROPICAL_FISH
+  Pack:
+    model: fantasy_npc:fisherman_hat
+fishing_rod:
+  display_name: Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/fishing_rod
+flamefish:
+  display_name: Flamefish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/flamefish
+flying_fish:
+  display_name: Flying Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/flying_fish
+garfish:
+  display_name: Garfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/garfish
+ghostly_anglerfish:
+  display_name: Ghostly Anglerfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/ghostly_anglerfish
+ghost_fish:
+  display_name: Ghost Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/ghost_fish
+giant_arapaima:
+  display_name: Giant Arapaima
+  material: PAPER
+  Pack:
+    model: nexo:item/giant_arapaima
+glacier_fish:
+  display_name: Glacier Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/glacier_fish
+goliath_tigerfish:
+  display_name: Goliath Tigerfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/goliath_tigerfish
+great_fairy_fish:
+  display_name: Great Fairy Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/great_fairy_fish
+great_pink_salmon:
+  display_name: Great Pink Salmon
+  material: PAPER
+  Pack:
+    model: nexo:item/great_pink_salmon
+hogfish:
+  display_name: Hogfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/hogfish
+honey_sunfish:
+  display_name: Honey Sunfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/honey_sunfish
+humpback_anglerfish:
+  display_name: Humpback Anglerfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/humpback_anglerfish
+jellyfish:
+  display_name: Jellyfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/jellyfish
+kelp_fish:
+  display_name: Kelp Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/kelp_fish
+kingfish:
+  display_name: Kingfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/kingfish
+kiwi_fish:
+  display_name: Kiwi Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/kiwi_fish
+largemouth_bass:
+  display_name: Largemouth Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/largemouth_bass
+lava_fish:
+  display_name: Lava Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/lava_fish
+leviathan_fishing_rod:
+  display_name: Leviathan Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/leviathan_fishing_rod
+lingcod:
+  display_name: Lingcod
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/lingcod
+liniar_carp:
+  display_name: Liniar Carp
+  material: PAPER
+  Pack:
+    model: nexo:item/liniar_carp
+littlecrocodile_backpack:
+  display_name: Littlecrocodile Backpack
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:backpack
+littlecrocodile_chest:
+  display_name: Littlecrocodile Chest
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:chest
+littlecrocodile_crocodile_hat:
+  display_name: Littlecrocodile Crocodile Hat
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:crocodile_hat
+littlecrocodile_fishing_rod:
+  display_name: Littlecrocodile Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/littlecrocodile_fishing_rod
+littlecrocodile_key:
+  display_name: Littlecrocodile Key
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:key
+littlecrocodile_knife:
+  display_name: Littlecrocodile Knife
+  material: PAPER
+  Pack:
+    model: littlecrocodileset:knife
+littlecrocodile_shield:
+  display_name: Littlecrocodile Shield
+  material: SHIELD
+  Pack:
+    model: nexo:item/littlecrocodile_shield
+littledragon_fishing_rod:
+  display_name: Littledragon Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/littledragon_fishing_rod
+mojarra:
+  display_name: Mojarra
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/mojarra
+monkfish:
+  display_name: Monkfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/monkfish
+moon_fish:
+  display_name: Moon Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/moon_fish
+necros_fishing_rod:
+  display_name: Necros Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/necros_fishing_rod
+neeko_fish:
+  display_name: Neeko Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/neeko_fish
+nep_fish:
+  display_name: Nep Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/nep_fish
+nuptuna:
+  display_name: Nuptuna
+  material: PAPER
+  Pack:
+    model: nexo:item/nuptuna
+ordon_catfish:
+  display_name: Ordon Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/ordon_catfish
+parrotfish:
+  display_name: Parrotfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/parrotfish
+phantom_fish:
+  display_name: Phantom Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/phantom_fish
+pink_jellyfish:
+  display_name: Pink Jellyfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/pink_jellyfish
+princess_fish:
+  display_name: Princess Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/princess_fish
+purple_fish:
+  display_name: Purple Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/purple_fish
+pyro_fish:
+  display_name: Pyro Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/pyro_fish
+radiance_fishing_rod:
+  display_name: Radiance Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/radiance_fishing_rod
+random_fish:
+  display_name: Random Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/random_fish
+redtail_catfish:
+  display_name: Redtail Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/redtail_catfish
+red_jellyfish:
+  display_name: Red Jellyfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/red_jellyfish
+red_lionfish:
+  display_name: Red Lionfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/red_lionfish
+rockfish:
+  display_name: Rockfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/rockfish
+rock_bass:
+  display_name: Rock Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/rock_bass
+rock_salmon:
+  display_name: Rock Salmon
+  material: PAPER
+  Pack:
+    model: nexo:item/rock_salmon
+rouge_fish:
+  display_name: Rouge Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/rouge_fish
+rudderfish:
+  display_name: Rudderfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/rudderfish
+sable_fish:
+  display_name: Sable Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/sable_fish
+saddleback_clownfish:
+  display_name: Saddleback Clownfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/saddleback_clownfish
+sailfish:
+  display_name: Sailfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/sailfish
+sakura_fishing_rod:
+  display_name: Sakura Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/sakura_fishing_rod
+scorpionfish:
+  display_name: Scorpionfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/scorpionfish
+screaming_goat_fish:
+  display_name: Screaming Goat Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/screaming_goat_fish
+sea_bass:
+  display_name: Sea Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/sea_bass
+sea_salmon:
+  display_name: Sea Salmon
+  material: PAPER
+  Pack:
+    model: nexo:item/sea_salmon
+skipjack_tuna:
+  display_name: Skipjack Tuna
+  material: PAPER
+  Pack:
+    model: nexo:item/skipjack_tuna
+smallmouth_bass:
+  display_name: Smallmouth Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/smallmouth_bass
+spadefish:
+  display_name: Spadefish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/spadefish
+steve_the_fish:
+  display_name: Steve The Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/steve_the_fish
+stonefish:
+  display_name: Stonefish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/stonefish
+stone_bass:
+  display_name: Stone Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/stone_bass
+striped_bass:
+  display_name: Striped Bass
+  material: PAPER
+  Pack:
+    model: nexo:item/striped_bass
+sunfish:
+  display_name: Sunfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/sunfish
+tigerfish:
+  display_name: Tigerfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/tigerfish
+tilefish:
+  display_name: Tilefish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/tilefish
+triggerfish:
+  display_name: Triggerfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/triggerfish
+tuna:
+  display_name: Tuna
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/tuna
+valentine_fishing_rod:
+  display_name: Valentine Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/valentine_fishing_rod
+vampire_fish:
+  display_name: Vampire Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/vampire_fish
+villager_fish:
+  display_name: Villager Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/villager_fish
+void_salmon:
+  display_name: Void Salmon
+  material: PAPER
+  Pack:
+    model: nexo:item/void_salmon
+warden_fishing_rod:
+  display_name: Warden Fishing Rod
+  material: FISHING_ROD
+  Pack:
+    model: nexo:item/warden_fishing_rod
+wels_catfish:
+  display_name: Wels Catfish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/wels_catfish
+white_fish:
+  display_name: White Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/white_fish
+yeehaw_fish:
+  display_name: Yeehaw Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/yeehaw_fish
+yellowfin_tuna:
+  display_name: Yellowfin Tuna
+  material: PAPER
+  Pack:
+    model: nexo:item/yellowfin_tuna
+yellow_goat_fish:
+  display_name: Yellow Goat Fish
+  material: TROPICAL_FISH
+  Pack:
+    model: nexo:item/yellow_goat_fish

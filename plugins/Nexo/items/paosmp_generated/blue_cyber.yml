@@ -1,0 +1,45 @@
+info:
+  namespace: blue_cyber
+items:
+  blue_cyber_boots:
+    display_name: Blue Cyber Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/blue_cyber_boots
+    Components:
+      equippable:
+        slot: FEET
+  blue_cyber_chestplate:
+    display_name: Blue Cyber Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/blue_cyber_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  blue_cyber_crate:
+    display_name: Blue Cyber Crate
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/blue/cyber_crate
+  blue_cyber_helmet:
+    display_name: Blue Cyber Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/blue_cyber_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  blue_cyber_key:
+    display_name: Blue Cyber Key
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/blue/cyber_key
+  blue_cyber_leggings:
+    display_name: Blue Cyber Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/blue_cyber_leggings
+    Components:
+      equippable:
+        slot: LEGS

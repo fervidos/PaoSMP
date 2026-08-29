@@ -1,0 +1,508 @@
+info:
+  namespace: nm_plushie
+items:
+  nm_plushie_allay:
+    display_name: Nm Plushie Allay
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_allay
+  nm_plushie_armadillo:
+    display_name: Nm Plushie Armadillo
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_armadillo
+  nm_plushie_axolotl:
+    display_name: Nm Plushie Axolotl
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_axolotl
+  nm_plushie_axolotl_blue:
+    display_name: Nm Plushie Axolotl Blue
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_axolotl_blue
+  nm_plushie_axolotl_brown:
+    display_name: Nm Plushie Axolotl Brown
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_axolotl_brown
+  nm_plushie_axolotl_cyan:
+    display_name: Nm Plushie Axolotl Cyan
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_axolotl_cyan
+  nm_plushie_axolotl_gold:
+    display_name: Nm Plushie Axolotl Gold
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_axolotl_gold
+  nm_plushie_bat:
+    display_name: Nm Plushie Bat
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_bat
+  nm_plushie_bee:
+    display_name: Nm Plushie Bee
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_bee
+  nm_plushie_blaze:
+    display_name: Nm Plushie Blaze
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_blaze
+  nm_plushie_breeze:
+    display_name: Nm Plushie Breeze
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_breeze
+  nm_plushie_camel:
+    display_name: Nm Plushie Camel
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_camel
+  nm_plushie_cat:
+    display_name: Nm Plushie Cat
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat
+  nm_plushie_cat_black:
+    display_name: Nm Plushie Cat Black
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_black
+  nm_plushie_cat_british_shorthair:
+    display_name: Nm Plushie Cat British Shorthair
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_british_shorthair
+  nm_plushie_cat_calico:
+    display_name: Nm Plushie Cat Calico
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_calico
+  nm_plushie_cat_jellie:
+    display_name: Nm Plushie Cat Jellie
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_jellie
+  nm_plushie_cat_persian:
+    display_name: Nm Plushie Cat Persian
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_persian
+  nm_plushie_cat_ragdoll:
+    display_name: Nm Plushie Cat Ragdoll
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_ragdoll
+  nm_plushie_cat_siamese:
+    display_name: Nm Plushie Cat Siamese
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_siamese
+  nm_plushie_cat_tabby:
+    display_name: Nm Plushie Cat Tabby
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_tabby
+  nm_plushie_cat_tuxedo:
+    display_name: Nm Plushie Cat Tuxedo
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_tuxedo
+  nm_plushie_cat_white:
+    display_name: Nm Plushie Cat White
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cat_white
+  nm_plushie_cave_spider:
+    display_name: Nm Plushie Cave Spider
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cave_spider
+  nm_plushie_chicken:
+    display_name: Nm Plushie Chicken
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_chicken
+  nm_plushie_cow:
+    display_name: Nm Plushie Cow
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_cow
+  nm_plushie_creeper:
+    display_name: Nm Plushie Creeper
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_creeper
+  nm_plushie_dolphin:
+    display_name: Nm Plushie Dolphin
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_dolphin
+  nm_plushie_donkey:
+    display_name: Nm Plushie Donkey
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_donkey
+  nm_plushie_drowned:
+    display_name: Nm Plushie Drowned
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_drowned
+  nm_plushie_elder_guardian:
+    display_name: Nm Plushie Elder Guardian
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_elder_guardian
+  nm_plushie_enderdragon:
+    display_name: Nm Plushie Enderdragon
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_enderdragon
+  nm_plushie_enderman:
+    display_name: Nm Plushie Enderman
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_enderman
+  nm_plushie_evoker:
+    display_name: Nm Plushie Evoker
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_evoker
+  nm_plushie_fox:
+    display_name: Nm Plushie Fox
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_fox
+  nm_plushie_fox_snow:
+    display_name: Nm Plushie Fox Snow
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_fox_snow
+  nm_plushie_frog:
+    display_name: Nm Plushie Frog
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_frog
+  nm_plushie_frog_temperate:
+    display_name: Nm Plushie Frog Temperate
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_frog_temperate
+  nm_plushie_frog_warm:
+    display_name: Nm Plushie Frog Warm
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_frog_warm
+  nm_plushie_ghast:
+    display_name: Nm Plushie Ghast
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_ghast
+  nm_plushie_glow_squid:
+    display_name: Nm Plushie Glow Squid
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_glow_squid
+  nm_plushie_goat:
+    display_name: Nm Plushie Goat
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_goat
+  nm_plushie_guardian:
+    display_name: Nm Plushie Guardian
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_guardian
+  nm_plushie_hoglin:
+    display_name: Nm Plushie Hoglin
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_hoglin
+  nm_plushie_horse:
+    display_name: Nm Plushie Horse
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_horse
+  nm_plushie_horse_black:
+    display_name: Nm Plushie Horse Black
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_horse_black
+  nm_plushie_horse_chestnut:
+    display_name: Nm Plushie Horse Chestnut
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_horse_chestnut
+  nm_plushie_horse_gray:
+    display_name: Nm Plushie Horse Gray
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_horse_gray
+  nm_plushie_horse_white:
+    display_name: Nm Plushie Horse White
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_horse_white
+  nm_plushie_husk:
+    display_name: Nm Plushie Husk
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_husk
+  nm_plushie_iron_golem:
+    display_name: Nm Plushie Iron Golem
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_iron_golem
+  nm_plushie_llama:
+    display_name: Nm Plushie Llama
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_llama
+  nm_plushie_magma_cube:
+    display_name: Nm Plushie Magma Cube
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_magma_cube
+  nm_plushie_mooshroom:
+    display_name: Nm Plushie Mooshroom
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_mooshroom
+  nm_plushie_mule:
+    display_name: Nm Plushie Mule
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_mule
+  nm_plushie_panda:
+    display_name: Nm Plushie Panda
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_panda
+  nm_plushie_parrot:
+    display_name: Nm Plushie Parrot
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_parrot
+  nm_plushie_parrot_blue:
+    display_name: Nm Plushie Parrot Blue
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_parrot_blue
+  nm_plushie_parrot_cyan:
+    display_name: Nm Plushie Parrot Cyan
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_parrot_cyan
+  nm_plushie_parrot_gray:
+    display_name: Nm Plushie Parrot Gray
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_parrot_gray
+  nm_plushie_parrot_green:
+    display_name: Nm Plushie Parrot Green
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_parrot_green
+  nm_plushie_phantom:
+    display_name: Nm Plushie Phantom
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_phantom
+  nm_plushie_pig:
+    display_name: Nm Plushie Pig
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_pig
+  nm_plushie_piglin:
+    display_name: Nm Plushie Piglin
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_piglin
+  nm_plushie_piglin_brute:
+    display_name: Nm Plushie Piglin Brute
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_piglin_brute
+  nm_plushie_pillager:
+    display_name: Nm Plushie Pillager
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_pillager
+  nm_plushie_polar_bear:
+    display_name: Nm Plushie Polar Bear
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_polar_bear
+  nm_plushie_pufferfish:
+    display_name: Nm Plushie Pufferfish
+    material: TROPICAL_FISH
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_pufferfish
+  nm_plushie_rabbit:
+    display_name: Nm Plushie Rabbit
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit
+  nm_plushie_rabbit_black:
+    display_name: Nm Plushie Rabbit Black
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit_black
+  nm_plushie_rabbit_black_white:
+    display_name: Nm Plushie Rabbit Black White
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit_black_white
+  nm_plushie_rabbit_gold:
+    display_name: Nm Plushie Rabbit Gold
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit_gold
+  nm_plushie_rabbit_salt_pepper:
+    display_name: Nm Plushie Rabbit Salt Pepper
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit_salt_pepper
+  nm_plushie_rabbit_toast:
+    display_name: Nm Plushie Rabbit Toast
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit_toast
+  nm_plushie_rabbit_white:
+    display_name: Nm Plushie Rabbit White
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_rabbit_white
+  nm_plushie_ravager:
+    display_name: Nm Plushie Ravager
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_ravager
+  nm_plushie_sheep:
+    display_name: Nm Plushie Sheep
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_sheep
+  nm_plushie_shulker:
+    display_name: Nm Plushie Shulker
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_shulker
+  nm_plushie_skeleton:
+    display_name: Nm Plushie Skeleton
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_skeleton
+  nm_plushie_skeleton_horse:
+    display_name: Nm Plushie Skeleton Horse
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_skeleton_horse
+  nm_plushie_slime:
+    display_name: Nm Plushie Slime
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_slime
+  nm_plushie_sniffer:
+    display_name: Nm Plushie Sniffer
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_sniffer
+  nm_plushie_spider:
+    display_name: Nm Plushie Spider
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_spider
+  nm_plushie_squid:
+    display_name: Nm Plushie Squid
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_squid
+  nm_plushie_stray:
+    display_name: Nm Plushie Stray
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_stray
+  nm_plushie_strider:
+    display_name: Nm Plushie Strider
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_strider
+  nm_plushie_trader_llama:
+    display_name: Nm Plushie Trader Llama
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_trader_llama
+  nm_plushie_turtle:
+    display_name: Nm Plushie Turtle
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_turtle
+  nm_plushie_vex:
+    display_name: Nm Plushie Vex
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_vex
+  nm_plushie_villager:
+    display_name: Nm Plushie Villager
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_villager
+  nm_plushie_vindicator:
+    display_name: Nm Plushie Vindicator
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_vindicator
+  nm_plushie_wandering_trader:
+    display_name: Nm Plushie Wandering Trader
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_wandering_trader
+  nm_plushie_warden:
+    display_name: Nm Plushie Warden
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_warden
+  nm_plushie_witch:
+    display_name: Nm Plushie Witch
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_witch
+  nm_plushie_wither:
+    display_name: Nm Plushie Wither
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_wither
+  nm_plushie_wither_skeleton:
+    display_name: Nm Plushie Wither Skeleton
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_wither_skeleton
+  nm_plushie_wolf:
+    display_name: Nm Plushie Wolf
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_wolf
+  nm_plushie_zoglin:
+    display_name: Nm Plushie Zoglin
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_zoglin
+  nm_plushie_zombie:
+    display_name: Nm Plushie Zombie
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_zombie
+  nm_plushie_zombie_villager:
+    display_name: Nm Plushie Zombie Villager
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_zombie_villager
+  nm_plushie_zombified_piglin:
+    display_name: Nm Plushie Zombified Piglin
+    material: PAPER
+    Pack:
+      model: nogs_menagerie:plushies/nm_plushie_zombified_piglin

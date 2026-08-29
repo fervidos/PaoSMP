@@ -1,0 +1,79 @@
+info:
+  namespace: furniture
+arm_chair:
+  display_name: Arm Chair
+  material: PAPER
+  Pack:
+    model: nexo:item/arm_chair
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE
+coffee_table:
+  display_name: Coffee Table
+  material: PAPER
+  Pack:
+    model: nexo:item/coffee_table
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE
+double_bed:
+  display_name: Double Bed
+  material: PAPER
+  Pack:
+    model: nexo:item/double_bed
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE
+end_table:
+  display_name: End Table
+  material: PAPER
+  Pack:
+    model: nexo:9776c535-a950-4273-9ad6-5201950a6c21
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE
+md_shelf_3:
+  display_name: Md Shelf 3
+  material: PAPER
+  Pack:
+    model: elitecreatures:modern_furniture_v1/md_shelf_3
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE
+sofa:
+  display_name: Sofa
+  material: PAPER
+  Pack:
+    model: nexo:item/sofa
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE
+table_lamp:
+  display_name: Table Lamp
+  material: PAPER
+  Pack:
+    model: nexo:item/table_lamp
+  Mechanics:
+    furniture:
+      placeable_on:
+      - minecraft:barrier
+      properties:
+        display_transform: NONE

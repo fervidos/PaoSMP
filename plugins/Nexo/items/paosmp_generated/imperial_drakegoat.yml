@@ -1,0 +1,135 @@
+info:
+  namespace: imperial_drakegoat
+items:
+  imperial_drakegoat_armaments_axe:
+    display_name: Imperial Drakegoat Armaments Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: imperial_drakegoat_armaments:axe
+  imperial_drakegoat_armaments_boots:
+    display_name: Imperial Drakegoat Armaments Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_boots
+    Components:
+      equippable:
+        slot: FEET
+  imperial_drakegoat_armaments_bow:
+    display_name: Imperial Drakegoat Armaments Bow
+    material: BOW
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_bow
+  imperial_drakegoat_armaments_chest:
+    display_name: Imperial Drakegoat Armaments Chest
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:chest
+  imperial_drakegoat_armaments_chestplate:
+    display_name: Imperial Drakegoat Armaments Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  imperial_drakegoat_armaments_crossbow:
+    display_name: Imperial Drakegoat Armaments Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_crossbow
+  imperial_drakegoat_armaments_dagger:
+    display_name: Imperial Drakegoat Armaments Dagger
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:dagger
+  imperial_drakegoat_armaments_fishing_rod:
+    display_name: Imperial Drakegoat Armaments Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_fishing_rod
+  imperial_drakegoat_armaments_hammer:
+    display_name: Imperial Drakegoat Armaments Hammer
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:hammer
+  imperial_drakegoat_armaments_hat:
+    display_name: Imperial Drakegoat Armaments Hat
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:hat
+  imperial_drakegoat_armaments_helmet:
+    display_name: Imperial Drakegoat Armaments Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  imperial_drakegoat_armaments_hoe:
+    display_name: Imperial Drakegoat Armaments Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: imperial_drakegoat_armaments:hoe
+  imperial_drakegoat_armaments_key:
+    display_name: Imperial Drakegoat Armaments Key
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:key
+  imperial_drakegoat_armaments_leggings:
+    display_name: Imperial Drakegoat Armaments Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  imperial_drakegoat_armaments_pickaxe:
+    display_name: Imperial Drakegoat Armaments Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: imperial_drakegoat_armaments:pickaxe
+  imperial_drakegoat_armaments_rapier_sword:
+    display_name: Imperial Drakegoat Armaments Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: imperial_drakegoat_armaments:rapier_sword
+  imperial_drakegoat_armaments_scythe:
+    display_name: Imperial Drakegoat Armaments Scythe
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:scythe
+  imperial_drakegoat_armaments_shield:
+    display_name: Imperial Drakegoat Armaments Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/imperial_drakegoat_armaments_shield
+  imperial_drakegoat_armaments_shovel:
+    display_name: Imperial Drakegoat Armaments Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: imperial_drakegoat_armaments:shovel
+  imperial_drakegoat_armaments_spear:
+    display_name: Imperial Drakegoat Armaments Spear
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:spear
+  imperial_drakegoat_armaments_staff:
+    display_name: Imperial Drakegoat Armaments Staff
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:staff
+  imperial_drakegoat_armaments_sword:
+    display_name: Imperial Drakegoat Armaments Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: imperial_drakegoat_armaments:sword
+  imperial_drakegoat_armaments_trident:
+    display_name: Imperial Drakegoat Armaments Trident
+    material: TRIDENT
+    Pack:
+      model: imperial_drakegoat_armaments:trident
+  imperial_drakegoat_armaments_wing:
+    display_name: Imperial Drakegoat Armaments Wing
+    material: PAPER
+    Pack:
+      model: imperial_drakegoat_armaments:wing

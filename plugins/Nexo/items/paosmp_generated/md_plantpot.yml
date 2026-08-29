@@ -1,0 +1,13 @@
+info:
+  namespace: md_plantpot
+items:
+  md_plantpot:
+    display_name: Md Plantpot
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_plantpot
+  md_plantpot_short:
+    display_name: Md Plantpot Short
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_plantpot_short

@@ -1,0 +1,21 @@
+info:
+  namespace: md_sofa
+items:
+  md_sofa_blue:
+    display_name: Md Sofa Blue
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_sofa_blue
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  md_sofa_blue_small:
+    display_name: Md Sofa Blue Small
+    material: PAPER
+    Pack:
+      model: elitecreatures:modern_furniture_v1/md_sofa_blue_small
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

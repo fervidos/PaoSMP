@@ -1,0 +1,180 @@
+info:
+  namespace: 20th_century_furniture_v1
+items:
+  20th_century_furniture_v1_bed:
+    display_name: 20th Century Furniture V1 Bed
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/bed
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_big_cupboard:
+    display_name: 20th Century Furniture V1 Big Cupboard
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/big_cupboard
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_book_shelf:
+    display_name: 20th Century Furniture V1 Book Shelf
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/book_shelf
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_carpet_1:
+    display_name: 20th Century Furniture V1 Carpet 1
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/carpet_1
+  20th_century_furniture_v1_carpet_2:
+    display_name: 20th Century Furniture V1 Carpet 2
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/carpet_2
+  20th_century_furniture_v1_chair:
+    display_name: 20th Century Furniture V1 Chair
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/chair
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_clock:
+    display_name: 20th Century Furniture V1 Clock
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/clock
+  20th_century_furniture_v1_cupboard:
+    display_name: 20th Century Furniture V1 Cupboard
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/cupboard
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_desk_lamp:
+    display_name: 20th Century Furniture V1 Desk Lamp
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/desk_lamp
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_fireplace:
+    display_name: 20th Century Furniture V1 Fireplace
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/fireplace
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_green_leather_sofa:
+    display_name: 20th Century Furniture V1 Green Leather Sofa
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/green_leather_sofa
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_mirror:
+    display_name: 20th Century Furniture V1 Mirror
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/mirror
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_nightstand:
+    display_name: 20th Century Furniture V1 Nightstand
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/nightstand
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_painting:
+    display_name: 20th Century Furniture V1 Painting
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/painting
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_piano:
+    display_name: 20th Century Furniture V1 Piano
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/piano
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_piano_top:
+    display_name: 20th Century Furniture V1 Piano Top
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/piano_top
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_radio:
+    display_name: 20th Century Furniture V1 Radio
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/radio
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_showcase:
+    display_name: 20th Century Furniture V1 Showcase
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/showcase
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_standing_lamp:
+    display_name: 20th Century Furniture V1 Standing Lamp
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/standing_lamp
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_table:
+    display_name: 20th Century Furniture V1 Table
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/table
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier
+  20th_century_furniture_v1_tabletop_small_lamp:
+    display_name: 20th Century Furniture V1 Tabletop Small Lamp
+    material: PAPER
+    Pack:
+      model: elitecreatures:20th_century_furniture_v1/tabletop_small_lamp
+    Mechanics:
+      furniture:
+        placeable_on:
+        - minecraft:barrier

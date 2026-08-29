@@ -1,0 +1,98 @@
+info:
+  namespace: stellar_vanguard
+items:
+  stellar_vanguard_axe:
+    display_name: Stellar Vanguard Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: stellar_vanguard_pack:axe
+  stellar_vanguard_battle_axe:
+    display_name: Stellar Vanguard Battle Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: stellar_vanguard_pack:battle_axe
+  stellar_vanguard_bow:
+    display_name: Stellar Vanguard Bow
+    material: BOW
+    Pack:
+      model: nexo:item/stellar_vanguard_bow
+  stellar_vanguard_chest:
+    display_name: Stellar Vanguard Chest
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:chest
+  stellar_vanguard_cosmetics_wings:
+    display_name: Stellar Vanguard Cosmetics Wings
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:wings_cosmetic
+  stellar_vanguard_cosmetics_wings_normal_2:
+    display_name: Stellar Vanguard Cosmetics Wings Normal 2
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:wings_cosmetic_normal_2
+  stellar_vanguard_cosmetics_wings_self:
+    display_name: Stellar Vanguard Cosmetics Wings Self
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:wings_cosmetic_self
+  stellar_vanguard_cosmetics_wings_self_2:
+    display_name: Stellar Vanguard Cosmetics Wings Self 2
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:wings_cosmetic_self_2
+  stellar_vanguard_fishing_rod:
+    display_name: Stellar Vanguard Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/stellar_vanguard_fishing_rod
+  stellar_vanguard_hoe:
+    display_name: Stellar Vanguard Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: stellar_vanguard_pack:hoe
+  stellar_vanguard_key:
+    display_name: Stellar Vanguard Key
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:key
+  stellar_vanguard_pickaxe:
+    display_name: Stellar Vanguard Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: stellar_vanguard_pack:pickaxe
+  stellar_vanguard_shield:
+    display_name: Stellar Vanguard Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/stellar_vanguard_shield
+  stellar_vanguard_shovel:
+    display_name: Stellar Vanguard Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: stellar_vanguard_pack:shovel
+  stellar_vanguard_sickle:
+    display_name: Stellar Vanguard Sickle
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:sickle
+  stellar_vanguard_spear:
+    display_name: Stellar Vanguard Spear
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:spear
+  stellar_vanguard_staff:
+    display_name: Stellar Vanguard Staff
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:staff
+  stellar_vanguard_sword:
+    display_name: Stellar Vanguard Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: stellar_vanguard_pack:sword
+  stellar_vanguard_wings:
+    display_name: Stellar Vanguard Wings
+    material: PAPER
+    Pack:
+      model: stellar_vanguard_pack:wings

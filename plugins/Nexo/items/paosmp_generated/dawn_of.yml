@@ -1,0 +1,140 @@
+info:
+  namespace: dawn_of
+items:
+  dawn_of_abyss_axe:
+    display_name: Dawn Of Abyss Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: dawn_of_abyss:axe
+  dawn_of_abyss_boots:
+    display_name: Dawn Of Abyss Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/dawn_of_abyss_boots
+    Components:
+      equippable:
+        slot: FEET
+  dawn_of_abyss_bow:
+    display_name: Dawn Of Abyss Bow
+    material: BOW
+    Pack:
+      model: nexo:item/dawn_of_abyss_bow
+  dawn_of_abyss_chest:
+    display_name: Dawn Of Abyss Chest
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:chest
+  dawn_of_abyss_chestplate:
+    display_name: Dawn Of Abyss Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/dawn_of_abyss_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  dawn_of_abyss_crossbow:
+    display_name: Dawn Of Abyss Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/dawn_of_abyss_crossbow
+  dawn_of_abyss_fishing_rod:
+    display_name: Dawn Of Abyss Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/dawn_of_abyss_fishing_rod
+  dawn_of_abyss_greatsword:
+    display_name: Dawn Of Abyss Greatsword
+    material: DIAMOND_SWORD
+    Pack:
+      model: dawn_of_abyss:greatsword
+  dawn_of_abyss_hammer:
+    display_name: Dawn Of Abyss Hammer
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:hammer
+  dawn_of_abyss_hat:
+    display_name: Dawn Of Abyss Hat
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:hat
+  dawn_of_abyss_helmet:
+    display_name: Dawn Of Abyss Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/dawn_of_abyss_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  dawn_of_abyss_hoe:
+    display_name: Dawn Of Abyss Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: dawn_of_abyss:hoe
+  dawn_of_abyss_key:
+    display_name: Dawn Of Abyss Key
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:key
+  dawn_of_abyss_leggings:
+    display_name: Dawn Of Abyss Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/dawn_of_abyss_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  dawn_of_abyss_pickaxe:
+    display_name: Dawn Of Abyss Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: dawn_of_abyss:pickaxe
+  dawn_of_abyss_rapier_sword:
+    display_name: Dawn Of Abyss Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: dawn_of_abyss:rapier_sword
+  dawn_of_abyss_scythe:
+    display_name: Dawn Of Abyss Scythe
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:scythe
+  dawn_of_abyss_shield:
+    display_name: Dawn Of Abyss Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/dawn_of_abyss_shield
+  dawn_of_abyss_shovel:
+    display_name: Dawn Of Abyss Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: dawn_of_abyss:shovel
+  dawn_of_abyss_spear:
+    display_name: Dawn Of Abyss Spear
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:spear
+  dawn_of_abyss_staff:
+    display_name: Dawn Of Abyss Staff
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:staff
+  dawn_of_abyss_sword:
+    display_name: Dawn Of Abyss Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: dawn_of_abyss:sword
+  dawn_of_abyss_trident:
+    display_name: Dawn Of Abyss Trident
+    material: TRIDENT
+    Pack:
+      model: dawn_of_abyss:trident
+  dawn_of_abyss_wing:
+    display_name: Dawn Of Abyss Wing
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:wing
+  dawn_of_abyss_wing_1:
+    display_name: Dawn Of Abyss Wing 1
+    material: PAPER
+    Pack:
+      model: dawn_of_abyss:wing_1

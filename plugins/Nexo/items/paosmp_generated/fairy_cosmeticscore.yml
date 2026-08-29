@@ -1,0 +1,18 @@
+info:
+  namespace: fairy_cosmeticscore
+items:
+  fairy_cosmeticscore_head:
+    display_name: Fairy Cosmeticscore Head
+    material: PAPER
+    Pack:
+      model: fairyset:helmet
+  fairy_cosmeticscore_wing:
+    display_name: Fairy Cosmeticscore Wing
+    material: PAPER
+    Pack:
+      model: fairyset:wings_cosmeticscore
+  fairy_cosmeticscore_wing_self:
+    display_name: Fairy Cosmeticscore Wing Self
+    material: PAPER
+    Pack:
+      model: fairyset:wings_cosmeticscore_self

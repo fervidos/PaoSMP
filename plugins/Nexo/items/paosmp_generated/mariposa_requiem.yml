@@ -1,0 +1,140 @@
+info:
+  namespace: mariposa_requiem
+items:
+  mariposa_requiem_axe:
+    display_name: Mariposa Requiem Axe
+    material: DIAMOND_AXE
+    Pack:
+      model: mariposa_requiem:axe
+  mariposa_requiem_boots:
+    display_name: Mariposa Requiem Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/mariposa_requiem_boots
+    Components:
+      equippable:
+        slot: FEET
+  mariposa_requiem_bow:
+    display_name: Mariposa Requiem Bow
+    material: BOW
+    Pack:
+      model: nexo:item/mariposa_requiem_bow
+  mariposa_requiem_chest:
+    display_name: Mariposa Requiem Chest
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:chest
+  mariposa_requiem_chestplate:
+    display_name: Mariposa Requiem Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/mariposa_requiem_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  mariposa_requiem_crossbow:
+    display_name: Mariposa Requiem Crossbow
+    material: CROSSBOW
+    Pack:
+      model: nexo:item/mariposa_requiem_crossbow
+  mariposa_requiem_dagger:
+    display_name: Mariposa Requiem Dagger
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:dagger
+  mariposa_requiem_fishing_rod:
+    display_name: Mariposa Requiem Fishing Rod
+    material: FISHING_ROD
+    Pack:
+      model: nexo:item/mariposa_requiem_fishing_rod
+  mariposa_requiem_hammer:
+    display_name: Mariposa Requiem Hammer
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:hammer
+  mariposa_requiem_hat:
+    display_name: Mariposa Requiem Hat
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:hat
+  mariposa_requiem_helmet:
+    display_name: Mariposa Requiem Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/mariposa_requiem_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  mariposa_requiem_hoe:
+    display_name: Mariposa Requiem Hoe
+    material: DIAMOND_HOE
+    Pack:
+      model: mariposa_requiem:hoe
+  mariposa_requiem_key:
+    display_name: Mariposa Requiem Key
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:key
+  mariposa_requiem_leggings:
+    display_name: Mariposa Requiem Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/mariposa_requiem_leggings
+    Components:
+      equippable:
+        slot: LEGS
+  mariposa_requiem_pickaxe:
+    display_name: Mariposa Requiem Pickaxe
+    material: DIAMOND_PICKAXE
+    Pack:
+      model: mariposa_requiem:pickaxe
+  mariposa_requiem_rapier_sword:
+    display_name: Mariposa Requiem Rapier Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: mariposa_requiem:rapier_sword
+  mariposa_requiem_scythe:
+    display_name: Mariposa Requiem Scythe
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:scythe
+  mariposa_requiem_shield:
+    display_name: Mariposa Requiem Shield
+    material: SHIELD
+    Pack:
+      model: nexo:item/mariposa_requiem_shield
+  mariposa_requiem_shovel:
+    display_name: Mariposa Requiem Shovel
+    material: DIAMOND_SHOVEL
+    Pack:
+      model: mariposa_requiem:shovel
+  mariposa_requiem_spear:
+    display_name: Mariposa Requiem Spear
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:spear
+  mariposa_requiem_staff:
+    display_name: Mariposa Requiem Staff
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:staff
+  mariposa_requiem_sword:
+    display_name: Mariposa Requiem Sword
+    material: DIAMOND_SWORD
+    Pack:
+      model: mariposa_requiem:sword
+  mariposa_requiem_trident:
+    display_name: Mariposa Requiem Trident
+    material: TRIDENT
+    Pack:
+      model: mariposa_requiem:trident
+  mariposa_requiem_wing:
+    display_name: Mariposa Requiem Wing
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:wing
+  mariposa_requiem_wing_1:
+    display_name: Mariposa Requiem Wing 1
+    material: PAPER
+    Pack:
+      model: mariposa_requiem:wing_1

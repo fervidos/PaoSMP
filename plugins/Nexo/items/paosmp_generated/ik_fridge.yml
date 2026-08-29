@@ -1,0 +1,18 @@
+info:
+  namespace: ik_fridge
+items:
+  ik_fridge:
+    display_name: Ik Fridge
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_fridge
+  ik_fridge_white:
+    display_name: Ik Fridge White
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_fridge_white
+  ik_fridge_with_dish:
+    display_name: Ik Fridge With Dish
+    material: PAPER
+    Pack:
+      model: elitecreatures:industrial_kitchen_v1/ik_fridge_with_dish

@@ -1,0 +1,50 @@
+info:
+  namespace: gold_cyber
+items:
+  gold_cyber_boots:
+    display_name: Gold Cyber Boots
+    material: LEATHER_BOOTS
+    Pack:
+      model: nexo:item/gold_cyber_boots
+    Components:
+      equippable:
+        slot: FEET
+  gold_cyber_chestplate:
+    display_name: Gold Cyber Chestplate
+    material: LEATHER_CHESTPLATE
+    Pack:
+      model: nexo:item/gold_cyber_chestplate
+    Components:
+      equippable:
+        slot: CHEST
+  gold_cyber_crate:
+    display_name: Gold Cyber Crate
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/gold/cyber_crate
+  gold_cyber_crate_open:
+    display_name: Gold Cyber Crate Open
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/gold/cyber_crate_open
+  gold_cyber_helmet:
+    display_name: Gold Cyber Helmet
+    material: LEATHER_HELMET
+    Pack:
+      model: nexo:item/gold_cyber_helmet
+    Components:
+      equippable:
+        slot: HEAD
+  gold_cyber_key:
+    display_name: Gold Cyber Key
+    material: PAPER
+    Pack:
+      model: jeqo:cyber_set/gold/cyber_key
+  gold_cyber_leggings:
+    display_name: Gold Cyber Leggings
+    material: LEATHER_LEGGINGS
+    Pack:
+      model: nexo:item/gold_cyber_leggings
+    Components:
+      equippable:
+        slot: LEGS
